@@ -1,14 +1,19 @@
+import os
 import json
 import uvicorn
 import sentry_sdk
 import pandas as pd
 from typing import Optional
+
 from fastapi import FastAPI
+from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware 
 
+load_dotenv() 
 
 sentry_sdk.init(
-    dsn="https://0933934adeab493a8d6259431a1e2050@o1061710.ingest.sentry.io/4505097382330368",
+  dsn=os.environ['SENTRY_DSN'],
+    environment=os.environ['SENTRY_ENVIRONMENT'],
     traces_sample_rate=1.0,
     )
 
