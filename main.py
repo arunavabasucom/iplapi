@@ -1,9 +1,33 @@
 import json
+import uvicorn
+import sentry_sdk
 import pandas as pd
 from typing import Optional
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware 
+
+
+sentry_sdk.init(
+    dsn="https://0933934adeab493a8d6259431a1e2050@o1061710.ingest.sentry.io/4505097382330368",
+    traces_sample_rate=1.0,
+    )
+
+
 
 app = FastAPI()
+origins = ['*']
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+) 
+
+@app.get("/")
+async def root():
+    return {"message": "Hello World"} 
 
 @app.get("/match")
 async def match_data(team:Optional[str] = None,city:Optional[str] = None,winner:Optional[str] = None):
@@ -33,4 +57,5 @@ async def match_data(team:Optional[str] = None,city:Optional[str] = None,winner:
     data = json.loads(json_data) 
     return data
 
-
+if __name__ == "__main__":
+    uvicorn.run(app, host='0.0.0.0', port=8000)
