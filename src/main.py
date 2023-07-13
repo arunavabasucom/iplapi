@@ -3,9 +3,8 @@ import uvicorn
 import sentry_sdk
 from fastapi import FastAPI
 from dotenv import load_dotenv
-from routes import match , root
+from src.routes import match , root
 from fastapi.middleware.cors import CORSMiddleware 
-
 '''
 loading environment variables
 '''
