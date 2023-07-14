@@ -11,7 +11,7 @@ async def match_data(
     winner: str = Query(None, description="Winner name")
 ):
     # loading the csv as a dataframe
-    df = pd.read_csv("data/IPL Matches 2008-2020.csv")
+    df = pd.read_csv("src/data/IPL Matches 2008-2020.csv")
     # apply filters
     filtered_data = apply_filters(df, team, city, winner)
     # converting json
