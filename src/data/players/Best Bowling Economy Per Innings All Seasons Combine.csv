@@ -1,0 +1,2101 @@
+,Player,Ov,Runs,Wkts,Dots,Econ,SR,Against,Venue,Match Date
+0,Mohammad Hafeez,4.0,8,1,14,2.0,24.0,DEC,Eden Gardens,20 April 2008
+1,Ishant Sharma,4.0,9,2,14,2.25,12.0,RCB,M. Chinnaswamy Stadium,18 April 2008
+2,Brett Lee,4.0,9,1,17,2.25,24.0,MI,IS Bindra Stadium,25 April 2008
+3,Shaun Pollock,4.0,9,1,17,2.25,24.0,CSK,Wankhede Stadium,14 May 2008
+4,Dominic Thornely,3.0,7,2,12,2.33,9.0,KKR,Wankhede Stadium,16 May 2008
+5,Sourav Ganguly,3.0,7,1,10,2.33,18.0,RCB,Eden Gardens,08 May 2008
+6,Sohail Tanvir,4.0,10,3,18,2.5,8.0,RCB,Sawai Mansingh Stadium,17 May 2008
+7,Irfan Pathan,4.0,10,1,17,2.5,24.0,RR,IS Bindra Stadium,28 May 2008
+8,Siddharth Trivedi,3.0,8,1,10,2.66,18.0,DEC,Sawai Mansingh Stadium,09 May 2008
+9,Manpreet Gony,4.0,11,2,13,2.75,12.0,RCB,Chidambaram,21 May 2008
+10,MF Maharoof,4.0,11,2,10,2.75,12.0,RR,Arun Jaitley Stadium,19 April 2008
+11,Shaun Pollock,4.0,12,3,17,3.0,8.0,KKR,Wankhede Stadium,16 May 2008
+12,Chaminda Vaas,3.0,9,2,11,3.0,9.0,KKR,Eden Gardens,20 April 2008
+13,Ishant Sharma,3.0,9,1,12,3.0,18.0,DEC,Eden Gardens,20 April 2008
+14,Ashok Dinda,4.0,12,1,15,3.0,24.0,MI,Eden Gardens,29 April 2008
+15,Yusuf Pathan,3.0,9,0,10,3.0,0.0,MI,Sawai Mansingh Stadium,26 May 2008
+16,Muttiah Muralitharan,4.0,12,0,14,3.0,0.0,KKR,Chidambaram,26 April 2008
+17,Glenn McGrath,4.0,12,0,16,3.0,0.0,RR,Sawai Mansingh Stadium,11 May 2008
+18,Shane Watson,2.0,6,0,7,3.0,0.0,RCB,Sawai Mansingh Stadium,17 May 2008
+19,MF Maharoof,4.0,13,2,11,3.25,12.0,RCB,M. Chinnaswamy Stadium,19 May 2008
+20,Shane Watson,3.0,10,3,12,3.33,6.0,DC,Wankhede Stadium,30 May 2008
+21,Sohail Tanvir,4.0,14,6,16,3.5,4.0,CSK,Sawai Mansingh Stadium,04 May 2008
+22,Sohail Tanvir,4.0,14,4,15,3.5,6.0,MI,Sawai Mansingh Stadium,26 May 2008
+23,Sanath Jayasuriya,4.0,14,3,14,3.5,8.0,KKR,Eden Gardens,29 April 2008
+24,Anil Kumble,4.0,14,3,13,3.5,8.0,CSK,Chidambaram,21 May 2008
+25,Manpreet Gony,4.0,14,2,16,3.5,12.0,PBKS,Wankhede Stadium,31 May 2008
+26,Ashok Dinda,2.0,7,1,7,3.5,12.0,RCB,M. Chinnaswamy Stadium,18 April 2008
+27,Dale Steyn,4.0,14,1,17,3.5,24.0,MI,M. Chinnaswamy Stadium,28 May 2008
+28,Shoaib Akhtar,3.0,11,4,12,3.66,4.5,DC,Eden Gardens,13 May 2008
+29,Glenn McGrath,4.0,15,2,16,3.75,12.0,RCB,M. Chinnaswamy Stadium,19 May 2008
+30,RP Singh,4.0,15,2,14,3.75,12.0,MI,DY Patil Stadium,27 April 2008
+31,Vikram Singh,4.0,15,1,10,3.75,24.0,RCB,IS Bindra Stadium,12 May 2008
+32,Jacques Kallis,4.0,15,0,13,3.75,0.0,CSK,Chidambaram,21 May 2008
+33,Irfan Pathan,3.2,13,1,14,3.9,20.0,RCB,M. Chinnaswamy Stadium,05 May 2008
+34,Shanthakumaran Sreesanth,4.0,16,2,17,4.0,12.0,RCB,M. Chinnaswamy Stadium,05 May 2008
+35,Munaf Patel,4.0,16,2,12,4.0,12.0,CSK,Sawai Mansingh Stadium,04 May 2008
+36,Piyush Chawla,4.0,16,2,15,4.0,12.0,MI,IS Bindra Stadium,25 April 2008
+37,RP Singh,3.0,12,2,10,4.0,9.0,CSK,Chidambaram,06 May 2008
+38,Shaun Pollock,4.0,16,2,15,4.0,12.0,DC,DY Patil Stadium,04 May 2008
+39,Dale Steyn,4.0,16,0,14,4.0,0.0,PBKS,M. Chinnaswamy Stadium,05 May 2008
+40,Sanath Jayasuriya,2.0,8,0,5,4.0,0.0,RR,Sawai Mansingh Stadium,26 May 2008
+41,Sohail Tanvir,3.1,13,0,13,4.1,0.0,MI,DY Patil Stadium,07 May 2008
+42,Amit Mishra,4.0,17,5,11,4.25,4.8,DEC,Arun Jaitley Stadium,15 May 2008
+43,Munaf Patel,4.0,17,3,16,4.25,8.0,DC,Wankhede Stadium,30 May 2008
+44,Zaheer Khan,4.0,17,2,13,4.25,12.0,MI,Wankhede Stadium,20 April 2008
+45,Rajat Bhatia,4.0,17,2,12,4.25,12.0,RR,Arun Jaitley Stadium,19 April 2008
+46,Shaun Pollock,4.0,17,0,10,4.25,0.0,RCB,Wankhede Stadium,20 April 2008
+47,Manpreet Gony,4.0,17,0,13,4.25,0.0,KKR,Eden Gardens,18 May 2008
+48,Ashish Nehra,3.0,13,3,12,4.33,6.0,RR,DY Patil Stadium,07 May 2008
+49,Dwayne Bravo,3.0,13,2,12,4.33,9.0,KKR,Wankhede Stadium,16 May 2008
+50,Amit Mishra,3.0,13,0,7,4.33,0.0,KKR,Eden Gardens,13 May 2008
+51,Dilhara Fernando,4.0,18,4,16,4.5,6.0,RCB,M. Chinnaswamy Stadium,28 May 2008
+52,Pragyan Ojha,4.0,18,2,11,4.5,12.0,KKR,Eden Gardens,20 April 2008
+53,Anil Kumble,4.0,18,2,12,4.5,12.0,DC,M. Chinnaswamy Stadium,19 May 2008
+54,Irfan Pathan,4.0,18,2,15,4.5,12.0,KKR,IS Bindra Stadium,03 May 2008
+55,Manpreet Gony,4.0,18,1,14,4.5,24.0,MI,Chidambaram,23 April 2008
+56,Yusuf Pathan,2.0,9,0,6,4.5,0.0,CSK,Sawai Mansingh Stadium,04 May 2008
+57,Lakshmipathy Balaji,2.0,9,0,9,4.5,0.0,MI,Wankhede Stadium,14 May 2008
+58,Murali Kartik,3.4,17,3,14,4.63,7.33,DEC,Eden Gardens,20 April 2008
+59,Shaun Pollock,3.0,14,1,10,4.66,18.0,PBKS,Wankhede Stadium,21 May 2008
+60,Jacques Kallis,3.0,14,0,5,4.66,0.0,PBKS,M. Chinnaswamy Stadium,05 May 2008
+61,Shane Warne,4.0,19,3,11,4.75,8.0,PBKS,Sawai Mansingh Stadium,21 April 2008
+62,Dale Steyn,4.0,19,2,12,4.75,12.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,25 May 2008
+63,Mohammad Asif,4.0,19,2,16,4.75,12.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,22 April 2008
+64,Irfan Pathan,4.0,19,2,15,4.75,12.0,MI,IS Bindra Stadium,25 April 2008
+65,Daniel Vettori,4.0,19,1,8,4.75,24.0,RCB,Arun Jaitley Stadium,30 April 2008
+66,Muttiah Muralitharan,4.0,19,1,12,4.75,24.0,PBKS,Wankhede Stadium,31 May 2008
+67,Shane Watson,4.0,19,1,17,4.75,24.0,CSK,Sawai Mansingh Stadium,04 May 2008
+68,Muttiah Muralitharan,4.0,19,1,11,4.75,24.0,RCB,Chidambaram,21 May 2008
+69,Scott Styris,4.0,19,0,14,4.75,0.0,KKR,Eden Gardens,20 April 2008
+70,Shane Warne,4.0,20,2,9,5.0,12.0,DEC,Sawai Mansingh Stadium,09 May 2008
+71,Shane Watson,4.0,20,2,15,5.0,12.0,RCB,M. Chinnaswamy Stadium,26 April 2008
+72,Muttiah Muralitharan,4.0,20,1,13,5.0,24.0,RR,Sawai Mansingh Stadium,04 May 2008
+73,Manpreet Gony,3.0,15,1,9,5.0,18.0,DEC,Chidambaram,06 May 2008
+74,RP Singh,3.0,15,1,9,5.0,18.0,KKR,Eden Gardens,20 April 2008
+75,Ramesh Powar,4.0,20,1,12,5.0,24.0,DEC,IS Bindra Stadium,23 May 2008
+76,RP Singh,3.0,15,0,9,5.0,0.0,RCB,Rajiv Gandhi Intl. Cricket Stadium,25 May 2008
+77,Ashok Dinda,2.0,10,0,5,5.0,0.0,CSK,Eden Gardens,18 May 2008
+78,Dhawal Kulkarni,3.0,15,0,7,5.0,0.0,KKR,Eden Gardens,29 April 2008
+79,Shahid Afridi,2.0,10,0,5,5.0,0.0,RR,Sawai Mansingh Stadium,09 May 2008
+80,Vinay Kumar,3.0,15,0,8,5.0,0.0,KKR,Eden Gardens,08 May 2008
+81,Dale Steyn,4.0,20,0,13,5.0,0.0,DEC,M. Chinnaswamy Stadium,03 May 2008
+82,Sunil Joshi,2.0,10,0,5,5.0,0.0,MI,Wankhede Stadium,20 April 2008
+83,Dwayne Bravo,2.2,12,2,6,5.14,7.0,RR,DY Patil Stadium,07 May 2008
+84,Makhaya Ntini,4.0,21,4,14,5.25,6.0,KKR,Eden Gardens,18 May 2008
+85,Shane Watson,4.0,21,2,11,5.25,12.0,DC,Sawai Mansingh Stadium,11 May 2008
+86,Shane Warne,4.0,21,2,11,5.25,12.0,DC,Wankhede Stadium,30 May 2008
+87,Munaf Patel,4.0,21,2,12,5.25,12.0,RCB,Sawai Mansingh Stadium,17 May 2008
+88,Sourav Ganguly,4.0,21,2,11,5.25,12.0,RCB,M. Chinnaswamy Stadium,18 April 2008
+89,Glenn McGrath,4.0,21,1,11,5.25,24.0,CSK,Chidambaram,02 May 2008
+90,Irfan Pathan,4.0,21,1,11,5.25,24.0,RR,Sawai Mansingh Stadium,21 April 2008
+91,Glenn McGrath,4.0,21,1,16,5.25,24.0,RR,Arun Jaitley Stadium,19 April 2008
+92,Pradeep Sangwan,4.0,21,1,9,5.25,24.0,MI,DY Patil Stadium,04 May 2008
+93,Manpreet Gony,4.0,21,1,12,5.25,24.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,27 May 2008
+94,Makhaya Ntini,4.0,21,0,11,5.25,0.0,RR,DY Patil Stadium,01 June 2008
+95,Scott Styris,3.0,16,0,6,5.33,0.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,27 May 2008
+96,Yusuf Pathan,4.0,22,3,10,5.5,8.0,CSK,DY Patil Stadium,01 June 2008
+97,Praveen Kumar,4.0,22,2,13,5.5,12.0,PBKS,M. Chinnaswamy Stadium,05 May 2008
+98,Munaf Patel,4.0,22,2,14,5.5,12.0,KKR,Eden Gardens,20 May 2008
+99,Vinay Kumar,2.0,11,1,6,5.5,12.0,PBKS,IS Bindra Stadium,12 May 2008
+100,Muttiah Muralitharan,4.0,22,1,8,5.5,24.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,27 May 2008
+101,Pragyan Ojha,4.0,22,1,10,5.5,24.0,CSK,Chidambaram,06 May 2008
+102,MF Maharoof,4.0,22,1,13,5.5,24.0,RR,Sawai Mansingh Stadium,11 May 2008
+103,Piyush Chawla,4.0,22,1,13,5.5,24.0,MI,Wankhede Stadium,21 May 2008
+104,Yuvraj Singh,2.0,11,1,5,5.5,12.0,DC,IS Bindra Stadium,27 April 2008
+105,Glenn McGrath,4.0,22,0,15,5.5,0.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,22 April 2008
+106,Anil Kumble,4.0,22,0,10,5.5,0.0,RR,M. Chinnaswamy Stadium,26 April 2008
+107,Glenn McGrath,4.0,22,0,8,5.5,0.0,KKR,Eden Gardens,13 May 2008
+108,Praveen Kumar,2.4,15,0,6,5.62,0.0,PBKS,IS Bindra Stadium,12 May 2008
+109,Balachandra Akhil,3.0,17,2,6,5.66,9.0,MI,Wankhede Stadium,20 April 2008
+110,Paidikalva Vijaykumar,3.0,17,1,11,5.66,18.0,CSK,Chidambaram,06 May 2008
+111,Makhaya Ntini,3.0,17,0,9,5.66,0.0,RR,Sawai Mansingh Stadium,04 May 2008
+112,Ashish Nehra,3.0,17,0,11,5.66,0.0,KKR,Wankhede Stadium,16 May 2008
+113,Umar Gul,4.0,23,4,13,5.75,6.0,PBKS,Eden Gardens,25 May 2008
+114,Shane Warne,4.0,23,3,9,5.75,8.0,RCB,Sawai Mansingh Stadium,17 May 2008
+115,Praveen Kumar,4.0,23,3,11,5.75,8.0,DEC,M. Chinnaswamy Stadium,03 May 2008
+116,Shahid Afridi,4.0,23,2,9,5.75,12.0,MI,Rajiv Gandhi Intl. Cricket Stadium,18 May 2008
+117,Makhaya Ntini,4.0,23,2,14,5.75,12.0,PBKS,Wankhede Stadium,31 May 2008
+118,Shane Warne,4.0,23,1,14,5.75,24.0,RCB,M. Chinnaswamy Stadium,26 April 2008
+119,Ajit Agarkar,4.0,23,1,13,5.75,24.0,MI,Eden Gardens,29 April 2008
+120,Shahid Afridi,4.0,23,1,6,5.75,24.0,RCB,M. Chinnaswamy Stadium,03 May 2008
+121,Yo Mahesh,4.0,23,1,9,5.75,24.0,PBKS,IS Bindra Stadium,27 April 2008
+122,Irfan Pathan,4.0,23,1,9,5.75,24.0,RCB,IS Bindra Stadium,12 May 2008
+123,Glenn McGrath,4.0,23,0,8,5.75,0.0,CSK,Arun Jaitley Stadium,08 May 2008
+124,Pragyan Ojha,4.0,23,0,8,5.75,0.0,MI,Rajiv Gandhi Intl. Cricket Stadium,18 May 2008
+125,Shaun Pollock,4.0,23,0,9,5.75,0.0,RCB,M. Chinnaswamy Stadium,28 May 2008
+126,Sourav Ganguly,4.0,23,0,8,5.75,0.0,DC,Eden Gardens,13 May 2008
+127,Lakshmipathy Balaji,4.0,24,5,12,6.0,4.8,PBKS,Chidambaram,10 May 2008
+128,Dwayne Bravo,4.0,24,3,12,6.0,8.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,18 May 2008
+129,Zaheer Khan,4.0,24,2,9,6.0,12.0,DEC,M. Chinnaswamy Stadium,03 May 2008
+130,Yuvraj Singh,2.0,12,2,5,6.0,6.0,MI,Wankhede Stadium,21 May 2008
+131,Irfan Pathan,4.0,24,1,13,6.0,24.0,CSK,Wankhede Stadium,31 May 2008
+132,Abhishek Nayar,3.0,18,1,8,6.0,18.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,18 May 2008
+133,Ajantha Mendis,4.0,24,1,9,6.0,24.0,PBKS,Eden Gardens,25 May 2008
+134,RP Singh,4.0,24,1,13,6.0,24.0,RR,Sawai Mansingh Stadium,09 May 2008
+135,Zaheer Khan,4.0,24,1,14,6.0,24.0,RR,M. Chinnaswamy Stadium,26 April 2008
+136,Makhaya Ntini,4.0,24,1,12,6.0,24.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,27 May 2008
+137,Muttiah Muralitharan,4.0,24,1,11,6.0,24.0,DEC,Chidambaram,06 May 2008
+138,Ashok Dinda,3.0,18,1,9,6.0,18.0,DEC,Eden Gardens,20 April 2008
+139,Paidikalva Vijaykumar,4.0,24,1,11,6.0,24.0,DC,Arun Jaitley Stadium,15 May 2008
+140,Praveen Kumar,4.0,24,0,7,6.0,0.0,DC,Arun Jaitley Stadium,30 April 2008
+141,Paidikalva Vijaykumar,3.0,18,0,8,6.0,0.0,RCB,M. Chinnaswamy Stadium,03 May 2008
+142,Venugopal Rao,4.0,24,0,10,6.0,0.0,KKR,Rajiv Gandhi Intl. Cricket Stadium,11 May 2008
+143,Ashish Nehra,3.0,18,0,10,6.0,0.0,RR,Sawai Mansingh Stadium,26 May 2008
+144,Munaf Patel,4.0,24,0,8,6.0,0.0,DC,Sawai Mansingh Stadium,11 May 2008
+145,Ishant Sharma,3.0,18,0,6,6.0,0.0,DC,Eden Gardens,13 May 2008
+146,Piyush Chawla,4.0,25,3,12,6.25,8.0,RCB,M. Chinnaswamy Stadium,05 May 2008
+147,Ashish Nehra,4.0,25,3,10,6.25,8.0,DC,DY Patil Stadium,04 May 2008
+148,Ajit Agarkar,4.0,25,3,15,6.25,8.0,RCB,M. Chinnaswamy Stadium,18 April 2008
+149,Albie Morkel,4.0,25,2,9,6.25,12.0,RR,DY Patil Stadium,01 June 2008
+150,Anil Kumble,3.1,5,5,13,1.57,3.8,RR,Newlands,18 April 2009
+151,Muttiah Muralitharan,4.0,8,2,16,2.0,12.0,PBKS,Kingsmead,20 May 2009
+152,Amit Singh,4.0,9,3,15,2.25,8.0,PBKS,Kingsmead,05 May 2009
+153,Harbhajan Singh,4.0,9,1,15,2.25,24.0,PBKS,Supersport Park,12 May 2009
+154,Praveen Kumar,3.0,7,2,15,2.33,9.0,RR,Newlands,18 April 2009
+155,Muttiah Muralitharan,4.0,11,3,16,2.75,8.0,RCB,St George's Park,20 April 2009
+156,Rohit Sharma,2.0,6,4,6,3.0,3.0,MI,Supersport Park,06 May 2009
+157,Anil Kumble,4.0,12,2,14,3.0,12.0,CSK,Kingsmead,14 May 2009
+158,Lasith Malinga,4.0,12,2,12,3.0,12.0,PBKS,Kingsmead,29 April 2009
+159,Murali Kartik,4.0,12,1,14,3.0,24.0,DEC,New Wanderers Stadium,16 May 2009
+160,Ashok Dinda,4.0,12,0,17,3.0,0.0,RR,Kingsmead,20 May 2009
+161,Dale Steyn,2.0,6,0,9,3.0,0.0,RR,Newlands,18 April 2009
+162,Dhawal Kulkarni,3.0,9,0,9,3.0,0.0,DC,Buffalo Park,08 May 2009
+163,Yuvraj Singh,4.0,13,3,15,3.25,8.0,DEC,New Wanderers Stadium,17 May 2009
+164,Albie Morkel,4.0,13,2,16,3.25,12.0,RCB,Kingsmead,14 May 2009
+165,Ravichandran Ashwin,4.0,13,2,11,3.25,12.0,PBKS,Kingsmead,20 May 2009
+166,Amit Mishra,4.0,14,3,15,3.5,8.0,KKR,New Wanderers Stadium,10 May 2009
+167,Pragyan Ojha,4.0,14,2,13,3.5,12.0,KKR,Newlands,19 April 2009
+168,Munaf Patel,4.0,14,2,19,3.5,12.0,KKR,Kingsmead,20 May 2009
+169,Tirumalasetti Suman,4.0,14,2,11,3.5,12.0,MI,Supersport Park,06 May 2009
+170,Munaf Patel,4.0,14,2,14,3.5,12.0,DC,Supersport Park,28 April 2009
+171,Jesse Ryder,4.0,14,2,14,3.5,12.0,RR,Newlands,18 April 2009
+172,Muttiah Muralitharan,3.0,11,2,11,3.66,9.0,DEC,Buffalo Park,04 May 2009
+173,Andrew Flintoff,3.0,11,1,10,3.66,18.0,RCB,St George's Park,20 April 2009
+174,Charl Langeveldt,4.0,15,3,16,3.75,8.0,RR,Kingsmead,20 May 2009
+175,Ravindra Jadeja,4.0,15,3,10,3.75,8.0,RCB,Supersport Park,07 May 2009
+176,Lasith Malinga,4.0,15,3,13,3.75,8.0,CSK,Newlands,18 April 2009
+177,Brett Lee,4.0,15,3,17,3.75,8.0,DC,OUTsurance Oval,15 May 2009
+178,Harbhajan Singh,4.0,15,2,10,3.75,12.0,RCB,St George's Park,10 May 2009
+179,Ishant Sharma,4.0,15,2,14,3.75,12.0,RCB,Kingsmead,29 April 2009
+180,Kamran Khan,4.0,15,2,14,3.75,12.0,PBKS,Newlands,26 April 2009
+181,JP Duminy,4.0,15,2,13,3.75,12.0,PBKS,Supersport Park,12 May 2009
+182,Ishant Sharma,4.0,15,2,14,3.75,12.0,RCB,Kingsmead,29 April 2009
+183,Ajit Agarkar,4.0,15,2,15,3.75,12.0,RR,Kingsmead,20 May 2009
+184,JP Duminy,4.0,15,1,11,3.75,24.0,DC,Buffalo Park,08 May 2009
+185,Andrew Symonds,4.0,15,1,10,3.75,24.0,RCB,Supersport Park,21 May 2009
+186,Muttiah Muralitharan,4.0,15,1,13,3.75,24.0,RCB,New Wanderers Stadium,23 May 2009
+187,Anil Kumble,4.0,16,4,12,4.0,6.0,DEC,New Wanderers Stadium,24 May 2009
+188,Rohit Sharma,3.0,12,3,6,4.0,6.0,RR,De Beers Diamond Oval,11 May 2009
+189,Anil Kumble,4.0,16,2,12,4.0,12.0,KKR,Kingsmead,29 April 2009
+190,RP Singh,4.0,16,1,11,4.0,24.0,RCB,New Wanderers Stadium,24 May 2009
+191,Venugopal Rao,2.0,8,1,4,4.0,12.0,PBKS,New Wanderers Stadium,17 May 2009
+192,Wilkin Mota,2.0,8,1,4,4.0,12.0,CSK,Kingsmead,20 May 2009
+193,Muttiah Muralitharan,4.0,16,1,15,4.0,24.0,KKR,Supersport Park,18 May 2009
+194,Brett Lee,4.0,16,0,14,4.0,0.0,CSK,Kingsmead,20 May 2009
+195,Ramesh Powar,2.0,8,0,6,4.0,0.0,KKR,St George's Park,03 May 2009
+196,Sudeep Tyagi,2.0,8,0,7,4.0,0.0,RR,Supersport Park,30 April 2009
+197,Piyush Chawla,2.0,8,0,6,4.0,0.0,KKR,Kingsmead,21 April 2009
+198,Suresh Raina,2.0,8,0,2,4.0,0.0,PBKS,Supersport Park,07 May 2009
+199,Irfan Pathan,3.2,14,0,10,4.2,0.0,MI,Supersport Park,12 May 2009
+200,Harbhajan Singh,4.0,17,4,12,4.25,6.0,DC,Supersport Park,21 May 2009
+201,Suresh Raina,4.0,17,2,11,4.25,12.0,PBKS,Kingsmead,20 May 2009
+202,RP Singh,4.0,17,2,13,4.25,12.0,RCB,Newlands,22 April 2009
+203,Muttiah Muralitharan,4.0,17,1,11,4.25,24.0,DEC,Kingsmead,27 April 2009
+204,Jacques Kallis,4.0,17,1,11,4.25,24.0,DC,New Wanderers Stadium,19 May 2009
+205,Abhishek Nayar,3.0,13,3,8,4.33,6.0,KKR,St George's Park,27 April 2009
+206,Lakshmipathy Balaji,3.0,13,1,6,4.33,18.0,RR,De Beers Diamond Oval,09 May 2009
+207,Ishant Sharma,3.0,13,0,13,4.33,0.0,DEC,Newlands,19 April 2009
+208,Ishant Sharma,3.0,13,0,13,4.33,0.0,DEC,Newlands,19 April 2009
+209,Kamran Khan,4.0,18,3,10,4.5,8.0,KKR,Newlands,23 April 2009
+210,Balachandra Akhil,4.0,18,2,8,4.5,12.0,DEC,Supersport Park,21 May 2009
+211,Suresh Raina,4.0,18,2,10,4.5,12.0,DEC,Kingsmead,27 April 2009
+212,RP Singh,4.0,18,2,15,4.5,12.0,RR,St George's Park,02 May 2009
+213,Shane Warne,4.0,18,2,14,4.5,12.0,RCB,Newlands,18 April 2009
+214,Jacques Kallis,4.0,18,2,12,4.5,12.0,CSK,Kingsmead,14 May 2009
+215,Sudeep Tyagi,2.0,9,1,9,4.5,12.0,DEC,Buffalo Park,04 May 2009
+216,Amit Mishra,4.0,18,0,14,4.5,0.0,KKR,Kingsmead,05 May 2009
+217,Yuvraj Singh,2.0,9,0,6,4.5,0.0,RR,Newlands,26 April 2009
+218,JP Duminy,2.0,9,0,3,4.5,0.0,CSK,St George's Park,16 May 2009
+219,Murali Kartik,4.0,18,0,8,4.5,0.0,DC,Kingsmead,05 May 2009
+220,Manpreet Gony,2.0,9,0,6,4.5,0.0,PBKS,Kingsmead,20 May 2009
+221,Kevin Pietersen,3.0,14,1,7,4.66,18.0,CSK,St George's Park,20 April 2009
+222,Zaheer Khan,3.0,14,1,10,4.66,18.0,KKR,St George's Park,27 April 2009
+223,Lasith Malinga,2.2,11,3,9,4.71,4.66,KKR,St George's Park,27 April 2009
+224,Amit Singh,4.0,19,4,14,4.75,6.0,RCB,Supersport Park,07 May 2009
+225,Amit Mishra,4.0,19,3,13,4.75,8.0,DEC,Supersport Park,22 May 2009
+226,Lakshmipathy Balaji,4.0,19,3,12,4.75,8.0,DC,Kingsmead,23 April 2009
+227,Lasith Malinga,4.0,19,3,16,4.75,8.0,DEC,Kingsmead,25 April 2009
+228,Siddharth Trivedi,4.0,19,2,10,4.75,12.0,MI,Kingsmead,14 May 2009
+229,Chaminda Vaas,4.0,19,2,14,4.75,12.0,RR,De Beers Diamond Oval,11 May 2009
+230,Ajantha Mendis,4.0,19,2,9,4.75,12.0,RR,Newlands,23 April 2009
+231,Irfan Pathan,4.0,19,2,14,4.75,12.0,RCB,Kingsmead,01 May 2009
+232,Yusuf Abdulla,4.0,19,2,15,4.75,12.0,MI,Kingsmead,29 April 2009
+233,Johan Botha,4.0,19,2,13,4.75,12.0,KKR,Kingsmead,20 May 2009
+234,RP Singh,4.0,19,2,13,4.75,12.0,MI,Supersport Park,06 May 2009
+235,Amit Mishra,4.0,19,1,9,4.75,24.0,RCB,St George's Park,26 April 2009
+236,Ramesh Powar,4.0,19,1,9,4.75,24.0,CSK,Kingsmead,20 May 2009
+237,Lasith Malinga,4.0,19,1,13,4.75,24.0,CSK,St George's Park,16 May 2009
+238,Anil Kumble,4.0,19,1,7,4.75,24.0,PBKS,Kingsmead,24 April 2009
+239,Zaheer Khan,4.0,19,1,8,4.75,24.0,PBKS,Kingsmead,29 April 2009
+240,Yusuf Pathan,4.0,19,1,15,4.75,24.0,DEC,St George's Park,02 May 2009
+241,Piyush Chawla,4.0,19,1,11,4.75,24.0,RCB,Kingsmead,24 April 2009
+242,Muttiah Muralitharan,4.0,19,0,12,4.75,0.0,MI,St George's Park,16 May 2009
+243,Vikram Singh,4.0,19,0,9,4.75,0.0,RR,Newlands,26 April 2009
+244,Dimitri Mascarenhas,4.0,20,3,15,5.0,8.0,RCB,Newlands,18 April 2009
+245,Shoaib Ahmed,4.0,20,2,14,5.0,12.0,DC,Supersport Park,30 April 2009
+246,Ryan Harris,4.0,20,2,12,5.0,12.0,KKR,New Wanderers Stadium,16 May 2009
+247,Shanthakumaran Sreesanth,4.0,20,2,14,5.0,12.0,DC,OUTsurance Oval,15 May 2009
+248,Irfan Pathan,4.0,20,2,10,5.0,12.0,MI,Kingsmead,29 April 2009
+249,Jacques Kallis,4.0,20,1,12,5.0,24.0,RR,Supersport Park,07 May 2009
+250,Andrew Symonds,2.0,10,1,8,5.0,12.0,PBKS,New Wanderers Stadium,17 May 2009
+251,Harbhajan Singh,3.0,15,1,7,5.0,18.0,CSK,Newlands,18 April 2009
+252,Siddharth Trivedi,4.0,20,1,13,5.0,24.0,PBKS,Kingsmead,05 May 2009
+253,Praveen Kumar,3.0,15,0,10,5.0,0.0,MI,New Wanderers Stadium,03 May 2009
+254,Amit Mishra,4.0,20,0,12,5.0,0.0,MI,Buffalo Park,08 May 2009
+255,Ramesh Powar,2.0,10,0,2,5.0,0.0,RR,Newlands,26 April 2009
+256,Murali Kartik,4.0,20,0,9,5.0,0.0,DC,New Wanderers Stadium,10 May 2009
+257,Harmeet Singh Bansal,3.0,15,0,7,5.0,0.0,DC,Supersport Park,22 May 2009
+258,Sudeep Tyagi,2.0,10,0,6,5.0,0.0,PBKS,Supersport Park,07 May 2009
+259,Shanthakumaran Sreesanth,2.0,10,0,8,5.0,0.0,DEC,New Wanderers Stadium,17 May 2009
+260,KP Appanna,2.0,10,0,4,5.0,0.0,PBKS,Kingsmead,01 May 2009
+261,Laxmi Ratan Shukla,4.0,20,0,13,5.0,0.0,RR,Kingsmead,20 May 2009
+262,Piyush Chawla,4.0,20,0,11,5.0,0.0,DEC,New Wanderers Stadium,17 May 2009
+263,Chris Gayle,4.0,20,0,7,5.0,0.0,RR,Newlands,23 April 2009
+264,Tyron Henderson,2.0,10,0,5,5.0,0.0,KKR,Kingsmead,20 May 2009
+265,Morne Morkel,4.0,20,0,12,5.0,0.0,RCB,Supersport Park,07 May 2009
+266,Pragyan Ojha,4.0,21,3,10,5.25,8.0,MI,Kingsmead,25 April 2009
+267,Yusuf Abdulla,4.0,21,3,14,5.25,8.0,RR,Newlands,26 April 2009
+268,Albie Morkel,4.0,21,2,10,5.25,12.0,RR,Supersport Park,30 April 2009
+269,Dhawal Kulkarni,4.0,21,1,13,5.25,24.0,DEC,Supersport Park,06 May 2009
+270,Harbhajan Singh,4.0,21,1,9,5.25,24.0,DC,Buffalo Park,08 May 2009
+271,Ajantha Mendis,4.0,21,1,9,5.25,24.0,RCB,Supersport Park,12 May 2009
+272,Chris Gayle,4.0,21,1,9,5.25,24.0,MI,Buffalo Park,01 May 2009
+273,Dwayne Bravo,3.0,16,1,9,5.33,18.0,DEC,Supersport Park,06 May 2009
+274,Piyush Chawla,3.0,16,0,10,5.33,0.0,DC,OUTsurance Oval,15 May 2009
+275,Amit Singh,3.3,19,1,11,5.42,21.0,KKR,Kingsmead,20 May 2009
+276,Shadab Jakati,4.0,22,4,10,5.5,6.0,DEC,Buffalo Park,04 May 2009
+277,Yuvraj Singh,4.0,22,3,13,5.5,8.0,RCB,Kingsmead,01 May 2009
+278,Ramesh Powar,2.0,11,2,7,5.5,6.0,DEC,New Wanderers Stadium,17 May 2009
+279,Muttiah Muralitharan,4.0,22,2,12,5.5,12.0,RR,De Beers Diamond Oval,09 May 2009
+280,Irfan Pathan,4.0,22,2,8,5.5,12.0,DC,OUTsurance Oval,15 May 2009
+281,Pragyan Ojha,2.0,11,2,4,5.5,6.0,CSK,Kingsmead,27 April 2009
+282,Piyush Chawla,4.0,22,2,10,5.5,12.0,RR,Newlands,26 April 2009
+283,Muttiah Muralitharan,4.0,22,1,10,5.5,24.0,DC,New Wanderers Stadium,02 May 2009
+284,Ravindra Jadeja,4.0,22,1,9,5.5,24.0,DEC,St George's Park,02 May 2009
+285,Suresh Raina,4.0,22,1,7,5.5,24.0,MI,St George's Park,16 May 2009
+286,Suresh Raina,2.0,11,1,5,5.5,12.0,RR,Supersport Park,30 April 2009
+287,RP Singh,4.0,22,1,14,5.5,24.0,RR,De Beers Diamond Oval,11 May 2009
+288,Anil Kumble,4.0,22,0,7,5.5,0.0,DC,St George's Park,26 April 2009
+289,Sachin Tendulkar,2.0,11,0,1,5.5,0.0,KKR,St George's Park,27 April 2009
+290,Karan Goel,2.0,11,0,4,5.5,0.0,MI,Kingsmead,29 April 2009
+291,Yusuf Pathan,3.0,17,2,9,5.66,9.0,CSK,Supersport Park,30 April 2009
+292,Roelof van der Merwe,3.0,17,1,7,5.66,18.0,MI,St George's Park,10 May 2009
+293,JP Duminy,3.0,17,0,7,5.66,0.0,RR,Kingsmead,14 May 2009
+294,Munaf Patel,3.5,22,2,13,5.73,11.5,MI,Kingsmead,14 May 2009
+295,Harmeet Singh Bansal,4.0,23,2,12,5.75,12.0,RCB,New Wanderers Stadium,24 May 2009
+296,Anil Kumble,4.0,23,2,12,5.75,12.0,DEC,Supersport Park,21 May 2009
+297,Ishant Sharma,4.0,23,2,11,5.75,12.0,KKR,New Wanderers Stadium,10 May 2009
+298,Ishant Sharma,4.0,23,2,11,5.75,12.0,DC,New Wanderers Stadium,10 May 2009
+299,Shanthakumaran Sreesanth,4.0,23,2,13,5.75,12.0,CSK,Kingsmead,20 May 2009
+300,Jacques Kallis,2.0,3,2,9,1.5,6.0,DEC,DY Patil Stadium,24 April 2010
+301,Yusuf Pathan,2.0,3,0,9,1.5,0.0,DEC,Vidarbha Cricket Association Stadium,05 April 2010
+302,Anil Kumble,3.5,9,3,13,2.34,7.66,RR,M. Chinnaswamy Stadium,18 March 2010
+303,Dirk Nannes,4.0,12,2,18,3.0,12.0,PBKS,IS Bindra Stadium,13 March 2010
+304,Albie Morkel,2.0,6,1,9,3.0,12.0,KKR,Eden Gardens,16 March 2010
+305,Doug Bollinger,4.0,13,4,17,3.25,6.0,DEC,DY Patil Stadium,22 April 2010
+306,Ravichandran Ashwin,4.0,13,2,18,3.25,12.0,DEC,Vidarbha Cricket Association Stadium,10 April 2010
+307,Amit Mishra,4.0,13,1,13,3.25,24.0,CSK,Chidambaram,15 April 2010
+308,Lasith Malinga,3.4,12,3,13,3.27,7.33,DEC,DY Patil Stadium,28 March 2010
+309,Ravichandran Ashwin,4.0,14,1,15,3.5,24.0,DEC,DY Patil Stadium,22 April 2010
+310,Yuvraj Singh,4.0,14,1,11,3.5,24.0,DC,Arun Jaitley Stadium,11 April 2010
+311,Dwayne Bravo,2.0,7,0,6,3.5,0.0,KKR,Eden Gardens,19 April 2010
+312,Dale Steyn,3.0,11,1,15,3.66,18.0,DEC,DY Patil Stadium,24 April 2010
+313,Yuvraj Singh,3.0,11,0,7,3.66,0.0,DC,IS Bindra Stadium,13 March 2010
+314,Doug Bollinger,4.0,15,2,17,3.75,12.0,KKR,Chidambaram,13 April 2010
+315,Doug Bollinger,4.0,15,2,14,3.75,12.0,RR,Chidambaram,03 April 2010
+316,Amit Mishra,4.0,15,1,11,3.75,24.0,PBKS,Arun Jaitley Stadium,11 April 2010
+317,Dale Steyn,4.0,15,1,16,3.75,24.0,RR,Sawai Mansingh Stadium,14 April 2010
+318,Anil Kumble,4.0,15,1,11,3.75,24.0,CSK,M. Chinnaswamy Stadium,23 March 2010
+319,Shane Warne,4.0,15,1,11,3.75,24.0,DEC,Narendra Modi Stadium,26 March 2010
+320,Kieron Pollard,4.0,15,0,10,3.75,0.0,DC,Brabourne Stadium,13 April 2010
+321,Lakshmipathy Balaji,2.2,9,2,8,3.85,7.0,KKR,Eden Gardens,16 March 2010
+322,JM Kemp,3.0,12,3,8,4.0,6.0,KKR,Eden Gardens,16 March 2010
+323,Muttiah Muralitharan,4.0,16,3,15,4.0,8.0,PBKS,Chidambaram,21 March 2010
+324,Ravichandran Ashwin,4.0,16,3,15,4.0,8.0,KKR,Chidambaram,13 April 2010
+325,Pragyan Ojha,4.0,16,2,11,4.0,12.0,DC,Arun Jaitley Stadium,18 April 2010
+326,Piyush Chawla,4.0,16,2,14,4.0,12.0,DC,Arun Jaitley Stadium,11 April 2010
+327,Muttiah Muralitharan,4.0,16,1,12,4.0,24.0,KKR,Eden Gardens,16 March 2010
+328,Muttiah Muralitharan,4.0,16,1,13,4.0,24.0,DEC,DY Patil Stadium,22 April 2010
+329,Praveen Kumar,4.0,16,1,12,4.0,24.0,KKR,Eden Gardens,14 March 2010
+330,Amit Mishra,3.0,12,1,10,4.0,18.0,DEC,Barabati Stadium,21 March 2010
+331,Anil Kumble,4.0,16,1,11,4.0,24.0,CSK,Chidambaram,31 March 2010
+332,Ashish Nehra,2.0,8,0,6,4.0,0.0,PBKS,Arun Jaitley Stadium,11 April 2010
+333,Andrew Symonds,2.0,8,0,5,4.0,0.0,DC,Arun Jaitley Stadium,18 April 2010
+334,Kieron Pollard,4.0,17,3,10,4.25,8.0,RCB,DY Patil Stadium,21 April 2010
+335,RP Singh,4.0,17,3,13,4.25,8.0,RR,Vidarbha Cricket Association Stadium,05 April 2010
+336,Zaheer Khan,4.0,17,2,14,4.25,12.0,RR,Sawai Mansingh Stadium,11 April 2010
+337,Sanath Jayasuriya,4.0,17,2,16,4.25,12.0,DC,Arun Jaitley Stadium,17 March 2010
+338,Shadab Jakati,4.0,17,2,14,4.25,12.0,RCB,Chidambaram,31 March 2010
+339,Juan Theron,4.0,17,2,12,4.25,12.0,CSK,Chidambaram,21 March 2010
+340,Harbhajan Singh,4.0,17,1,7,4.25,24.0,KKR,Brabourne Stadium,22 March 2010
+341,Nayan Doshi,4.0,17,1,14,4.25,24.0,DEC,DY Patil Stadium,24 April 2010
+342,Muttiah Muralitharan,4.0,17,1,9,4.25,24.0,MI,DY Patil Stadium,25 April 2010
+343,Anil Kumble,4.0,17,1,14,4.25,24.0,KKR,M. Chinnaswamy Stadium,10 April 2010
+344,MF Maharoof,3.0,13,2,13,4.33,9.0,RR,Arun Jaitley Stadium,31 March 2010
+345,Praveen Kumar,4.0,18,3,15,4.5,8.0,RR,M. Chinnaswamy Stadium,18 March 2010
+346,Dale Steyn,4.0,18,3,13,4.5,8.0,DEC,Vidarbha Cricket Association Stadium,12 April 2010
+347,Ryan Harris,4.0,18,3,11,4.5,8.0,CSK,Vidarbha Cricket Association Stadium,10 April 2010
+348,Virender Sehwag,4.0,18,2,13,4.5,12.0,CSK,Chidambaram,15 April 2010
+349,Yusuf Pathan,2.0,9,2,3,4.5,6.0,PBKS,IS Bindra Stadium,24 March 2010
+350,Praveen Kumar,4.0,18,2,13,4.5,12.0,DEC,DY Patil Stadium,24 April 2010
+351,Ali Murtaza,4.0,18,2,5,4.5,12.0,DC,Brabourne Stadium,13 April 2010
+352,Zaheer Khan,4.0,18,1,11,4.5,24.0,RCB,Brabourne Stadium,20 March 2010
+353,Anil Kumble,4.0,18,1,11,4.5,24.0,MI,Brabourne Stadium,20 March 2010
+354,Dirk Nannes,4.0,18,1,12,4.5,24.0,CSK,Arun Jaitley Stadium,19 March 2010
+355,Andrew Symonds,4.0,18,1,10,4.5,24.0,CSK,DY Patil Stadium,22 April 2010
+356,Amit Mishra,4.0,18,1,10,4.5,24.0,KKR,Arun Jaitley Stadium,29 March 2010
+357,Andrew Symonds,2.0,9,0,7,4.5,0.0,RR,Narendra Modi Stadium,26 March 2010
+358,Adam Voges,2.0,9,0,3,4.5,0.0,DEC,Narendra Modi Stadium,26 March 2010
+359,Dale Steyn,4.0,18,0,10,4.5,0.0,MI,M. Chinnaswamy Stadium,17 April 2010
+360,Siddharth Trivedi,4.0,18,0,10,4.5,0.0,CSK,Narendra Modi Stadium,28 March 2010
+361,Dale Steyn,4.0,18,0,14,4.5,0.0,RR,M. Chinnaswamy Stadium,18 March 2010
+362,Anil Kumble,3.3,16,4,13,4.57,5.25,DEC,DY Patil Stadium,24 April 2010
+363,Shadab Jakati,3.0,14,1,9,4.66,18.0,DC,Chidambaram,15 April 2010
+364,Ryan Harris,3.0,14,0,12,4.66,0.0,RCB,DY Patil Stadium,24 April 2010
+365,Ashok Dinda,3.1,15,2,10,4.73,9.5,RCB,M. Chinnaswamy Stadium,10 April 2010
+366,Dirk Nannes,3.1,15,1,12,4.73,19.0,KKR,Arun Jaitley Stadium,29 March 2010
+367,Angelo Mathews,4.0,19,4,10,4.75,6.0,RCB,Eden Gardens,14 March 2010
+368,Paul Collingwood,4.0,19,2,11,4.75,12.0,PBKS,Arun Jaitley Stadium,11 April 2010
+369,Chaminda Vaas,4.0,19,1,9,4.75,24.0,DC,Arun Jaitley Stadium,18 April 2010
+370,Jacques Kallis,4.0,19,1,11,4.75,24.0,RR,Sawai Mansingh Stadium,14 April 2010
+371,Tillakaratne Dilshan,4.0,19,1,11,4.75,24.0,CSK,Chidambaram,15 April 2010
+372,Shane Watson,4.0,19,1,13,4.75,24.0,PBKS,Sawai Mansingh Stadium,07 April 2010
+373,Anil Kumble,4.0,19,0,14,4.75,0.0,KKR,Eden Gardens,14 March 2010
+374,Sudeep Tyagi,4.0,19,0,13,4.75,0.0,RCB,M. Chinnaswamy Stadium,23 March 2010
+375,Pragyan Ojha,4.0,19,0,12,4.75,0.0,KKR,DY Patil Stadium,12 March 2010
+376,Suresh Raina,2.3,12,1,5,4.8,15.0,MI,Chidambaram,06 April 2010
+377,Murali Kartik,4.0,20,2,9,5.0,12.0,MI,Eden Gardens,19 April 2010
+378,Jacques Kallis,4.0,20,2,9,5.0,12.0,RR,M. Chinnaswamy Stadium,18 March 2010
+379,Zaheer Khan,2.0,10,2,5,5.0,6.0,DEC,Brabourne Stadium,03 April 2010
+380,Albie Morkel,3.0,15,1,9,5.0,18.0,DEC,DY Patil Stadium,22 April 2010
+381,Ravichandran Ashwin,4.0,20,1,11,5.0,24.0,PBKS,HPCA Stadium,18 April 2010
+382,Dale Steyn,4.0,20,1,8,5.0,24.0,CSK,Chidambaram,31 March 2010
+383,Pradeep Sangwan,4.0,20,1,13,5.0,24.0,RR,Narendra Modi Stadium,15 March 2010
+384,Shane Bond,4.0,20,1,15,5.0,24.0,RR,Eden Gardens,17 April 2010
+385,Ashok Dinda,4.0,20,1,11,5.0,24.0,MI,Eden Gardens,19 April 2010
+386,Kevin Pietersen,4.0,20,1,8,5.0,24.0,MI,DY Patil Stadium,21 April 2010
+387,JP Duminy,3.0,15,1,8,5.0,18.0,PBKS,IS Bindra Stadium,09 April 2010
+388,Suresh Raina,3.0,15,0,9,5.0,0.0,DC,Chidambaram,15 April 2010
+389,Shane Warne,4.0,21,4,13,5.25,6.0,DEC,Vidarbha Cricket Association Stadium,05 April 2010
+390,Chaminda Vaas,4.0,21,3,13,5.25,8.0,CSK,Chidambaram,14 March 2010
+391,Andrew Symonds,4.0,21,3,9,5.25,8.0,DC,Barabati Stadium,21 March 2010
+392,RP Singh,4.0,21,2,10,5.25,12.0,RCB,Vidarbha Cricket Association Stadium,12 April 2010
+393,Ashok Dinda,4.0,21,2,12,5.25,12.0,DC,Eden Gardens,07 April 2010
+394,Yuvraj Singh,4.0,21,2,11,5.25,12.0,DEC,Barabati Stadium,19 March 2010
+395,Ryan McLaren,4.0,21,1,8,5.25,24.0,RCB,M. Chinnaswamy Stadium,17 April 2010
+396,Praveen Kumar,4.0,21,1,11,5.25,24.0,CSK,M. Chinnaswamy Stadium,23 March 2010
+397,Harmeet Singh Bansal,4.0,21,1,10,5.25,24.0,CSK,Vidarbha Cricket Association Stadium,10 April 2010
+398,Chaminda Vaas,4.0,21,1,12,5.25,24.0,DC,Barabati Stadium,21 March 2010
+399,Harbhajan Singh,4.0,21,1,8,5.25,24.0,RR,Sawai Mansingh Stadium,11 April 2010
+400,Murali Kartik,4.0,21,1,8,5.25,24.0,MI,Brabourne Stadium,22 March 2010
+401,Murali Kartik,4.0,21,0,9,5.25,0.0,CSK,Eden Gardens,16 March 2010
+402,Muttiah Muralitharan,4.0,21,0,9,5.25,0.0,RCB,Chidambaram,31 March 2010
+403,Harbhajan Singh,3.0,16,2,9,5.33,9.0,DEC,Brabourne Stadium,03 April 2010
+404,Irfan Pathan,3.0,16,1,7,5.33,18.0,DEC,Barabati Stadium,19 March 2010
+405,Lasith Malinga,4.0,22,4,10,5.5,6.0,PBKS,Brabourne Stadium,30 March 2010
+406,Pradeep Sangwan,4.0,22,3,7,5.5,8.0,RCB,Arun Jaitley Stadium,04 April 2010
+407,Shaun Tait,4.0,22,3,10,5.5,8.0,DEC,Narendra Modi Stadium,26 March 2010
+408,Shaun Tait,4.0,22,2,11,5.5,12.0,CSK,Narendra Modi Stadium,28 March 2010
+409,Pragyan Ojha,4.0,22,2,11,5.5,12.0,RCB,Vidarbha Cricket Association Stadium,12 April 2010
+410,Dwayne Bravo,2.0,11,2,6,5.5,6.0,DC,Arun Jaitley Stadium,17 March 2010
+411,Ajantha Mendis,4.0,22,2,6,5.5,12.0,DC,Eden Gardens,07 April 2010
+412,Ravichandran Ashwin,4.0,22,2,10,5.5,12.0,MI,Chidambaram,06 April 2010
+413,Siddharth Trivedi,4.0,22,2,9,5.5,12.0,PBKS,Sawai Mansingh Stadium,07 April 2010
+414,Lasith Malinga,4.0,22,2,9,5.5,12.0,RR,Brabourne Stadium,13 March 2010
+415,Murali Kartik,4.0,22,2,9,5.5,12.0,RCB,Eden Gardens,14 March 2010
+416,Ravichandran Ashwin,4.0,22,1,11,5.5,24.0,KKR,Eden Gardens,16 March 2010
+417,Shane Warne,4.0,22,1,6,5.5,24.0,DC,Narendra Modi Stadium,15 March 2010
+418,Juan Theron,2.0,11,1,2,5.5,12.0,DC,Arun Jaitley Stadium,11 April 2010
+419,Andrew Symonds,4.0,22,1,9,5.5,24.0,PBKS,Barabati Stadium,19 March 2010
+420,Ramesh Powar,4.0,22,1,14,5.5,24.0,CSK,Chidambaram,21 March 2010
+421,Harmeet Singh Bansal,4.0,22,1,9,5.5,24.0,CSK,DY Patil Stadium,22 April 2010
+422,Rajagopal Sathish,2.0,11,1,6,5.5,12.0,KKR,Eden Gardens,19 April 2010
+423,Dirk Nannes,4.0,22,0,11,5.5,0.0,DEC,Arun Jaitley Stadium,18 April 2010
+424,Angelo Mathews,2.0,11,0,4,5.5,0.0,DC,Arun Jaitley Stadium,29 March 2010
+425,Siddharth Trivedi,2.5,16,3,8,5.64,5.66,DEC,Vidarbha Cricket Association Stadium,05 April 2010
+426,Murali Kartik,3.0,17,1,8,5.66,18.0,DEC,DY Patil Stadium,12 March 2010
+427,Shane Watson,3.0,17,0,13,5.66,0.0,KKR,Eden Gardens,17 April 2010
+428,Andrew Symonds,3.0,17,0,7,5.66,0.0,RCB,DY Patil Stadium,24 April 2010
+429,Pragyan Ojha,3.5,22,0,12,5.73,0.0,RCB,DY Patil Stadium,24 April 2010
+430,Albie Morkel,4.0,23,2,13,5.75,12.0,PBKS,Chidambaram,21 March 2010
+431,Yusuf Pathan,4.0,23,2,10,5.75,12.0,KKR,Narendra Modi Stadium,20 March 2010
+432,Dilhara Fernando,4.0,23,2,12,5.75,12.0,CSK,DY Patil Stadium,25 April 2010
+433,Amit Mishra,4.0,23,2,6,5.75,12.0,RCB,M. Chinnaswamy Stadium,25 March 2010
+434,Andrew Symonds,4.0,23,1,10,5.75,24.0,CSK,Vidarbha Cricket Association Stadium,10 April 2010
+435,Amit Mishra,4.0,23,1,10,5.75,24.0,PBKS,IS Bindra Stadium,13 March 2010
+436,Ryan McLaren,4.0,23,1,11,5.75,24.0,CSK,Brabourne Stadium,25 March 2010
+437,Shadab Jakati,4.0,23,1,10,5.75,24.0,KKR,Chidambaram,13 April 2010
+438,Harbhajan Singh,4.0,23,1,11,5.75,24.0,CSK,Chidambaram,06 April 2010
+439,Ramesh Powar,4.0,23,0,10,5.75,0.0,KKR,Eden Gardens,04 April 2010
+440,Lasith Malinga,4.0,23,0,10,5.75,0.0,RR,Sawai Mansingh Stadium,11 April 2010
+441,Piyush Chawla,4.0,24,3,9,6.0,8.0,MI,IS Bindra Stadium,09 April 2010
+442,Harmeet Singh Bansal,4.0,24,2,9,6.0,12.0,RCB,Vidarbha Cricket Association Stadium,12 April 2010
+443,Shanthakumaran Sreesanth,4.0,24,2,10,6.0,12.0,DC,IS Bindra Stadium,13 March 2010
+444,Shane Bond,4.0,24,2,8,6.0,12.0,MI,Eden Gardens,19 April 2010
+445,Shane Bond,4.0,24,2,13,6.0,12.0,PBKS,IS Bindra Stadium,27 March 2010
+446,Jaskaran Singh,3.0,18,2,8,6.0,9.0,KKR,Eden Gardens,01 April 2010
+447,Umesh Yadav,4.0,24,2,12,6.0,12.0,DEC,Arun Jaitley Stadium,18 April 2010
+448,Pragyan Ojha,4.0,24,2,12,6.0,12.0,MI,DY Patil Stadium,28 March 2010
+449,Ashok Dinda,4.0,24,2,10,6.0,12.0,RR,Eden Gardens,17 April 2010
+450,JP Duminy,2.0,3,1,9,1.5,12.0,MI,Wankhede Stadium,14 May 2011
+451,Rahul Sharma,4.0,7,2,17,1.75,12.0,MI,DY Patil Stadium,04 May 2011
+452,Brett Lee,4.0,8,0,15,2.0,0.0,CSK,Eden Gardens,07 May 2011
+453,Amit Mishra,4.0,9,4,16,2.25,6.0,PBKS,HPCA Stadium,21 May 2011
+454,Lasith Malinga,4.0,9,3,13,2.25,8.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,24 April 2011
+455,Shanthakumaran Sreesanth,4.0,10,2,15,2.5,12.0,DC,Jawaharlal Nehru Stadium,30 April 2011
+456,Morne Morkel,4.0,11,1,13,2.75,24.0,RR,Sawai Mansingh Stadium,12 April 2011
+457,Johan Botha,2.0,6,3,7,3.0,4.0,MI,Sawai Mansingh Stadium,29 April 2011
+458,Wayne Parnell,4.0,12,2,13,3.0,12.0,PBKS,IS Bindra Stadium,08 May 2011
+459,Jesse Ryder,3.0,9,1,11,3.0,18.0,PBKS,DY Patil Stadium,10 April 2011
+460,Amit Mishra,4.0,12,1,11,3.0,24.0,KTK,Jawaharlal Nehru Stadium,27 April 2011
+461,Yusuf Pathan,2.0,6,1,6,3.0,12.0,DC,Arun Jaitley Stadium,28 April 2011
+462,Brad Hodge,4.0,13,4,16,3.25,6.0,RR,Holkar Cricket Stadium,15 May 2011
+463,Rahul Sharma,4.0,13,3,17,3.25,8.0,RR,Sawai Mansingh Stadium,01 May 2011
+464,Shane Warne,4.0,13,1,13,3.25,24.0,MI,Sawai Mansingh Stadium,29 April 2011
+465,Charl Langeveldt,3.0,10,2,9,3.33,9.0,KKR,M. Chinnaswamy Stadium,14 May 2011
+466,Munaf Patel,3.0,10,0,7,3.33,0.0,RCB,M. Chinnaswamy Stadium,12 April 2011
+467,Munaf Patel,2.2,8,3,10,3.42,4.66,PWI,Wankhede Stadium,20 April 2011
+468,Sreenath Aravind,4.0,14,4,14,3.5,6.0,PBKS,M. Chinnaswamy Stadium,06 May 2011
+469,Amit Mishra,4.0,14,2,14,3.5,12.0,MI,Rajiv Gandhi Intl. Cricket Stadium,24 April 2011
+470,Raiphi Gomez,4.0,14,2,14,3.5,12.0,KKR,Jawaharlal Nehru Stadium,05 May 2011
+471,Amit Singh,4.0,14,2,15,3.5,12.0,MI,Sawai Mansingh Stadium,29 April 2011
+472,Daniel Vettori,4.0,14,1,10,3.5,24.0,PBKS,M. Chinnaswamy Stadium,06 May 2011
+473,Ashok Dinda,2.0,7,0,7,3.5,0.0,MI,Arun Jaitley Stadium,10 April 2011
+474,Lasith Malinga,3.4,13,5,16,3.54,4.4,DC,Arun Jaitley Stadium,10 April 2011
+475,Chris Gayle,3.0,11,0,10,3.66,0.0,MI,Chidambaram,27 May 2011
+476,Praveen Kumar,3.0,11,0,13,3.66,0.0,RCB,HPCA Stadium,17 May 2011
+477,Siddharth Trivedi,4.0,15,3,13,3.75,8.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,09 April 2011
+478,Daniel Vettori,4.0,15,2,15,3.75,12.0,CSK,M. Chinnaswamy Stadium,22 May 2011
+479,Iqbal Abdulla,4.0,15,1,13,3.75,24.0,CSK,Eden Gardens,07 May 2011
+480,RP Singh,4.0,15,0,10,3.75,0.0,MI,Wankhede Stadium,15 April 2011
+481,Ali Murtaza,4.0,15,0,14,3.75,0.0,RR,Sawai Mansingh Stadium,29 April 2011
+482,Ishant Sharma,3.0,12,5,12,4.0,3.6,KTK,Jawaharlal Nehru Stadium,27 April 2011
+483,Piyush Chawla,4.0,16,3,14,4.0,8.0,DC,HPCA Stadium,15 May 2011
+484,Ravichandran Ashwin,4.0,16,3,10,4.0,8.0,RCB,Chidambaram,28 May 2011
+485,Shane Warne,4.0,16,3,11,4.0,8.0,KTK,Sawai Mansingh Stadium,24 April 2011
+486,Shanthakumaran Sreesanth,4.0,16,2,16,4.0,12.0,RR,Holkar Cricket Stadium,15 May 2011
+487,Shakib Al Hasan,4.0,16,2,13,4.0,12.0,PWI,DY Patil Stadium,19 May 2011
+488,Ishant Sharma,4.0,16,2,16,4.0,12.0,DC,Rajiv Gandhi Intl. Cricket Stadium,05 May 2011
+489,Ravichandran Ashwin,3.0,12,2,12,4.0,9.0,KKR,Eden Gardens,07 May 2011
+490,Iqbal Abdulla,3.0,12,1,11,4.0,18.0,PWI,DY Patil Stadium,19 May 2011
+491,Ryan Harris,4.0,16,1,14,4.0,24.0,DC,HPCA Stadium,15 May 2011
+492,Irfan Pathan,4.0,16,1,11,4.0,24.0,KKR,Arun Jaitley Stadium,28 April 2011
+493,Chris Gayle,2.0,8,1,4,4.0,12.0,PWI,M. Chinnaswamy Stadium,29 April 2011
+494,Jesse Ryder,2.0,8,1,5,4.0,12.0,KTK,DY Patil Stadium,13 April 2011
+495,Ravichandran Ashwin,4.0,16,1,9,4.0,24.0,KTK,Chidambaram,18 May 2011
+496,Alfonso Thomas,4.0,16,1,14,4.0,24.0,MI,Wankhede Stadium,20 April 2011
+497,Roelof van der Merwe,4.0,16,0,14,4.0,0.0,MI,Arun Jaitley Stadium,10 April 2011
+498,Pragyan Ojha,4.0,16,0,16,4.0,0.0,MI,Wankhede Stadium,14 May 2011
+499,Dan Christian,3.0,12,0,8,4.0,0.0,CSK,Chidambaram,01 May 2011
+500,Dan Christian,3.0,12,0,11,4.0,0.0,KTK,Jawaharlal Nehru Stadium,27 April 2011
+501,Suresh Raina,4.0,16,0,11,4.0,0.0,DC,Chidambaram,12 May 2011
+502,Piyush Chawla,4.0,17,4,15,4.25,6.0,RCB,HPCA Stadium,17 May 2011
+503,Yuvraj Singh,4.0,17,2,9,4.25,12.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,10 May 2011
+504,Rahul Sharma,4.0,17,2,12,4.25,12.0,PBKS,IS Bindra Stadium,08 May 2011
+505,Shane Warne,4.0,17,2,15,4.25,12.0,DC,Sawai Mansingh Stadium,12 April 2011
+506,Praveen Kumar,4.0,17,1,15,4.25,24.0,PWI,IS Bindra Stadium,08 May 2011
+507,Daniel Vettori,4.0,17,1,11,4.25,24.0,KTK,Jawaharlal Nehru Stadium,09 April 2011
+508,Lasith Malinga,4.0,17,1,12,4.25,24.0,DEC,Wankhede Stadium,14 May 2011
+509,Shane Warne,4.0,17,1,9,4.25,24.0,KKR,Eden Gardens,17 April 2011
+510,RP Singh,4.0,17,1,17,4.25,24.0,RR,Holkar Cricket Stadium,15 May 2011
+511,Ankeet Chavan,4.0,17,0,14,4.25,0.0,MI,Wankhede Stadium,20 May 2011
+512,Dan Christian,3.0,13,2,14,4.33,9.0,PWI,DY Patil Stadium,16 May 2011
+513,Pragyan Ojha,3.0,13,1,9,4.33,18.0,PWI,Rajiv Gandhi Intl. Cricket Stadium,10 May 2011
+514,Dale Steyn,3.0,13,1,11,4.33,18.0,PBKS,HPCA Stadium,21 May 2011
+515,Harbhajan Singh,4.0,18,5,10,4.5,4.8,CSK,Wankhede Stadium,22 April 2011
+516,Morne Morkel,4.0,18,3,12,4.5,8.0,KTK,Jawaharlal Nehru Stadium,30 April 2011
+517,Ali Murtaza,4.0,18,2,13,4.5,12.0,PWI,Wankhede Stadium,20 April 2011
+518,Dale Steyn,4.0,18,2,16,4.5,12.0,RR,Rajiv Gandhi Intl. Cricket Stadium,09 April 2011
+519,Munaf Patel,4.0,18,2,9,4.5,12.0,PBKS,Wankhede Stadium,02 May 2011
+520,Jacques Kallis,4.0,18,2,14,4.5,12.0,MI,Wankhede Stadium,25 May 2011
+521,Munaf Patel,4.0,18,2,17,4.5,12.0,RR,Sawai Mansingh Stadium,29 April 2011
+522,Muttiah Muralitharan,4.0,18,1,10,4.5,24.0,KKR,Eden Gardens,20 April 2011
+523,James Faulkner,2.0,9,1,7,4.5,12.0,DC,Arun Jaitley Stadium,21 May 2011
+524,Amit Mishra,4.0,18,1,10,4.5,24.0,MI,Wankhede Stadium,14 May 2011
+525,Rahul Sharma,4.0,18,1,13,4.5,24.0,KTK,DY Patil Stadium,13 April 2011
+526,Ravichandran Ashwin,4.0,18,1,12,4.5,24.0,RCB,M. Chinnaswamy Stadium,22 May 2011
+527,Shrikant Wagh,2.0,9,1,5,4.5,12.0,MI,Wankhede Stadium,20 April 2011
+528,Amit Singh,4.0,18,1,16,4.5,24.0,DC,Sawai Mansingh Stadium,12 April 2011
+529,Bipul Sharma,2.0,9,0,5,4.5,0.0,KKR,Eden Gardens,30 April 2011
+530,Daniel Vettori,4.0,18,0,11,4.5,0.0,MI,M. Chinnaswamy Stadium,12 April 2011
+531,Chris Gayle,2.0,9,0,5,4.5,0.0,KKR,Eden Gardens,22 April 2011
+532,Rajat Bhatia,4.0,18,0,13,4.5,0.0,PBKS,Eden Gardens,30 April 2011
+533,Dale Steyn,3.3,16,3,16,4.57,7.0,KTK,Jawaharlal Nehru Stadium,27 April 2011
+534,Harbhajan Singh,3.0,14,2,11,4.66,9.0,DC,Arun Jaitley Stadium,10 April 2011
+535,Bhuvneshwar Kumar,3.0,14,2,9,4.66,9.0,PBKS,IS Bindra Stadium,08 May 2011
+536,Rahul Sharma,3.0,14,1,8,4.66,18.0,MI,Wankhede Stadium,20 April 2011
+537,Shane Warne,3.0,14,0,8,4.66,0.0,CSK,Chidambaram,04 May 2011
+538,Mithun Manhas,3.0,14,0,8,4.66,0.0,PBKS,DY Patil Stadium,10 April 2011
+539,Daniel Vettori,4.0,19,3,9,4.75,8.0,MI,Chidambaram,27 May 2011
+540,Shane Watson,4.0,19,3,12,4.75,8.0,MI,Wankhede Stadium,20 May 2011
+541,Siddharth Trivedi,4.0,19,3,11,4.75,8.0,KTK,Sawai Mansingh Stadium,24 April 2011
+542,Ravichandran Ashwin,4.0,19,2,12,4.75,12.0,PWI,Chidambaram,25 April 2011
+543,Ravichandran Ashwin,4.0,19,2,12,4.75,12.0,DC,Chidambaram,12 May 2011
+544,Zaheer Khan,4.0,19,2,15,4.75,12.0,CSK,M. Chinnaswamy Stadium,22 May 2011
+545,Praveen Kumar,4.0,19,2,17,4.75,12.0,MI,IS Bindra Stadium,10 May 2011
+546,Lasith Malinga,4.0,19,2,10,4.75,12.0,PBKS,Wankhede Stadium,02 May 2011
+547,Iqbal Abdulla,4.0,19,2,14,4.75,12.0,PBKS,Eden Gardens,30 April 2011
+548,Amit Mishra,4.0,19,2,11,4.75,12.0,KKR,Eden Gardens,11 April 2011
+549,Shane Watson,4.0,19,1,9,4.75,24.0,PWI,Sawai Mansingh Stadium,01 May 2011
+550,Johan Botha,4.0,19,1,10,4.75,24.0,KTK,Sawai Mansingh Stadium,24 April 2011
+551,Lasith Malinga,4.0,19,1,10,4.75,24.0,KKR,Wankhede Stadium,25 May 2011
+552,Albie Morkel,4.0,19,1,15,4.75,24.0,MI,Wankhede Stadium,22 April 2011
+553,Chris Gayle,4.0,19,0,10,4.75,0.0,CSK,Wankhede Stadium,24 May 2011
+554,Irfan Pathan,2.5,14,0,8,4.94,0.0,MI,Arun Jaitley Stadium,10 April 2011
+555,Lakshmipathy Balaji,3.0,15,3,10,5.0,6.0,RR,Eden Gardens,17 April 2011
+556,Yusuf Pathan,4.0,20,3,12,5.0,8.0,KTK,Eden Gardens,20 April 2011
+557,Doug Bollinger,4.0,20,2,8,5.0,12.0,PWI,Chidambaram,25 April 2011
+558,Sreenath Aravind,4.0,20,2,14,5.0,12.0,CSK,M. Chinnaswamy Stadium,22 May 2011
+559,Sreenath Aravind,4.0,20,2,13,5.0,12.0,KTK,M. Chinnaswamy Stadium,08 May 2011
+560,Ashok Menaria,4.0,20,2,10,5.0,12.0,MI,Sawai Mansingh Stadium,29 April 2011
+561,Lasith Malinga,4.0,20,2,12,5.0,12.0,CSK,Wankhede Stadium,22 April 2011
+562,Doug Bollinger,4.0,20,1,11,5.0,24.0,RCB,Wankhede Stadium,24 May 2011
+563,Vinay Kumar,3.0,15,1,9,5.0,18.0,PWI,DY Patil Stadium,13 April 2011
+564,Yusuf Pathan,2.0,10,1,3,5.0,12.0,RR,Eden Gardens,17 April 2011
+565,Varun Aaron,4.0,20,1,11,5.0,24.0,CSK,Chidambaram,12 May 2011
+566,Wayne Parnell,4.0,20,1,16,5.0,24.0,PBKS,DY Patil Stadium,10 April 2011
+567,Lasith Malinga,4.0,20,1,14,5.0,24.0,RR,Sawai Mansingh Stadium,29 April 2011
+568,Roelof van der Merwe,3.0,15,1,8,5.0,18.0,KTK,Arun Jaitley Stadium,02 May 2011
+569,Syed Mohammad,4.0,20,1,12,5.0,24.0,KKR,Eden Gardens,22 April 2011
+570,Kieron Pollard,2.0,10,1,5,5.0,12.0,DEC,Wankhede Stadium,14 May 2011
+571,Shrikant Wagh,2.0,10,0,8,5.0,0.0,KTK,DY Patil Stadium,13 April 2011
+572,Dhawal Kulkarni,4.0,20,0,12,5.0,0.0,PWI,DY Patil Stadium,04 May 2011
+573,Munaf Patel,3.0,15,0,8,5.0,0.0,KTK,Wankhede Stadium,15 April 2011
+574,Yuvraj Singh,2.0,10,0,3,5.0,0.0,RCB,M. Chinnaswamy Stadium,29 April 2011
+575,Shane Watson,4.0,20,0,12,5.0,0.0,KKR,Eden Gardens,17 April 2011
+576,Rajat Bhatia,2.0,10,0,3,5.0,0.0,CSK,Eden Gardens,07 May 2011
+577,Alfonso Thomas,3.0,15,0,9,5.0,0.0,DC,Arun Jaitley Stadium,21 May 2011
+578,Bhuvneshwar Kumar,2.0,10,0,7,5.0,0.0,DEC,DY Patil Stadium,16 May 2011
+579,Mitchell Marsh,2.1,11,1,3,5.07,13.0,DC,Arun Jaitley Stadium,21 May 2011
+580,Brett Lee,2.2,12,1,6,5.14,14.0,RR,Eden Gardens,17 April 2011
+581,Roelof van der Merwe,3.5,20,3,9,5.21,7.66,KTK,Jawaharlal Nehru Stadium,30 April 2011
+582,Munaf Patel,4.0,21,5,13,5.25,4.8,PBKS,IS Bindra Stadium,10 May 2011
+583,Doug Bollinger,4.0,21,3,14,5.25,8.0,PWI,DY Patil Stadium,27 April 2011
+584,Chris Gayle,4.0,21,3,7,5.25,8.0,PBKS,M. Chinnaswamy Stadium,06 May 2011
+585,RP Singh,4.0,21,2,12,5.25,12.0,DEC,Jawaharlal Nehru Stadium,27 April 2011
+586,Shakib Al Hasan,4.0,21,2,10,5.25,12.0,RR,Eden Gardens,17 April 2011
+587,Shane Warne,4.0,21,2,13,5.25,12.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,09 April 2011
+588,Shadab Jakati,4.0,21,2,9,5.25,12.0,RCB,Chidambaram,28 May 2011
+589,Vinay Kumar,4.0,21,1,10,5.25,24.0,KKR,Eden Gardens,20 April 2011
+590,Ali Murtaza,4.0,21,1,13,5.25,24.0,DC,Arun Jaitley Stadium,10 April 2011
+591,Ishant Sharma,4.0,21,1,14,5.25,24.0,RCB,Rajiv Gandhi Intl. Cricket Stadium,14 April 2011
+592,Dwayne Bravo,4.0,21,0,12,5.25,0.0,RCB,M. Chinnaswamy Stadium,22 May 2011
+593,P Parameswaran,4.0,21,0,9,5.25,0.0,KKR,Jawaharlal Nehru Stadium,05 May 2011
+594,Shrikant Wagh,3.0,16,3,11,5.33,6.0,PBKS,DY Patil Stadium,10 April 2011
+595,Jacques Kallis,3.0,16,2,8,5.33,9.0,RCB,M. Chinnaswamy Stadium,14 May 2011
+596,Yusuf Pathan,3.0,16,1,6,5.33,18.0,KTK,Jawaharlal Nehru Stadium,05 May 2011
+597,Suresh Raina,3.0,16,0,8,5.33,0.0,PWI,DY Patil Stadium,27 April 2011
+598,Vinay Kumar,3.0,16,0,8,5.33,0.0,CSK,Jawaharlal Nehru Stadium,18 April 2011
+599,Lasith Malinga,3.2,18,2,12,5.4,10.0,DC,Wankhede Stadium,07 May 2011
+600,Dale Steyn,4.0,8,3,18,2.0,8.0,RCB,Rajiv Gandhi Intl. Cricket Stadium,20 May 2012
+601,Ben Hilfenhaus,4.0,8,2,15,2.0,12.0,RR,Sawai Mansingh Stadium,10 May 2012
+602,Praveen Kumar,4.0,8,0,16,2.0,0.0,RCB,M. Chinnaswamy Stadium,02 May 2012
+603,Dale Steyn,4.0,10,2,17,2.5,12.0,MI,Wankhede Stadium,29 April 2012
+604,Marlon Samuels,2.0,5,1,7,2.5,12.0,RCB,M. Chinnaswamy Stadium,17 April 2012
+605,Umesh Yadav,4.0,11,2,15,2.75,12.0,MI,Wankhede Stadium,16 April 2012
+606,Lakshmipathy Balaji,4.0,11,2,15,2.75,12.0,MI,Wankhede Stadium,16 May 2012
+607,Sunil Narine,4.0,11,1,13,2.75,24.0,RCB,Eden Gardens,28 April 2012
+608,Dale Steyn,4.0,12,3,14,3.0,8.0,MI,ACA-VDCA Stadium,09 April 2012
+609,Bhuvneshwar Kumar,3.0,9,2,8,3.0,9.0,MI,Maharashtra Cricket Association's International Stadium,03 May 2012
+610,Parvinder Awana,4.0,12,2,15,3.0,12.0,CSK,HPCA Stadium,17 May 2012
+611,Irfan Pathan,4.0,12,1,13,3.0,24.0,MI,Wankhede Stadium,16 April 2012
+612,Shahbaz Nadeem,3.0,9,0,10,3.0,0.0,CSK,Arun Jaitley Stadium,10 April 2012
+613,Ajit Chandila,4.0,13,4,15,3.25,6.0,PWI,Sawai Mansingh Stadium,13 May 2012
+614,Shaun Tait,4.0,13,3,14,3.25,8.0,PWI,Maharashtra Cricket Association's International Stadium,08 May 2012
+615,Harbhajan Singh,4.0,13,2,15,3.25,12.0,DEC,Wankhede Stadium,29 April 2012
+616,Lasith Malinga,4.0,13,2,17,3.25,12.0,RR,Wankhede Stadium,11 April 2012
+617,Sunil Narine,4.0,13,1,14,3.25,24.0,PWI,Eden Gardens,05 May 2012
+618,Dwayne Bravo,3.0,10,2,10,3.33,9.0,MI,M. Chinnaswamy Stadium,23 May 2012
+619,Rajat Bhatia,4.0,14,2,12,3.5,12.0,PBKS,Eden Gardens,15 April 2012
+620,Jacques Kallis,2.0,7,2,8,3.5,6.0,RCB,M. Chinnaswamy Stadium,10 April 2012
+621,Sunil Narine,4.0,14,2,13,3.5,12.0,CSK,Eden Gardens,14 May 2012
+622,Kieron Pollard,4.0,14,2,14,3.5,12.0,PBKS,Wankhede Stadium,22 April 2012
+623,Kieron Pollard,4.0,15,2,11,3.75,12.0,CSK,Chidambaram,04 April 2012
+624,Praveen Kumar,4.0,15,2,12,3.75,12.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,08 May 2012
+625,Albie Morkel,4.0,15,1,13,3.75,24.0,DC,Chidambaram,12 May 2012
+626,Sunil Narine,4.0,15,1,12,3.75,24.0,PWI,Maharashtra Cricket Association's International Stadium,19 May 2012
+627,Brett Lee,4.0,15,1,15,3.75,24.0,DEC,Barabati Stadium,22 April 2012
+628,Zaheer Khan,4.0,15,1,17,3.75,24.0,RR,M. Chinnaswamy Stadium,15 April 2012
+629,Roelof van der Merwe,4.0,15,0,11,3.75,0.0,CSK,Arun Jaitley Stadium,10 April 2012
+630,Ravindra Jadeja,4.0,16,5,17,4.0,4.8,DEC,ACA-VDCA Stadium,07 April 2012
+631,Shahbaz Nadeem,4.0,16,3,9,4.0,8.0,DEC,Arun Jaitley Stadium,19 April 2012
+632,Muttiah Muralitharan,4.0,16,2,11,4.0,12.0,PWI,Maharashtra Cricket Association's International Stadium,11 May 2012
+633,Dale Steyn,4.0,16,2,12,4.0,12.0,RR,Rajiv Gandhi Intl. Cricket Stadium,18 May 2012
+634,Shahbaz Nadeem,4.0,16,2,15,4.0,12.0,MI,Wankhede Stadium,16 April 2012
+635,Lasith Malinga,4.0,16,2,12,4.0,12.0,PWI,Wankhede Stadium,06 April 2012
+636,Shikhar Dhawan,2.0,8,1,4,4.0,12.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,08 May 2012
+637,Muttiah Muralitharan,4.0,16,1,10,4.0,24.0,MI,M. Chinnaswamy Stadium,14 May 2012
+638,Dwayne Smith,2.0,8,1,6,4.0,12.0,KKR,Wankhede Stadium,16 May 2012
+639,Stuart Binny,3.0,12,1,7,4.0,18.0,PWI,Maharashtra Cricket Association's International Stadium,08 May 2012
+640,Rahul Sharma,4.0,16,1,12,4.0,24.0,MI,Wankhede Stadium,06 April 2012
+641,Umesh Yadav,2.0,8,0,5,4.0,0.0,RCB,M. Chinnaswamy Stadium,07 April 2012
+642,Ravichandran Ashwin,3.0,12,0,10,4.0,0.0,DEC,ACA-VDCA Stadium,07 April 2012
+643,Zaheer Khan,4.0,16,0,14,4.0,0.0,MI,Wankhede Stadium,09 May 2012
+644,Lasith Malinga,3.5,16,2,13,4.17,11.5,CSK,Chidambaram,04 April 2012
+645,Shakib Al Hasan,4.0,17,3,11,4.25,8.0,RR,Eden Gardens,13 April 2012
+646,Pragyan Ojha,4.0,17,2,9,4.25,12.0,CSK,Chidambaram,04 April 2012
+647,Angelo Mathews,4.0,17,2,9,4.25,12.0,KKR,Eden Gardens,05 May 2012
+648,Munaf Patel,4.0,17,1,13,4.25,24.0,KKR,Wankhede Stadium,16 May 2012
+649,Ravichandran Ashwin,4.0,17,1,9,4.25,24.0,DC,Chidambaram,12 May 2012
+650,Nuwan Kulasekara,4.0,17,1,13,4.25,24.0,RR,Chidambaram,21 April 2012
+651,Abhishek Jhunjhunwala,3.0,13,1,8,4.33,18.0,CSK,Chidambaram,04 May 2012
+652,Ashok Dinda,3.0,13,1,8,4.33,18.0,PBKS,Maharashtra Cricket Association's International Stadium,08 April 2012
+653,Lasith Malinga,3.4,16,4,12,4.36,5.5,DEC,Wankhede Stadium,29 April 2012
+654,Ashok Dinda,4.0,18,4,15,4.5,6.0,MI,Wankhede Stadium,06 April 2012
+655,Pawan Negi,4.0,18,4,13,4.5,6.0,RR,Sawai Mansingh Stadium,01 May 2012
+656,Lakshmipathy Balaji,4.0,18,4,13,4.5,6.0,RCB,M. Chinnaswamy Stadium,10 April 2012
+657,Piyush Chawla,4.0,18,3,11,4.5,8.0,KKR,Eden Gardens,15 April 2012
+658,Dhawal Kulkarni,4.0,18,3,15,4.5,8.0,RR,Sawai Mansingh Stadium,20 May 2012
+659,Harbhajan Singh,4.0,18,2,13,4.5,12.0,PWI,Maharashtra Cricket Association's International Stadium,03 May 2012
+660,Vinay Kumar,4.0,18,2,12,4.5,12.0,KKR,M. Chinnaswamy Stadium,10 April 2012
+661,Shaun Tait,4.0,18,2,13,4.5,12.0,PBKS,IS Bindra Stadium,05 May 2012
+662,Siddharth Trivedi,4.0,18,2,13,4.5,12.0,CSK,Sawai Mansingh Stadium,10 May 2012
+663,Praveen Kumar,4.0,18,2,14,4.5,12.0,CSK,HPCA Stadium,17 May 2012
+664,Pankaj Singh,4.0,18,2,14,4.5,12.0,RCB,M. Chinnaswamy Stadium,15 April 2012
+665,Wayne Parnell,4.0,18,2,12,4.5,12.0,KKR,Maharashtra Cricket Association's International Stadium,19 May 2012
+666,Umesh Yadav,2.0,9,2,5,4.5,6.0,KKR,Eden Gardens,05 April 2012
+667,Shakib Al Hasan,4.0,18,2,11,4.5,12.0,PWI,Maharashtra Cricket Association's International Stadium,19 May 2012
+668,Ankit Sharma,2.0,9,1,5,4.5,12.0,PWI,Barabati Stadium,01 May 2012
+669,Pawan Negi,4.0,18,1,11,4.5,24.0,KKR,Maharashtra Cricket Association's International Stadium,22 May 2012
+670,Brad Hogg,4.0,18,1,9,4.5,24.0,CSK,Chidambaram,21 April 2012
+671,Michael Clarke,2.0,9,0,3,4.5,0.0,MI,Maharashtra Cricket Association's International Stadium,03 May 2012
+672,Anand Rajan,2.0,9,0,4,4.5,0.0,MI,ACA-VDCA Stadium,09 April 2012
+673,Harbhajan Singh,4.0,18,0,12,4.5,0.0,DEC,ACA-VDCA Stadium,09 April 2012
+674,Wayne Parnell,4.0,18,0,9,4.5,0.0,MI,Maharashtra Cricket Association's International Stadium,03 May 2012
+675,Ankit Sharma,4.0,18,0,14,4.5,0.0,MI,ACA-VDCA Stadium,09 April 2012
+676,Harbhajan Singh,4.0,18,0,10,4.5,0.0,RCB,Wankhede Stadium,09 May 2012
+677,Muttiah Muralitharan,4.0,18,0,10,4.5,0.0,DEC,M. Chinnaswamy Stadium,06 May 2012
+678,David Hussey,2.0,9,0,2,4.5,0.0,RCB,M. Chinnaswamy Stadium,02 May 2012
+679,Parvinder Awana,4.0,18,0,10,4.5,0.0,PWI,IS Bindra Stadium,12 April 2012
+680,Murali Kartik,3.0,14,2,8,4.66,9.0,MI,Wankhede Stadium,06 April 2012
+681,Dwayne Bravo,3.0,14,1,9,4.66,18.0,MI,Chidambaram,04 April 2012
+682,Rajat Bhatia,3.0,14,1,6,4.66,18.0,PWI,Maharashtra Cricket Association's International Stadium,19 May 2012
+683,Angelo Mathews,3.0,14,1,9,4.66,18.0,RCB,Maharashtra Cricket Association's International Stadium,11 May 2012
+684,Harbhajan Singh,3.0,14,0,7,4.66,0.0,CSK,Wankhede Stadium,06 May 2012
+685,Dan Christian,3.0,14,0,10,4.66,0.0,MI,Wankhede Stadium,29 April 2012
+686,Sunil Narine,3.1,15,4,12,4.73,4.75,MI,Wankhede Stadium,16 May 2012
+687,Sunil Narine,4.0,19,5,13,4.75,4.8,PBKS,Eden Gardens,15 April 2012
+688,KP Appanna,4.0,19,4,14,4.75,6.0,RR,Sawai Mansingh Stadium,23 April 2012
+689,Umesh Yadav,4.0,19,3,14,4.75,8.0,PBKS,HPCA Stadium,19 May 2012
+690,Ryan Harris,4.0,19,2,15,4.75,12.0,DC,HPCA Stadium,19 May 2012
+691,Dale Steyn,4.0,19,2,12,4.75,12.0,DC,Arun Jaitley Stadium,19 April 2012
+692,Piyush Chawla,4.0,19,2,11,4.75,12.0,KKR,IS Bindra Stadium,18 April 2012
+693,Ashish Nehra,4.0,19,2,15,4.75,12.0,MI,Maharashtra Cricket Association's International Stadium,03 May 2012
+694,Varun Aaron,4.0,19,2,10,4.75,12.0,PBKS,Arun Jaitley Stadium,15 May 2012
+695,Morne Morkel,4.0,19,2,13,4.75,12.0,CSK,Arun Jaitley Stadium,10 April 2012
+696,Brad Hogg,4.0,19,1,8,4.75,24.0,RCB,M. Chinnaswamy Stadium,15 April 2012
+697,Pragyan Ojha,4.0,19,1,11,4.75,24.0,DC,Wankhede Stadium,16 April 2012
+698,Ravichandran Ashwin,4.0,19,1,13,4.75,24.0,RR,Chidambaram,21 April 2012
+699,Ankit Sharma,4.0,19,1,11,4.75,24.0,KKR,Barabati Stadium,22 April 2012
+700,Yusuf Pathan,4.0,19,1,14,4.75,24.0,RCB,Eden Gardens,28 April 2012
+701,Kevon Cooper,4.0,19,0,11,4.75,0.0,DC,Arun Jaitley Stadium,29 April 2012
+702,Ravichandran Ashwin,4.0,19,0,6,4.75,0.0,PWI,Maharashtra Cricket Association's International Stadium,14 April 2012
+703,Piyush Chawla,4.0,19,0,8,4.75,0.0,MI,Wankhede Stadium,22 April 2012
+704,Praveen Kumar,4.0,19,0,17,4.75,0.0,PWI,IS Bindra Stadium,12 April 2012
+705,Morne Morkel,4.0,20,4,16,5.0,6.0,PBKS,HPCA Stadium,19 May 2012
+706,Munaf Patel,4.0,20,4,12,5.0,6.0,DEC,ACA-VDCA Stadium,09 April 2012
+707,Azhar Mahmood,4.0,20,3,10,5.0,8.0,RCB,M. Chinnaswamy Stadium,02 May 2012
+708,Jacques Kallis,4.0,20,2,11,5.0,12.0,DC,Arun Jaitley Stadium,07 May 2012
+709,Nuwan Kulasekara,2.0,10,2,9,5.0,6.0,PWI,Chidambaram,19 April 2012
+710,Amit Mishra,4.0,20,2,9,5.0,12.0,RR,Rajiv Gandhi Intl. Cricket Stadium,18 May 2012
+711,Piyush Chawla,4.0,20,2,11,5.0,12.0,CSK,Chidambaram,28 April 2012
+712,Siddharth Trivedi,4.0,20,2,12,5.0,12.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,18 May 2012
+713,Daniel Vettori,4.0,20,1,6,5.0,24.0,RR,M. Chinnaswamy Stadium,15 April 2012
+714,Brad Hogg,4.0,20,1,12,5.0,24.0,KKR,Eden Gardens,13 April 2012
+715,Lakshmipathy Balaji,4.0,20,1,9,5.0,24.0,PBKS,IS Bindra Stadium,18 April 2012
+716,Ben Hilfenhaus,4.0,20,1,15,5.0,24.0,PBKS,HPCA Stadium,17 May 2012
+717,Glenn Maxwell,2.0,10,1,5,5.0,12.0,RCB,M. Chinnaswamy Stadium,07 April 2012
+718,Irfan Pathan,4.0,20,1,11,5.0,24.0,KKR,Maharashtra Cricket Association's International Stadium,22 May 2012
+719,Suresh Raina,2.0,10,1,2,5.0,12.0,DEC,ACA-VDCA Stadium,07 April 2012
+720,Ajit Chandila,4.0,20,1,12,5.0,24.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,18 May 2012
+721,Ashok Menaria,2.0,10,0,7,5.0,0.0,CSK,Chidambaram,21 April 2012
+722,Angelo Mathews,3.0,15,0,3,5.0,0.0,RR,Maharashtra Cricket Association's International Stadium,08 May 2012
+723,Dwayne Smith,2.0,10,0,5,5.0,0.0,RCB,M. Chinnaswamy Stadium,14 May 2012
+724,Albie Morkel,4.0,20,0,13,5.0,0.0,MI,Chidambaram,04 April 2012
+725,Munaf Patel,3.0,15,0,10,5.0,0.0,DC,Wankhede Stadium,16 April 2012
+726,Harshal Patel,2.0,10,0,6,5.0,0.0,DC,M. Chinnaswamy Stadium,07 April 2012
+727,Ravichandran Ashwin,4.0,20,0,10,5.0,0.0,MI,Chidambaram,04 April 2012
+728,Lasith Malinga,4.0,20,0,14,5.0,0.0,RCB,Wankhede Stadium,09 May 2012
+729,Daniel Vettori,4.0,20,0,9,5.0,0.0,RR,Sawai Mansingh Stadium,23 April 2012
+730,Ashish Reddy,2.1,11,1,8,5.07,13.0,MI,Wankhede Stadium,29 April 2012
+731,Lakshmipathy Balaji,3.5,20,1,10,5.21,23.0,PWI,Maharashtra Cricket Association's International Stadium,19 May 2012
+732,Muttiah Muralitharan,4.0,21,3,10,5.25,8.0,CSK,Chidambaram,12 April 2012
+733,Umesh Yadav,4.0,21,3,14,5.25,8.0,PBKS,Arun Jaitley Stadium,15 May 2012
+734,Yo Mahesh,4.0,21,2,10,5.25,12.0,RR,Sawai Mansingh Stadium,10 May 2012
+735,Johan Botha,4.0,21,2,9,5.25,12.0,PBKS,IS Bindra Stadium,05 May 2012
+736,Jacques Kallis,4.0,21,2,10,5.25,12.0,CSK,Chidambaram,30 April 2012
+737,Zaheer Khan,4.0,21,2,11,5.25,12.0,PWI,Maharashtra Cricket Association's International Stadium,11 May 2012
+738,Piyush Chawla,4.0,21,1,9,5.25,24.0,RCB,IS Bindra Stadium,20 April 2012
+739,Morne Morkel,4.0,21,1,10,5.25,24.0,MI,Arun Jaitley Stadium,27 April 2012
+740,Marlon Samuels,4.0,21,1,12,5.25,24.0,MI,Wankhede Stadium,06 April 2012
+741,Ravindra Jadeja,4.0,21,1,9,5.25,24.0,RR,Sawai Mansingh Stadium,10 May 2012
+742,Brett Lee,4.0,21,0,17,5.25,0.0,RCB,M. Chinnaswamy Stadium,10 April 2012
+743,Ravindra Jadeja,4.0,21,0,6,5.25,0.0,PWI,Chidambaram,19 April 2012
+744,Rahul Sharma,3.0,16,2,5,5.33,9.0,CSK,Maharashtra Cricket Association's International Stadium,14 April 2012
+745,Harbhajan Singh,3.0,16,1,7,5.33,18.0,PWI,Wankhede Stadium,06 April 2012
+746,Albie Morkel,3.0,16,1,7,5.33,18.0,DEC,Chidambaram,04 May 2012
+747,Varun Aaron,3.4,20,1,8,5.45,22.0,KKR,Arun Jaitley Stadium,07 May 2012
+748,Vinay Kumar,4.0,22,3,11,5.5,8.0,DEC,Rajiv Gandhi Intl. Cricket Stadium,20 May 2012
+749,Alfonso Thomas,4.0,22,3,13,5.5,8.0,DC,Arun Jaitley Stadium,21 April 2012
+750,Stuart Binny,2.0,3,1,9,1.5,12.0,DC,Sawai Mansingh Stadium,07 May 2013
+751,Mitchell Johnson,4.0,8,2,16,2.0,12.0,PWI,Maharashtra Cricket Association's International Stadium,11 May 2013
+752,Lasith Malinga,3.0,6,2,12,2.0,9.0,CSK,Wankhede Stadium,05 May 2013
+753,Amit Mishra,4.0,8,2,18,2.0,12.0,RR,Rajiv Gandhi Intl. Cricket Stadium,17 May 2013
+754,Karn Sharma,4.0,8,0,16,2.0,0.0,CSK,Chidambaram,25 April 2013
+755,Lakshmipathy Balaji,3.0,7,0,13,2.33,0.0,MI,Wankhede Stadium,07 May 2013
+756,Praveen Kumar,4.0,10,2,17,2.5,12.0,RR,Sawai Mansingh Stadium,14 April 2013
+757,Hanuma Vihari,2.0,5,0,8,2.5,0.0,PBKS,IS Bindra Stadium,11 May 2013
+758,Dale Steyn,4.0,11,2,15,2.75,12.0,DC,Arun Jaitley Stadium,12 April 2013
+759,Sunil Narine,4.0,11,0,17,2.75,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,19 May 2013
+760,Dale Steyn,3.5,11,3,14,2.86,7.66,PWI,Rajiv Gandhi Intl. Cricket Stadium,05 April 2013
+761,Dwayne Bravo,3.0,9,3,9,3.0,6.0,MI,Arun Jaitley Stadium,21 May 2013
+762,Ajit Chandila,2.0,6,2,5,3.0,6.0,MI,Sawai Mansingh Stadium,17 April 2013
+763,Sunil Narine,4.0,12,2,15,3.0,12.0,PWI,Maharashtra Cricket Association's International Stadium,09 May 2013
+764,Bhuvneshwar Kumar,4.0,12,2,15,3.0,12.0,CSK,Chidambaram,15 April 2013
+765,Moises Henriques,2.0,6,1,7,3.0,12.0,RR,Sawai Mansingh Stadium,29 April 2013
+766,Ryan Harris,4.0,12,1,17,3.0,24.0,PWI,Maharashtra Cricket Association's International Stadium,07 April 2013
+767,Sunil Narine,4.0,13,4,14,3.25,6.0,DC,Eden Gardens,03 April 2013
+768,RP Singh,4.0,13,3,17,3.25,8.0,RR,M. Chinnaswamy Stadium,20 April 2013
+769,Jacques Kallis,4.0,13,3,13,3.25,8.0,SRH,Eden Gardens,14 April 2013
+770,Mitchell Johnson,4.0,13,2,14,3.25,12.0,KKR,Wankhede Stadium,07 May 2013
+771,Harbhajan Singh,4.0,13,1,13,3.25,24.0,CSK,Wankhede Stadium,05 May 2013
+772,Mohit Sharma,3.0,10,3,11,3.33,6.0,DC,Arun Jaitley Stadium,18 April 2013
+773,Darren Sammy,3.0,10,2,10,3.33,9.0,DC,Rajiv Gandhi Intl. Cricket Stadium,04 May 2013
+774,Ankeet Chavan,3.0,10,0,12,3.33,0.0,MI,Sawai Mansingh Stadium,17 April 2013
+775,Thisara Perera,3.1,11,2,13,3.47,9.5,DC,Rajiv Gandhi Intl. Cricket Stadium,04 May 2013
+776,Harbhajan Singh,4.0,14,3,10,3.5,8.0,PBKS,Wankhede Stadium,29 April 2013
+777,Jacques Kallis,4.0,14,2,11,3.5,12.0,PBKS,Eden Gardens,26 April 2013
+778,Mitchell Marsh,2.0,7,2,6,3.5,6.0,KKR,Maharashtra Cricket Association's International Stadium,09 May 2013
+779,Dale Steyn,4.0,14,1,14,3.5,24.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,19 April 2013
+780,Harbhajan Singh,4.0,14,1,10,3.5,24.0,PWI,Maharashtra Cricket Association's International Stadium,11 May 2013
+781,Sunil Narine,4.0,14,0,14,3.5,0.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,01 May 2013
+782,Shahbaz Nadeem,2.0,7,0,6,3.5,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,04 May 2013
+783,David Hussey,4.0,14,0,9,3.5,0.0,DC,Arun Jaitley Stadium,23 April 2013
+784,Johan Botha,3.0,11,2,10,3.66,9.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,04 May 2013
+785,Ishant Sharma,3.0,11,1,13,3.66,18.0,DC,Rajiv Gandhi Intl. Cricket Stadium,04 May 2013
+786,Johan Botha,3.0,11,1,10,3.66,18.0,SRH,Arun Jaitley Stadium,12 April 2013
+787,Kevon Cooper,4.0,15,3,11,3.75,8.0,KKR,Sawai Mansingh Stadium,08 April 2013
+788,Ali Murtaza,4.0,15,3,12,3.75,8.0,DC,Maharashtra Cricket Association's International Stadium,19 May 2013
+789,Ishant Sharma,4.0,15,2,15,3.75,12.0,MI,Rajiv Gandhi Intl. Cricket Stadium,01 May 2013
+790,Ajantha Mendis,4.0,15,1,12,3.75,24.0,MI,Maharashtra Cricket Association's International Stadium,11 May 2013
+791,Amit Mishra,4.0,15,1,10,3.75,24.0,DC,Arun Jaitley Stadium,12 April 2013
+792,Dale Steyn,4.0,15,1,16,3.75,24.0,RR,Sawai Mansingh Stadium,27 April 2013
+793,Amit Mishra,4.0,15,1,13,3.75,24.0,RCB,Rajiv Gandhi Intl. Cricket Stadium,07 April 2013
+794,James Faulkner,4.0,16,5,12,4.0,4.8,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2013
+795,Pragyan Ojha,4.0,16,2,9,4.0,12.0,CSK,Chidambaram,06 April 2013
+796,Albie Morkel,3.0,12,2,11,4.0,9.0,MI,Eden Gardens,26 May 2013
+797,Rahul Sharma,4.0,16,2,10,4.0,12.0,RR,Maharashtra Cricket Association's International Stadium,11 April 2013
+798,Amit Mishra,4.0,16,1,11,4.0,24.0,DC,Rajiv Gandhi Intl. Cricket Stadium,04 May 2013
+799,Praveen Kumar,3.0,12,1,11,4.0,18.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,19 April 2013
+800,Irfan Pathan,4.0,16,1,15,4.0,24.0,KKR,Shaheed Veer Narayan Singh International Cricket Stadium,01 May 2013
+801,Parvinder Awana,4.0,16,1,14,4.0,24.0,PWI,Maharashtra Cricket Association's International Stadium,07 April 2013
+802,Amit Mishra,4.0,16,1,15,4.0,24.0,RR,Arun Jaitley Stadium,22 May 2013
+803,Chris Morris,3.0,12,1,9,4.0,18.0,KKR,Eden Gardens,20 April 2013
+804,Yuvraj Singh,2.0,8,1,6,4.0,12.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,05 April 2013
+805,Dale Steyn,4.0,16,0,13,4.0,0.0,RCB,M. Chinnaswamy Stadium,09 April 2013
+806,Parvinder Awana,4.0,16,0,9,4.0,0.0,MI,Wankhede Stadium,29 April 2013
+807,Siddarth Kaul,2.0,8,0,10,4.0,0.0,SRH,Arun Jaitley Stadium,12 April 2013
+808,James Faulkner,4.0,16,0,13,4.0,0.0,KKR,Eden Gardens,03 May 2013
+809,Sunil Narine,4.0,17,3,11,4.25,8.0,MI,Eden Gardens,24 April 2013
+810,Jacques Kallis,4.0,17,2,10,4.25,12.0,RCB,JSCA Stadium,12 May 2013
+811,James Faulkner,4.0,17,2,13,4.25,12.0,PWI,Maharashtra Cricket Association's International Stadium,11 April 2013
+812,Shahbaz Nadeem,4.0,17,2,11,4.25,12.0,SRH,Arun Jaitley Stadium,12 April 2013
+813,Dale Steyn,4.0,17,2,12,4.25,12.0,RR,Rajiv Gandhi Intl. Cricket Stadium,17 May 2013
+814,Murali Kartik,4.0,17,1,15,4.25,24.0,KKR,JSCA Stadium,12 May 2013
+815,Bhuvneshwar Kumar,4.0,17,1,11,4.25,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,05 April 2013
+816,Siddharth Trivedi,4.0,17,1,14,4.25,24.0,MI,Sawai Mansingh Stadium,17 April 2013
+817,Roelof van der Merwe,4.0,17,1,13,4.25,24.0,PBKS,Arun Jaitley Stadium,23 April 2013
+818,Ravi Rampaul,4.0,17,1,13,4.25,24.0,KKR,JSCA Stadium,12 May 2013
+819,Dale Steyn,4.0,17,0,13,4.25,0.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,08 May 2013
+820,Sunil Narine,4.0,17,0,13,4.25,0.0,RCB,M. Chinnaswamy Stadium,11 April 2013
+821,Ajit Chandila,3.0,13,2,13,4.33,9.0,SRH,Sawai Mansingh Stadium,27 April 2013
+822,Karn Sharma,3.0,13,1,8,4.33,18.0,PWI,Maharashtra Cricket Association's International Stadium,17 April 2013
+823,Albie Morkel,3.0,13,1,11,4.33,18.0,DC,Arun Jaitley Stadium,18 April 2013
+824,Mohit Sharma,3.0,13,0,12,4.33,0.0,KKR,Eden Gardens,20 April 2013
+825,Dirk Nannes,3.5,17,2,14,4.43,11.5,PBKS,IS Bindra Stadium,10 April 2013
+826,Vinay Kumar,4.0,18,3,13,4.5,8.0,RR,M. Chinnaswamy Stadium,20 April 2013
+827,Bhuvneshwar Kumar,4.0,18,3,16,4.5,8.0,SRH,Maharashtra Cricket Association's International Stadium,17 April 2013
+828,Ravichandran Ashwin,4.0,18,2,11,4.5,12.0,DC,Arun Jaitley Stadium,18 April 2013
+829,Manpreet Gony,4.0,18,1,15,4.5,24.0,KKR,IS Bindra Stadium,16 April 2013
+830,Lasith Malinga,3.2,15,1,9,4.5,20.0,KKR,Wankhede Stadium,07 May 2013
+831,Sachithra Senanayake,4.0,18,1,16,4.5,24.0,CSK,Eden Gardens,20 April 2013
+832,Shanthakumaran Sreesanth,4.0,18,1,14,4.5,24.0,DC,Arun Jaitley Stadium,06 April 2013
+833,Muttiah Muralitharan,4.0,18,1,8,4.5,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,07 April 2013
+834,Karn Sharma,2.0,9,1,5,4.5,12.0,DC,Rajiv Gandhi Intl. Cricket Stadium,04 May 2013
+835,Sachithra Senanayake,4.0,18,1,6,4.5,24.0,SRH,Eden Gardens,14 April 2013
+836,Dwayne Bravo,4.0,18,1,10,4.5,24.0,PWI,Maharashtra Cricket Association's International Stadium,30 April 2013
+837,Sachithra Senanayake,4.0,18,1,10,4.5,24.0,RCB,JSCA Stadium,12 May 2013
+838,Siddharth Trivedi,4.0,18,1,9,4.5,24.0,SRH,Arun Jaitley Stadium,22 May 2013
+839,Dirk Nannes,4.0,18,1,8,4.5,24.0,MI,Chidambaram,06 April 2013
+840,Yuvraj Singh,2.0,9,0,3,4.5,0.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,28 April 2013
+841,Pragyan Ojha,4.0,18,0,10,4.5,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,01 May 2013
+842,Angelo Mathews,3.0,14,3,9,4.66,6.0,DC,Maharashtra Cricket Association's International Stadium,19 May 2013
+843,Moises Henriques,3.0,14,2,9,4.66,9.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,07 April 2013
+844,Vikramjeet Malik,3.0,14,2,12,4.66,9.0,SRH,Arun Jaitley Stadium,22 May 2013
+845,Stuart Binny,3.0,14,2,8,4.66,9.0,MI,Sawai Mansingh Stadium,17 April 2013
+846,Harbhajan Singh,3.0,14,2,11,4.66,9.0,CSK,Eden Gardens,26 May 2013
+847,Thisara Perera,3.0,14,0,9,4.66,0.0,RR,Arun Jaitley Stadium,22 May 2013
+848,Chris Morris,3.0,14,0,11,4.66,0.0,MI,Wankhede Stadium,05 May 2013
+849,Ajit Chandila,3.0,14,0,12,4.66,0.0,PBKS,Sawai Mansingh Stadium,14 April 2013
+850,Pragyan Ojha,2.2,11,3,8,4.71,4.66,CSK,Wankhede Stadium,05 May 2013
+851,Amit Mishra,4.0,19,4,10,4.75,6.0,PWI,Maharashtra Cricket Association's International Stadium,17 April 2013
+852,Dhawal Kulkarni,4.0,19,3,15,4.75,8.0,RCB,Wankhede Stadium,27 April 2013
+853,Amit Mishra,4.0,19,3,10,4.75,8.0,PWI,Rajiv Gandhi Intl. Cricket Stadium,05 April 2013
+854,Azhar Mahmood,4.0,19,2,10,4.75,12.0,PWI,Maharashtra Cricket Association's International Stadium,07 April 2013
+855,Dwayne Bravo,4.0,19,2,8,4.75,12.0,DC,Chidambaram,14 May 2013
+856,Mitchell Johnson,4.0,19,2,13,4.75,12.0,CSK,Eden Gardens,26 May 2013
+857,Ravichandran Ashwin,4.0,19,2,8,4.75,12.0,DC,Chidambaram,14 May 2013
+858,Praveen Kumar,4.0,19,1,13,4.75,24.0,DC,HPCA Stadium,16 May 2013
+859,Piyush Chawla,4.0,19,1,11,4.75,24.0,PWI,Maharashtra Cricket Association's International Stadium,07 April 2013
+860,Thisara Perera,4.0,19,1,10,4.75,24.0,PBKS,IS Bindra Stadium,11 May 2013
+861,Shane Watson,4.0,19,1,7,4.75,24.0,PBKS,IS Bindra Stadium,09 May 2013
+862,James Faulkner,3.2,16,3,11,4.8,6.66,MI,Sawai Mansingh Stadium,17 April 2013
+863,James Faulkner,4.0,20,5,13,5.0,4.8,SRH,Sawai Mansingh Stadium,27 April 2013
+864,Thisara Perera,4.0,20,3,13,5.0,8.0,PWI,Maharashtra Cricket Association's International Stadium,17 April 2013
+865,James Faulkner,4.0,20,3,8,5.0,8.0,CSK,Chidambaram,22 April 2013
+866,Ravindra Jadeja,4.0,20,3,10,5.0,8.0,KKR,Eden Gardens,20 April 2013
+867,Dale Steyn,4.0,20,2,13,5.0,12.0,PBKS,IS Bindra Stadium,11 May 2013
+868,Shanthakumaran Sreesanth,4.0,20,2,13,5.0,12.0,PBKS,Sawai Mansingh Stadium,14 April 2013
+869,Syed Mohammad,3.0,15,2,6,5.0,9.0,CSK,Chidambaram,13 April 2013
+870,Ravichandran Ashwin,4.0,20,2,7,5.0,12.0,RR,Chidambaram,22 April 2013
+871,Jason Holder,4.0,20,2,14,5.0,12.0,RR,Sawai Mansingh Stadium,12 May 2013
+872,Piyush Chawla,4.0,20,2,15,5.0,12.0,MI,HPCA Stadium,18 May 2013
+873,Sunil Narine,4.0,20,1,10,5.0,24.0,RR,Eden Gardens,03 May 2013
+874,Brett Lee,4.0,20,1,14,5.0,24.0,RR,Sawai Mansingh Stadium,08 April 2013
+875,Lakshmipathy Balaji,4.0,20,1,10,5.0,24.0,DC,Eden Gardens,03 April 2013
+876,Lasith Malinga,4.0,20,1,12,5.0,24.0,DC,Wankhede Stadium,09 April 2013
+877,Piyush Chawla,4.0,20,1,10,5.0,24.0,SRH,IS Bindra Stadium,11 May 2013
+878,Sunil Narine,4.0,20,1,8,5.0,24.0,CSK,Eden Gardens,20 April 2013
+879,Praveen Kumar,3.0,15,1,10,5.0,18.0,MI,HPCA Stadium,18 May 2013
+880,Mitchell Johnson,3.0,15,1,11,5.0,18.0,RCB,M. Chinnaswamy Stadium,04 April 2013
+881,Siddharth Trivedi,4.0,20,1,6,5.0,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2013
+882,Amit Mishra,4.0,20,1,8,5.0,24.0,KKR,Rajiv Gandhi Intl. Cricket Stadium,19 May 2013
+883,RP Singh,4.0,20,1,14,5.0,24.0,PWI,M. Chinnaswamy Stadium,23 April 2013
+884,Karn Sharma,3.0,15,1,10,5.0,18.0,KKR,Rajiv Gandhi Intl. Cricket Stadium,19 May 2013
+885,Anand Rajan,4.0,20,1,11,5.0,24.0,DC,Arun Jaitley Stadium,12 April 2013
+886,Mohit Sharma,4.0,20,0,16,5.0,0.0,MI,Wankhede Stadium,05 May 2013
+887,Shahbaz Nadeem,4.0,20,0,8,5.0,0.0,MI,Arun Jaitley Stadium,21 April 2013
+888,Albie Morkel,4.0,20,0,9,5.0,0.0,PBKS,Chidambaram,02 May 2013
+889,Vinay Kumar,3.2,17,2,11,5.1,10.0,KKR,JSCA Stadium,12 May 2013
+890,Ravi Rampaul,3.4,19,2,15,5.18,11.0,RR,M. Chinnaswamy Stadium,20 April 2013
+891,Mohit Sharma,4.0,21,3,11,5.25,8.0,PWI,Maharashtra Cricket Association's International Stadium,30 April 2013
+892,Azhar Mahmood,4.0,21,3,11,5.25,8.0,KKR,IS Bindra Stadium,16 April 2013
+893,Sandeep Sharma,4.0,21,3,12,5.25,8.0,SRH,IS Bindra Stadium,11 May 2013
+894,Rahul Sharma,4.0,21,2,12,5.25,12.0,SRH,Maharashtra Cricket Association's International Stadium,17 April 2013
+895,Pragyan Ojha,4.0,21,2,9,5.25,12.0,KKR,Eden Gardens,24 April 2013
+896,Dale Steyn,4.0,21,2,14,5.25,12.0,DC,Rajiv Gandhi Intl. Cricket Stadium,04 May 2013
+897,Dhawal Kulkarni,4.0,21,2,12,5.25,12.0,RR,Wankhede Stadium,15 May 2013
+898,Ravi Rampaul,4.0,21,2,14,5.25,12.0,PWI,M. Chinnaswamy Stadium,23 April 2013
+899,Harbhajan Singh,4.0,21,2,10,5.25,12.0,RCB,Wankhede Stadium,27 April 2013
+900,Ravichandran Ashwin,2.0,3,2,10,1.5,6.0,DC,Zayed Cricket Stadium,21 April 2014
+901,Jaydev Unadkat,2.0,3,1,10,1.5,12.0,PBKS,IS Bindra Stadium,25 May 2014
+902,Shane Watson,2.0,5,1,9,2.5,12.0,RCB,Zayed Cricket Stadium,26 April 2014
+903,Axar Patel,4.0,11,2,13,2.75,12.0,KKR,Eden Gardens,28 May 2014
+904,Ravindra Jadeja,4.0,12,4,14,3.0,6.0,KKR,JSCA Stadium,02 May 2014
+905,Varun Aaron,3.0,9,1,12,3.0,18.0,DC,Sharjah Cricket Stadium,17 April 2014
+906,Suresh Raina,2.0,6,0,6,3.0,0.0,RR,Dubai International Stadium,23 April 2014
+907,Lakshmipathy Balaji,4.0,13,4,12,3.25,6.0,SRH,Sharjah Cricket Stadium,22 April 2014
+908,Umesh Yadav,4.0,13,3,15,3.25,8.0,PBKS,Eden Gardens,28 May 2014
+909,Harbhajan Singh,4.0,13,2,17,3.25,12.0,RR,Narendra Modi Stadium,19 May 2014
+910,Rajat Bhatia,4.0,13,2,11,3.25,12.0,CSK,Dubai International Stadium,23 April 2014
+911,Shakib Al Hasan,4.0,13,1,12,3.25,24.0,DC,Arun Jaitley Stadium,07 May 2014
+912,Amit Mishra,4.0,13,0,13,3.25,0.0,RR,Narendra Modi Stadium,08 May 2014
+913,Bhuvneshwar Kumar,4.0,14,4,17,3.5,6.0,RR,Narendra Modi Stadium,08 May 2014
+914,Mohit Sharma,4.0,14,4,14,3.5,6.0,MI,Dubai International Stadium,25 April 2014
+915,Rishi Dhawan,4.0,14,2,11,3.5,12.0,RCB,Dubai International Stadium,28 April 2014
+916,Ashok Dinda,4.0,14,1,12,3.5,24.0,MI,Dubai International Stadium,19 April 2014
+917,Harbhajan Singh,4.0,14,0,12,3.5,0.0,RCB,Dubai International Stadium,19 April 2014
+918,Lasith Malinga,4.0,15,2,10,3.75,12.0,CSK,Wankhede Stadium,10 May 2014
+919,Mitchell Starc,4.0,15,0,16,3.75,0.0,PBKS,Dubai International Stadium,28 April 2014
+920,Varun Aaron,4.0,16,3,13,4.0,8.0,KKR,Sharjah Cricket Stadium,24 April 2014
+921,Axar Patel,4.0,16,2,11,4.0,12.0,KKR,Zayed Cricket Stadium,26 April 2014
+922,Bhuvneshwar Kumar,4.0,16,2,18,4.0,12.0,RCB,M. Chinnaswamy Stadium,04 May 2014
+923,Karanveer Singh,4.0,16,2,12,4.0,12.0,RR,IS Bindra Stadium,23 May 2014
+924,Ravichandran Ashwin,4.0,16,2,17,4.0,12.0,RCB,JSCA Stadium,18 May 2014
+925,Morne Morkel,4.0,16,1,16,4.0,24.0,MI,Zayed Cricket Stadium,16 April 2014
+926,Ashok Dinda,2.0,8,0,7,4.0,0.0,RR,Zayed Cricket Stadium,26 April 2014
+927,Harbhajan Singh,4.0,16,0,9,4.0,0.0,SRH,Dubai International Stadium,30 April 2014
+928,Ravi Rampaul,4.0,16,0,13,4.0,0.0,RR,Zayed Cricket Stadium,26 April 2014
+929,Karn Sharma,2.0,8,0,5,4.0,0.0,RR,Zayed Cricket Stadium,18 April 2014
+930,Karn Sharma,4.0,17,3,14,4.25,8.0,RCB,M. Chinnaswamy Stadium,04 May 2014
+931,Lasith Malinga,4.0,17,2,14,4.25,12.0,DC,Sharjah Cricket Stadium,27 April 2014
+932,Yuzvendra Chahal,4.0,17,2,9,4.25,12.0,MI,Dubai International Stadium,19 April 2014
+933,Bhuvneshwar Kumar,4.0,17,2,16,4.25,12.0,MI,Dubai International Stadium,30 April 2014
+934,Wayne Parnell,4.0,17,1,17,4.25,24.0,MI,Sharjah Cricket Stadium,27 April 2014
+935,Sunil Narine,4.0,17,1,14,4.25,24.0,RCB,Sharjah Cricket Stadium,24 April 2014
+936,Lakshmipathy Balaji,4.0,17,1,11,4.25,24.0,RCB,Dubai International Stadium,28 April 2014
+937,Ravichandran Ashwin,4.0,17,0,9,4.25,0.0,SRH,Sharjah Cricket Stadium,27 April 2014
+938,JP Duminy,3.0,13,0,9,4.33,0.0,MI,Sharjah Cricket Stadium,27 April 2014
+939,Kane Richardson,4.0,18,2,11,4.5,12.0,RCB,Zayed Cricket Stadium,26 April 2014
+940,Ravindra Jadeja,4.0,18,2,10,4.5,12.0,RR,JSCA Stadium,13 May 2014
+941,Ben Hilfenhaus,2.0,9,1,7,4.5,12.0,DC,Zayed Cricket Stadium,21 April 2014
+942,Yuzvendra Chahal,4.0,18,1,11,4.5,24.0,DC,Sharjah Cricket Stadium,17 April 2014
+943,Abu Nechim,4.0,18,1,7,4.5,24.0,CSK,JSCA Stadium,18 May 2014
+944,Sunil Narine,4.0,18,1,9,4.5,24.0,DC,Dubai International Stadium,19 April 2014
+945,Sunil Narine,4.0,18,1,10,4.5,24.0,MI,Barabati Stadium,14 May 2014
+946,Axar Patel,4.0,18,1,12,4.5,24.0,DC,Arun Jaitley Stadium,19 May 2014
+947,Piyush Chawla,4.0,19,3,7,4.75,8.0,PBKS,Barabati Stadium,11 May 2014
+948,Piyush Chawla,4.0,19,3,10,4.75,8.0,PBKS,Zayed Cricket Stadium,26 April 2014
+949,Bhuvneshwar Kumar,4.0,19,3,15,4.75,8.0,PBKS,Sharjah Cricket Stadium,22 April 2014
+950,Karn Sharma,4.0,19,2,12,4.75,12.0,CSK,JSCA Stadium,22 May 2014
+951,Mitchell Johnson,4.0,19,2,12,4.75,12.0,RCB,Dubai International Stadium,28 April 2014
+952,Samuel Badree,4.0,19,1,15,4.75,24.0,RR,JSCA Stadium,13 May 2014
+953,Shahbaz Nadeem,4.0,19,1,9,4.75,24.0,MI,Sharjah Cricket Stadium,27 April 2014
+954,Karn Sharma,4.0,19,1,9,4.75,24.0,KKR,Rajiv Gandhi Intl. Cricket Stadium,18 May 2014
+955,Sunil Narine,4.0,19,0,10,4.75,0.0,SRH,Eden Gardens,24 May 2014
+956,Sunil Narine,4.0,20,4,13,5.0,6.0,MI,Zayed Cricket Stadium,16 April 2014
+957,Sunil Narine,4.0,20,4,9,5.0,6.0,RCB,Eden Gardens,22 May 2014
+958,Pravin Tambe,4.0,20,4,14,5.0,6.0,RCB,Zayed Cricket Stadium,26 April 2014
+959,Sandeep Sharma,3.0,15,3,12,5.0,6.0,RCB,Dubai International Stadium,28 April 2014
+960,Dale Steyn,4.0,20,2,15,5.0,12.0,MI,Dubai International Stadium,30 April 2014
+961,Morne Morkel,4.0,20,2,16,5.0,12.0,PBKS,Barabati Stadium,11 May 2014
+962,Dale Steyn,4.0,20,2,11,5.0,12.0,DC,Arun Jaitley Stadium,10 May 2014
+963,Ankit Sharma,4.0,20,2,12,5.0,12.0,CSK,JSCA Stadium,13 May 2014
+964,Irfan Pathan,2.0,10,2,4,5.0,6.0,MI,Dubai International Stadium,30 April 2014
+965,Parvinder Awana,3.0,15,2,11,5.0,9.0,DC,IS Bindra Stadium,25 May 2014
+966,Axar Patel,4.0,20,2,10,5.0,12.0,SRH,Sharjah Cricket Stadium,22 April 2014
+967,Piyush Chawla,3.0,15,1,7,5.0,18.0,MI,Zayed Cricket Stadium,16 April 2014
+968,Albie Morkel,4.0,20,1,12,5.0,24.0,PBKS,M. Chinnaswamy Stadium,09 May 2014
+969,Karn Sharma,4.0,20,1,6,5.0,24.0,RR,Narendra Modi Stadium,08 May 2014
+970,Praveen Kumar,4.0,20,1,16,5.0,24.0,PBKS,IS Bindra Stadium,21 May 2014
+971,Dale Steyn,4.0,20,0,12,5.0,0.0,CSK,Sharjah Cricket Stadium,27 April 2014
+972,Ravichandran Ashwin,4.0,20,0,9,5.0,0.0,MI,Dubai International Stadium,25 April 2014
+973,James Faulkner,4.0,20,0,9,5.0,0.0,SRH,Narendra Modi Stadium,08 May 2014
+974,Suresh Raina,4.0,20,0,9,5.0,0.0,RCB,JSCA Stadium,18 May 2014
+975,Axar Patel,4.0,20,0,12,5.0,0.0,KKR,Barabati Stadium,11 May 2014
+976,JP Duminy,2.0,10,0,6,5.0,0.0,RCB,Sharjah Cricket Stadium,17 April 2014
+977,Samuel Badree,3.0,15,0,7,5.0,0.0,RCB,JSCA Stadium,18 May 2014
+978,Shane Watson,4.0,21,3,12,5.25,8.0,KKR,Narendra Modi Stadium,05 May 2014
+979,Sandeep Sharma,4.0,21,3,16,5.25,8.0,KKR,Zayed Cricket Stadium,26 April 2014
+980,Wayne Parnell,4.0,21,2,11,5.25,12.0,KKR,Arun Jaitley Stadium,07 May 2014
+981,Mitchell Starc,4.0,21,2,11,5.25,12.0,SRH,M. Chinnaswamy Stadium,04 May 2014
+982,Bhuvneshwar Kumar,4.0,21,2,12,5.25,12.0,MI,Rajiv Gandhi Intl. Cricket Stadium,12 May 2014
+983,Mitchell Starc,4.0,21,2,11,5.25,12.0,MI,Dubai International Stadium,19 April 2014
+984,Zaheer Khan,4.0,21,2,12,5.25,12.0,RCB,Dubai International Stadium,19 April 2014
+985,Pravin Tambe,4.0,21,1,7,5.25,24.0,SRH,Narendra Modi Stadium,08 May 2014
+986,Sunil Narine,4.0,21,1,13,5.25,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,18 May 2014
+987,Ravichandran Ashwin,4.0,21,1,11,5.25,24.0,KKR,JSCA Stadium,02 May 2014
+988,Shakib Al Hasan,4.0,21,1,13,5.25,24.0,MI,Barabati Stadium,14 May 2014
+989,Axar Patel,4.0,21,0,10,5.25,0.0,KKR,M. Chinnaswamy Stadium,01 June 2014
+990,Ishwar Pandey,4.0,21,0,12,5.25,0.0,MI,Dubai International Stadium,25 April 2014
+991,Morne Morkel,4.0,21,0,14,5.25,0.0,RCB,Eden Gardens,22 May 2014
+992,Mohit Sharma,3.0,16,1,9,5.33,18.0,RCB,M. Chinnaswamy Stadium,24 May 2014
+993,Tim Southee,3.0,16,0,9,5.33,0.0,RCB,Zayed Cricket Stadium,26 April 2014
+994,James Faulkner,2.0,11,3,7,5.5,4.0,KKR,Zayed Cricket Stadium,29 April 2014
+995,Imran Tahir,4.0,22,3,11,5.5,8.0,PBKS,Arun Jaitley Stadium,19 May 2014
+996,Harbhajan Singh,4.0,22,2,10,5.5,12.0,KKR,Barabati Stadium,14 May 2014
+997,Karanveer Singh,4.0,22,2,8,5.5,12.0,DC,IS Bindra Stadium,25 May 2014
+998,Jasprit Bumrah,4.0,22,2,12,5.5,12.0,RCB,Wankhede Stadium,06 May 2014
+999,Rajat Bhatia,4.0,22,2,7,5.5,12.0,SRH,Zayed Cricket Stadium,18 April 2014
+1000,Dwayne Smith,2.0,11,1,4,5.5,12.0,SRH,Sharjah Cricket Stadium,27 April 2014
+1001,Moises Henriques,2.0,11,1,5,5.5,12.0,RR,Narendra Modi Stadium,08 May 2014
+1002,Ishwar Pandey,4.0,22,1,14,5.5,24.0,RR,Dubai International Stadium,23 April 2014
+1003,Axar Patel,4.0,22,1,14,5.5,24.0,RR,Sharjah Cricket Stadium,20 April 2014
+1004,Rishi Dhawan,4.0,22,1,11,5.5,24.0,DC,IS Bindra Stadium,25 May 2014
+1005,Mohammad Shami,4.0,22,1,10,5.5,24.0,RR,Arun Jaitley Stadium,03 May 2014
+1006,Axar Patel,4.0,22,1,7,5.5,24.0,RCB,M. Chinnaswamy Stadium,09 May 2014
+1007,Axar Patel,2.0,11,0,5,5.5,0.0,RCB,Dubai International Stadium,28 April 2014
+1008,Lasith Malinga,4.0,22,0,11,5.5,0.0,CSK,Dubai International Stadium,25 April 2014
+1009,Harbhajan Singh,4.0,22,0,10,5.5,0.0,CSK,Wankhede Stadium,10 May 2014
+1010,Mohit Sharma,3.0,17,1,6,5.66,18.0,DC,Zayed Cricket Stadium,21 April 2014
+1011,Rahul Tewatia,3.0,17,1,9,5.66,18.0,RCB,M. Chinnaswamy Stadium,11 May 2014
+1012,Yuzvendra Chahal,3.0,17,1,13,5.66,18.0,RR,Zayed Cricket Stadium,26 April 2014
+1013,Lasith Malinga,4.0,23,4,10,5.75,6.0,KKR,Zayed Cricket Stadium,16 April 2014
+1014,Rajat Bhatia,4.0,23,3,6,5.75,8.0,SRH,Narendra Modi Stadium,08 May 2014
+1015,Ankit Sharma,4.0,23,2,10,5.75,12.0,MI,Narendra Modi Stadium,19 May 2014
+1016,Dhawal Kulkarni,4.0,23,2,11,5.75,12.0,SRH,Zayed Cricket Stadium,18 April 2014
+1017,Yuzvendra Chahal,4.0,23,2,8,5.75,12.0,PBKS,Dubai International Stadium,28 April 2014
+1018,Rishi Dhawan,4.0,23,2,12,5.75,12.0,MI,Wankhede Stadium,03 May 2014
+1019,Bhuvneshwar Kumar,4.0,23,2,10,5.75,12.0,CSK,Sharjah Cricket Stadium,27 April 2014
+1020,Yuzvendra Chahal,4.0,23,2,7,5.75,12.0,PBKS,M. Chinnaswamy Stadium,09 May 2014
+1021,Morne Morkel,4.0,23,2,14,5.75,12.0,PBKS,Eden Gardens,28 May 2014
+1022,Ishwar Pandey,4.0,23,2,13,5.75,12.0,DC,Zayed Cricket Stadium,21 April 2014
+1023,Zaheer Khan,4.0,23,1,11,5.75,24.0,KKR,Zayed Cricket Stadium,16 April 2014
+1024,Piyush Chawla,4.0,23,1,7,5.75,24.0,PBKS,Eden Gardens,28 May 2014
+1025,Ravindra Jadeja,4.0,23,1,10,5.75,24.0,DC,Arun Jaitley Stadium,05 May 2014
+1026,Shakib Al Hasan,4.0,23,1,8,5.75,24.0,RR,Zayed Cricket Stadium,29 April 2014
+1027,Karn Sharma,4.0,23,1,10,5.75,24.0,DC,Dubai International Stadium,25 April 2014
+1028,Axar Patel,4.0,23,1,8,5.75,24.0,CSK,Wankhede Stadium,30 May 2014
+1029,Bhuvneshwar Kumar,4.0,23,1,10,5.75,24.0,DC,Arun Jaitley Stadium,10 May 2014
+1030,Mitchell Starc,4.0,23,0,9,5.75,0.0,CSK,JSCA Stadium,18 May 2014
+1031,Mohammad Shami,4.0,23,0,8,5.75,0.0,KKR,Arun Jaitley Stadium,07 May 2014
+1032,Pravin Tambe,4.0,23,0,8,5.75,0.0,SRH,Zayed Cricket Stadium,18 April 2014
+1033,Harbhajan Singh,4.0,23,0,10,5.75,0.0,DC,Sharjah Cricket Stadium,27 April 2014
+1034,Dale Steyn,4.0,23,0,9,5.75,0.0,RCB,Rajiv Gandhi Intl. Cricket Stadium,20 May 2014
+1035,Sunil Narine,4.0,24,3,11,6.0,8.0,PBKS,Zayed Cricket Stadium,26 April 2014
+1036,Axar Patel,4.0,24,3,6,6.0,8.0,RR,IS Bindra Stadium,23 May 2014
+1037,Rajat Bhatia,3.0,18,2,7,6.0,9.0,DC,Narendra Modi Stadium,15 May 2014
+1038,Bhuvneshwar Kumar,3.3,21,1,9,6.0,21.0,RR,Zayed Cricket Stadium,18 April 2014
+1039,Albie Morkel,3.0,18,1,7,6.0,18.0,DC,Sharjah Cricket Stadium,17 April 2014
+1040,Shahbaz Nadeem,4.0,24,1,12,6.0,24.0,SRH,Dubai International Stadium,25 April 2014
+1041,Dale Steyn,4.0,24,1,10,6.0,24.0,KKR,Rajiv Gandhi Intl. Cricket Stadium,18 May 2014
+1042,Rishi Dhawan,4.0,24,1,7,6.0,24.0,KKR,Zayed Cricket Stadium,26 April 2014
+1043,Sunil Narine,4.0,24,1,11,6.0,24.0,CSK,Eden Gardens,20 May 2014
+1044,Piyush Chawla,4.0,24,1,10,6.0,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,18 May 2014
+1045,Rahul Tewatia,4.0,24,1,10,6.0,24.0,PBKS,IS Bindra Stadium,23 May 2014
+1046,Yuzvendra Chahal,4.0,24,1,8,6.0,24.0,RR,M. Chinnaswamy Stadium,11 May 2014
+1047,Dhawal Kulkarni,4.0,24,1,10,6.0,24.0,DC,Narendra Modi Stadium,15 May 2014
+1048,Ravichandran Ashwin,4.0,24,0,9,6.0,0.0,KKR,Eden Gardens,20 May 2014
+1049,Yuzvendra Chahal,4.0,24,0,8,6.0,0.0,CSK,M. Chinnaswamy Stadium,24 May 2014
+1050,Zaheer Khan,4.0,9,2,18,2.25,12.0,CSK,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+1051,Ashish Nehra,4.0,10,4,14,2.5,6.0,RCB,M. Chinnaswamy Stadium,22 April 2015
+1052,Ravichandran Ashwin,2.0,5,2,8,2.5,6.0,KKR,Chidambaram,28 April 2015
+1053,Ravindra Jadeja,4.0,11,4,11,2.75,6.0,RR,Chidambaram,10 May 2015
+1054,Harbhajan Singh,4.0,11,2,15,2.75,12.0,DC,Wankhede Stadium,05 May 2015
+1055,Dhawal Kulkarni,3.0,9,2,13,3.0,9.0,SRH,ACA-VDCA Stadium,16 April 2015
+1056,Sandeep Sharma,4.0,12,1,14,3.0,24.0,MI,Wankhede Stadium,12 April 2015
+1057,Ravichandran Ashwin,4.0,13,1,16,3.25,24.0,RCB,JSCA Stadium,22 May 2015
+1058,Mohit Sharma,3.0,10,1,12,3.33,18.0,PBKS,Chidambaram,25 April 2015
+1059,Sandeep Sharma,3.0,10,0,12,3.33,0.0,DC,Arun Jaitley Stadium,01 May 2015
+1060,Ravichandran Ashwin,4.0,14,2,14,3.5,12.0,PBKS,Chidambaram,25 April 2015
+1061,Ravichandran Ashwin,4.0,14,1,14,3.5,24.0,PBKS,IS Bindra Stadium,16 May 2015
+1062,Domnic Joseph,2.0,7,1,8,3.5,12.0,MI,Arun Jaitley Stadium,23 April 2015
+1063,Ravindra Jadeja,3.0,11,0,10,3.66,0.0,KKR,Chidambaram,28 April 2015
+1064,Mitchell Starc,4.0,15,4,14,3.75,6.0,PBKS,M. Chinnaswamy Stadium,06 May 2015
+1065,JP Duminy,4.0,15,1,10,3.75,24.0,PBKS,Arun Jaitley Stadium,01 May 2015
+1066,Moises Henriques,4.0,16,3,10,4.0,8.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,11 May 2015
+1067,Mitchell McClenaghan,4.0,16,3,13,4.0,8.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+1068,Ashish Nehra,4.0,16,2,15,4.0,12.0,PBKS,Chidambaram,25 April 2015
+1069,Karn Sharma,3.0,12,2,11,4.0,9.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+1070,Stuart Binny,2.0,8,1,8,4.0,12.0,MI,Narendra Modi Stadium,14 April 2015
+1071,Piyush Chawla,4.0,16,1,8,4.0,24.0,SRH,Eden Gardens,04 May 2015
+1072,Jayant Yadav,2.0,8,1,7,4.0,12.0,CSK,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+1073,Suresh Raina,3.0,12,0,8,4.0,0.0,KKR,Chidambaram,28 April 2015
+1074,Zaheer Khan,4.0,17,2,13,4.25,12.0,PBKS,Arun Jaitley Stadium,01 May 2015
+1075,Brad Hogg,4.0,17,2,10,4.25,12.0,SRH,Eden Gardens,04 May 2015
+1076,Lasith Malinga,4.0,17,2,12,4.25,12.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+1077,Ravichandran Ashwin,4.0,17,2,15,4.25,12.0,MI,Chidambaram,08 May 2015
+1078,Sunil Narine,4.0,17,1,11,4.25,24.0,PBKS,Maharashtra Cricket Association's International Stadium,18 April 2015
+1079,Iqbal Abdulla,4.0,17,1,12,4.25,24.0,DC,Arun Jaitley Stadium,26 April 2015
+1080,Vinay Kumar,3.0,13,1,11,4.33,18.0,RR,Narendra Modi Stadium,14 April 2015
+1081,Dwayne Bravo,3.0,13,0,5,4.33,0.0,PBKS,Chidambaram,25 April 2015
+1082,Umesh Yadav,4.0,18,2,11,4.5,12.0,DC,Arun Jaitley Stadium,20 April 2015
+1083,Morne Morkel,4.0,18,2,15,4.5,12.0,MI,Eden Gardens,08 April 2015
+1084,Ravi Bopara,4.0,18,2,12,4.5,12.0,RR,ACA-VDCA Stadium,16 April 2015
+1085,Sandeep Sharma,2.0,9,1,7,4.5,12.0,CSK,IS Bindra Stadium,16 May 2015
+1086,Brad Hogg,4.0,18,1,9,4.5,24.0,CSK,Chidambaram,28 April 2015
+1087,Beuran Hendricks,2.0,9,1,4,4.5,12.0,RCB,IS Bindra Stadium,13 May 2015
+1088,Shahbaz Nadeem,4.0,18,0,15,4.5,0.0,CSK,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+1089,Dwayne Bravo,3.4,17,2,12,4.63,11.0,RCB,Chidambaram,04 May 2015
+1090,Jagadeesha Suchith,3.0,14,2,8,4.66,9.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+1091,Harshal Patel,3.0,14,1,7,4.66,18.0,DC,Arun Jaitley Stadium,26 April 2015
+1092,Nathan Coulter-Nile,3.0,14,0,13,4.66,0.0,PBKS,Maharashtra Cricket Association's International Stadium,15 April 2015
+1093,Sunil Narine,4.0,19,4,13,4.75,6.0,PBKS,Eden Gardens,09 May 2015
+1094,Chris Morris,4.0,19,3,12,4.75,8.0,CSK,Chidambaram,10 May 2015
+1095,Trent Boult,4.0,19,3,14,4.75,8.0,PBKS,IS Bindra Stadium,27 April 2015
+1096,Ashish Nehra,4.0,19,3,13,4.75,8.0,RCB,Chidambaram,04 May 2015
+1097,Harshal Patel,4.0,19,2,13,4.75,12.0,CSK,Chidambaram,04 May 2015
+1098,Jayant Yadav,4.0,19,1,10,4.75,24.0,SRH,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+1099,Chris Morris,4.0,19,1,14,4.75,24.0,CSK,Narendra Modi Stadium,19 April 2015
+1100,Sandeep Sharma,4.0,19,1,11,4.75,24.0,RR,Maharashtra Cricket Association's International Stadium,10 April 2015
+1101,Nathan Coulter-Nile,4.0,20,4,13,5.0,6.0,PBKS,Arun Jaitley Stadium,01 May 2015
+1102,Mitchell Starc,4.0,20,3,14,5.0,8.0,DC,Arun Jaitley Stadium,26 April 2015
+1103,Mitchell McClenaghan,4.0,20,3,13,5.0,8.0,SRH,Wankhede Stadium,25 April 2015
+1104,Yuzvendra Chahal,4.0,20,2,9,5.0,12.0,RR,Maharashtra Cricket Association's International Stadium,20 May 2015
+1105,Harbhajan Singh,4.0,20,2,9,5.0,12.0,PBKS,Wankhede Stadium,12 April 2015
+1106,Moises Henriques,4.0,20,2,12,5.0,12.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,02 May 2015
+1107,Andre Russell,4.0,20,2,9,5.0,12.0,CSK,Eden Gardens,30 April 2015
+1108,Harshal Patel,3.0,15,2,8,5.0,9.0,RR,Maharashtra Cricket Association's International Stadium,20 May 2015
+1109,Sreenath Aravind,4.0,20,2,13,5.0,12.0,RR,Maharashtra Cricket Association's International Stadium,20 May 2015
+1110,Bhuvneshwar Kumar,4.0,20,1,11,5.0,24.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+1111,Dhawal Kulkarni,3.0,15,1,10,5.0,18.0,MI,Narendra Modi Stadium,14 April 2015
+1112,Karn Sharma,4.0,20,1,7,5.0,24.0,RCB,M. Chinnaswamy Stadium,13 April 2015
+1113,Parveez Rasool,4.0,20,1,9,5.0,24.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+1114,Amit Mishra,4.0,20,1,14,5.0,24.0,KKR,Eden Gardens,07 May 2015
+1115,Andre Russell,2.0,10,1,8,5.0,12.0,SRH,Eden Gardens,04 May 2015
+1116,Amit Mishra,2.0,10,1,5,5.0,12.0,PBKS,Arun Jaitley Stadium,01 May 2015
+1117,Deepak Hooda,4.0,20,0,8,5.0,0.0,DC,Arun Jaitley Stadium,12 April 2015
+1118,Pravin Tambe,3.0,15,0,7,5.0,0.0,PBKS,Maharashtra Cricket Association's International Stadium,10 April 2015
+1119,Pravin Tambe,4.0,21,2,12,5.25,12.0,SRH,ACA-VDCA Stadium,16 April 2015
+1120,Ishwar Pandey,4.0,21,1,14,5.25,24.0,RCB,M. Chinnaswamy Stadium,22 April 2015
+1121,Jagadeesha Suchith,4.0,21,1,10,5.25,24.0,CSK,Chidambaram,08 May 2015
+1122,Amit Mishra,4.0,21,1,10,5.25,24.0,CSK,Chidambaram,09 April 2015
+1123,Bhuvneshwar Kumar,4.0,21,1,9,5.25,24.0,DC,ACA-VDCA Stadium,18 April 2015
+1124,Piyush Chawla,4.0,21,1,13,5.25,24.0,CSK,Eden Gardens,30 April 2015
+1125,Chris Morris,4.0,21,0,14,5.25,0.0,PBKS,Maharashtra Cricket Association's International Stadium,10 April 2015
+1126,Bhuvneshwar Kumar,3.0,16,0,10,5.33,0.0,MI,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+1127,Murali Vijay,3.0,16,0,3,5.33,0.0,SRH,IS Bindra Stadium,27 April 2015
+1128,David Wiese,3.2,18,2,8,5.4,10.0,DC,Arun Jaitley Stadium,26 April 2015
+1129,Mitchell Starc,4.0,22,3,13,5.5,8.0,RR,Narendra Modi Stadium,24 April 2015
+1130,Imran Tahir,4.0,22,3,13,5.5,8.0,MI,Arun Jaitley Stadium,23 April 2015
+1131,Ravindra Jadeja,4.0,22,3,9,5.5,8.0,PBKS,Chidambaram,25 April 2015
+1132,Axar Patel,2.0,11,2,2,5.5,6.0,RCB,IS Bindra Stadium,13 May 2015
+1133,Shakib Al Hasan,4.0,22,2,12,5.5,12.0,MI,Wankhede Stadium,14 May 2015
+1134,James Faulkner,4.0,22,2,10,5.5,12.0,DC,Brabourne Stadium,03 May 2015
+1135,Ravichandran Ashwin,4.0,22,1,8,5.5,24.0,SRH,Chidambaram,11 April 2015
+1136,Karn Sharma,4.0,22,1,6,5.5,24.0,PBKS,IS Bindra Stadium,27 April 2015
+1137,Mohit Sharma,4.0,22,1,14,5.5,24.0,KKR,Eden Gardens,30 April 2015
+1138,Mitchell Starc,4.0,22,1,13,5.5,24.0,RR,Maharashtra Cricket Association's International Stadium,20 May 2015
+1139,Mohit Sharma,4.0,22,1,9,5.5,24.0,RCB,JSCA Stadium,22 May 2015
+1140,Ravindra Jadeja,2.0,11,0,5,5.5,0.0,RCB,Chidambaram,04 May 2015
+1141,Yusuf Pathan,2.0,11,0,4,5.5,0.0,CSK,Eden Gardens,30 April 2015
+1142,Deepak Hooda,2.0,11,0,6,5.5,0.0,SRH,ACA-VDCA Stadium,16 April 2015
+1143,JP Duminy,3.0,17,4,6,5.66,4.5,SRH,ACA-VDCA Stadium,18 April 2015
+1144,Gurkeerat Mann Singh,3.0,17,2,8,5.66,9.0,KKR,Eden Gardens,09 May 2015
+1145,Ashish Nehra,3.0,17,1,12,5.66,18.0,PBKS,IS Bindra Stadium,16 May 2015
+1146,Vinay Kumar,3.0,17,0,9,5.66,0.0,PBKS,IS Bindra Stadium,03 May 2015
+1147,Moises Henriques,3.0,17,0,8,5.66,0.0,MI,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+1148,Chris Morris,4.0,23,4,10,5.75,6.0,KKR,Brabourne Stadium,16 May 2015
+1149,Lasith Malinga,4.0,23,4,13,5.75,6.0,SRH,Wankhede Stadium,25 April 2015
+1150,Lasith Malinga,4.0,23,3,8,5.75,8.0,CSK,Wankhede Stadium,19 May 2015
+1151,Ashish Nehra,4.0,23,3,13,5.75,8.0,MI,Wankhede Stadium,17 April 2015
+1152,Anureet Singh,4.0,23,3,12,5.75,8.0,RR,Maharashtra Cricket Association's International Stadium,10 April 2015
+1153,Mitchell Johnson,4.0,23,2,17,5.75,12.0,MI,Wankhede Stadium,12 April 2015
+1154,Bhuvneshwar Kumar,4.0,23,2,11,5.75,12.0,PBKS,IS Bindra Stadium,27 April 2015
+1155,Harshal Patel,4.0,23,2,7,5.75,12.0,RR,Narendra Modi Stadium,24 April 2015
+1156,Pawan Negi,4.0,23,1,7,5.75,24.0,KKR,Eden Gardens,30 April 2015
+1157,Bipul Sharma,4.0,23,1,8,5.75,24.0,KKR,Eden Gardens,04 May 2015
+1158,Lasith Malinga,4.0,23,1,11,5.75,24.0,DC,Arun Jaitley Stadium,23 April 2015
+1159,Mitchell Starc,4.0,24,3,13,6.0,8.0,CSK,Chidambaram,04 May 2015
+1160,Varun Aaron,4.0,24,2,13,6.0,12.0,DC,Arun Jaitley Stadium,26 April 2015
+1161,Harshal Patel,2.0,12,2,4,6.0,6.0,PBKS,IS Bindra Stadium,13 May 2015
+1162,Domnic Joseph,3.0,18,2,12,6.0,9.0,KKR,Arun Jaitley Stadium,20 April 2015
+1163,Ravindra Jadeja,3.0,18,1,6,6.0,18.0,PBKS,IS Bindra Stadium,16 May 2015
+1164,Pravin Tambe,3.0,18,1,8,6.0,18.0,DC,Arun Jaitley Stadium,12 April 2015
+1165,Harbhajan Singh,3.0,18,1,6,6.0,18.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 May 2015
+1166,Domnic Joseph,3.0,18,1,9,6.0,18.0,CSK,Chidambaram,09 April 2015
+1167,Rishi Dhawan,2.0,12,1,7,6.0,12.0,CSK,IS Bindra Stadium,16 May 2015
+1168,Andre Russell,4.0,24,1,13,6.0,24.0,DC,Eden Gardens,07 May 2015
+1169,Mitchell Starc,4.0,24,1,12,6.0,24.0,CSK,M. Chinnaswamy Stadium,22 April 2015
+1170,Vinay Kumar,3.3,21,0,10,6.0,0.0,KKR,Eden Gardens,08 April 2015
+1171,Corey Anderson,2.0,12,0,5,6.0,0.0,RR,Narendra Modi Stadium,14 April 2015
+1172,Stuart Binny,2.0,12,0,4,6.0,0.0,SRH,ACA-VDCA Stadium,16 April 2015
+1173,Ishwar Pandey,2.0,12,0,6,6.0,0.0,RR,Narendra Modi Stadium,19 April 2015
+1174,Ravichandran Ashwin,4.0,24,0,13,6.0,0.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+1175,Ravindra Jadeja,2.4,16,0,6,6.0,0.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,12 May 2015
+1176,Sandeep Sharma,4.0,25,4,15,6.25,6.0,KKR,Maharashtra Cricket Association's International Stadium,18 April 2015
+1177,Ashish Nehra,4.0,25,3,12,6.25,8.0,DC,Chidambaram,09 April 2015
+1178,Dwayne Bravo,4.0,25,3,11,6.25,8.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,02 May 2015
+1179,Mitchell McClenaghan,4.0,25,3,15,6.25,8.0,CSK,Eden Gardens,24 May 2015
+1180,Mohit Sharma,4.0,25,3,11,6.25,8.0,RR,Chidambaram,10 May 2015
+1181,Axar Patel,4.0,25,2,8,6.25,12.0,SRH,IS Bindra Stadium,27 April 2015
+1182,Pawan Negi,4.0,25,2,10,6.25,12.0,PBKS,IS Bindra Stadium,16 May 2015
+1183,Dwayne Bravo,4.0,25,2,5,6.25,12.0,SRH,Chidambaram,11 April 2015
+1184,Lasith Malinga,4.0,25,2,10,6.25,12.0,CSK,Eden Gardens,24 May 2015
+1185,Nathan Coulter-Nile,4.0,25,2,12,6.25,12.0,SRH,Shaheed Veer Narayan Singh International Cricket Stadium,09 May 2015
+1186,Sandeep Sharma,4.0,25,1,10,6.25,24.0,RR,Narendra Modi Stadium,21 April 2015
+1187,Jagadeesha Suchith,4.0,25,1,9,6.25,24.0,SRH,Wankhede Stadium,25 April 2015
+1188,Amit Mishra,4.0,25,1,7,6.25,24.0,MI,Wankhede Stadium,05 May 2015
+1189,Shane Watson,4.0,25,1,14,6.25,24.0,DC,Brabourne Stadium,03 May 2015
+1190,Ravichandran Ashwin,4.0,25,1,8,6.25,24.0,DC,Chidambaram,09 April 2015
+1191,Sreenath Aravind,4.0,25,1,9,6.25,24.0,CSK,JSCA Stadium,22 May 2015
+1192,Bhuvneshwar Kumar,4.0,25,0,9,6.25,0.0,RR,ACA-VDCA Stadium,16 April 2015
+1193,Mitchell McClenaghan,4.0,25,0,7,6.25,0.0,PBKS,IS Bindra Stadium,03 May 2015
+1194,Anureet Singh,4.0,25,0,6,6.25,0.0,RCB,M. Chinnaswamy Stadium,06 May 2015
+1195,Pat Cummins,4.0,25,0,12,6.25,0.0,CSK,Chidambaram,28 April 2015
+1196,Karn Sharma,3.0,19,1,7,6.33,18.0,RR,ACA-VDCA Stadium,16 April 2015
+1197,Angelo Mathews,3.0,19,0,6,6.33,0.0,PBKS,Arun Jaitley Stadium,01 May 2015
+1198,James Faulkner,4.0,26,3,11,6.5,8.0,PBKS,Maharashtra Cricket Association's International Stadium,10 April 2015
+1199,Bhuvneshwar Kumar,4.0,26,3,13,6.5,8.0,MI,Wankhede Stadium,25 April 2015
+1200,Chris Gayle,2.0,3,0,10,1.5,0.0,GL,M. Chinnaswamy Stadium,14 May 2016
+1201,Dwayne Smith,4.0,8,4,18,2.0,6.0,KKR,Green Park,19 May 2016
+1202,John Hastings,2.4,6,2,13,2.25,8.0,DC,Eden Gardens,10 April 2016
+1203,Mustafizur Rahman,4.0,9,2,17,2.25,12.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,23 April 2016
+1204,Rajat Bhatia,4.0,10,1,17,2.5,24.0,MI,Wankhede Stadium,09 April 2016
+1205,Sunil Narine,3.4,10,0,13,2.72,0.0,RPS,Eden Gardens,14 May 2016
+1206,Sandeep Sharma,4.0,11,2,16,2.75,12.0,MI,ACA-VDCA Stadium,13 May 2016
+1207,Sandeep Sharma,2.0,6,1,9,3.0,12.0,DC,Arun Jaitley Stadium,15 April 2016
+1208,Jasprit Bumrah,4.0,13,3,12,3.25,8.0,DC,ACA-VDCA Stadium,15 May 2016
+1209,Praveen Kumar,4.0,13,0,12,3.25,0.0,DC,Arun Jaitley Stadium,27 April 2016
+1210,Dhawal Kulkarni,4.0,14,4,13,3.5,6.0,RCB,M. Chinnaswamy Stadium,24 May 2016
+1211,Shane Watson,2.0,7,2,7,3.5,6.0,PBKS,M. Chinnaswamy Stadium,18 May 2016
+1212,Mitchell Marsh,4.0,14,2,15,3.5,12.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,26 April 2016
+1213,Ravichandran Ashwin,4.0,14,1,11,3.5,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,26 April 2016
+1214,Zaheer Khan,4.0,14,1,17,3.5,24.0,PBKS,Arun Jaitley Stadium,15 April 2016
+1215,Chris Jordan,3.0,11,4,9,3.66,4.5,GL,M. Chinnaswamy Stadium,14 May 2016
+1216,Amit Mishra,3.0,11,4,13,3.66,4.5,PBKS,Arun Jaitley Stadium,15 April 2016
+1217,Marcus Stoinis,4.0,15,4,11,3.75,6.0,MI,ACA-VDCA Stadium,13 May 2016
+1218,Krunal Pandya,4.0,15,1,11,3.75,24.0,RCB,M. Chinnaswamy Stadium,11 May 2016
+1219,Yuzvendra Chahal,4.0,16,1,9,4.0,24.0,MI,M. Chinnaswamy Stadium,11 May 2016
+1220,Murugan Ashwin,4.0,16,1,13,4.0,24.0,MI,Wankhede Stadium,09 April 2016
+1221,Ravichandran Ashwin,4.0,16,1,14,4.0,24.0,SRH,ACA-VDCA Stadium,10 May 2016
+1222,Mustafizur Rahman,4.0,17,2,14,4.25,12.0,GL,Rajiv Gandhi Intl. Cricket Stadium,06 May 2016
+1223,Dhawal Kulkarni,4.0,17,2,16,4.25,12.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,06 May 2016
+1224,Bhuvneshwar Kumar,4.0,17,1,14,4.25,24.0,MI,Rajiv Gandhi Intl. Cricket Stadium,18 April 2016
+1225,Kane Richardson,3.0,13,3,11,4.33,6.0,RPS,Maharashtra Cricket Association's International Stadium,22 April 2016
+1226,Shadab Jakati,3.0,13,1,12,4.33,18.0,MI,Wankhede Stadium,16 April 2016
+1227,Sreenath Aravind,3.0,13,0,9,4.33,0.0,GL,M. Chinnaswamy Stadium,24 May 2016
+1228,Pradeep Sahu,4.0,18,2,10,4.5,12.0,KKR,IS Bindra Stadium,19 April 2016
+1229,Ravindra Jadeja,4.0,18,2,13,4.5,12.0,RPS,Saurashtra Cricket Association Stadium,14 April 2016
+1230,Moises Henriques,4.0,18,1,9,4.5,24.0,MI,ACA-VDCA Stadium,08 May 2016
+1231,Carlos Brathwaite,2.0,9,0,6,4.5,0.0,KKR,Eden Gardens,10 April 2016
+1232,Dwayne Bravo,3.0,14,2,6,4.66,9.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,06 May 2016
+1233,Shakib Al Hasan,3.0,14,1,7,4.66,18.0,RPS,Maharashtra Cricket Association's International Stadium,24 April 2016
+1234,Ben Cutting,3.0,14,1,7,4.66,18.0,KKR,Arun Jaitley Stadium,25 May 2016
+1235,Adam Zampa,4.0,19,6,11,4.75,4.0,SRH,ACA-VDCA Stadium,10 May 2016
+1236,Bhuvneshwar Kumar,4.0,19,3,10,4.75,8.0,KKR,Arun Jaitley Stadium,25 May 2016
+1237,Dhawal Kulkarni,4.0,19,3,14,4.75,8.0,DC,Arun Jaitley Stadium,27 April 2016
+1238,Yuzvendra Chahal,4.0,19,3,13,4.75,8.0,GL,M. Chinnaswamy Stadium,14 May 2016
+1239,Brad Hogg,4.0,19,3,16,4.75,8.0,DC,Eden Gardens,10 April 2016
+1240,Dhawal Kulkarni,4.0,19,2,16,4.75,12.0,MI,Wankhede Stadium,16 April 2016
+1241,Rajat Bhatia,4.0,19,2,8,4.75,12.0,KKR,Maharashtra Cricket Association's International Stadium,24 April 2016
+1242,Praveen Kumar,4.0,19,2,14,4.75,12.0,KKR,Eden Gardens,08 May 2016
+1243,Chris Morris,4.0,19,1,12,4.75,24.0,PBKS,Arun Jaitley Stadium,15 April 2016
+1244,Andre Russell,4.0,19,1,10,4.75,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,16 April 2016
+1245,Chris Morris,4.0,19,1,10,4.75,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,12 May 2016
+1246,Mustafizur Rahman,4.0,19,1,10,4.75,24.0,GL,Saurashtra Cricket Association Stadium,21 April 2016
+1247,Andre Russell,4.0,20,4,13,5.0,6.0,PBKS,Eden Gardens,04 May 2016
+1248,Ashok Dinda,4.0,20,3,14,5.0,8.0,DC,ACA-VDCA Stadium,17 May 2016
+1249,Shivil Kaushik,4.0,20,3,10,5.0,8.0,PBKS,Saurashtra Cricket Association Stadium,01 May 2016
+1250,Ashish Nehra,3.0,15,3,12,5.0,6.0,MI,ACA-VDCA Stadium,08 May 2016
+1251,Krunal Pandya,4.0,20,1,8,5.0,24.0,GL,Wankhede Stadium,16 April 2016
+1252,Bipul Sharma,2.0,10,1,5,5.0,12.0,GL,Saurashtra Cricket Association Stadium,21 April 2016
+1253,Sandeep Sharma,4.0,20,1,13,5.0,24.0,MI,IS Bindra Stadium,25 April 2016
+1254,Bhuvneshwar Kumar,4.0,20,1,12,5.0,24.0,RPS,ACA-VDCA Stadium,10 May 2016
+1255,Sreenath Aravind,3.0,15,1,8,5.0,18.0,GL,M. Chinnaswamy Stadium,14 May 2016
+1256,Chris Jordan,2.0,10,1,7,5.0,12.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,22 May 2016
+1257,Mohit Sharma,2.0,10,0,6,5.0,0.0,DC,Arun Jaitley Stadium,15 April 2016
+1258,KC Cariappa,3.0,15,0,7,5.0,0.0,GL,Saurashtra Cricket Association Stadium,01 May 2016
+1259,Anureet Singh,3.0,15,0,6,5.0,0.0,RCB,IS Bindra Stadium,09 May 2016
+1260,Amit Mishra,2.0,10,0,5,5.0,0.0,RPS,ACA-VDCA Stadium,17 May 2016
+1261,Barinder Sran,3.3,18,2,13,5.14,10.5,MI,ACA-VDCA Stadium,08 May 2016
+1262,Axar Patel,4.0,21,4,12,5.25,6.0,GL,Saurashtra Cricket Association Stadium,01 May 2016
+1263,Mitchell McClenaghan,4.0,21,4,11,5.25,6.0,GL,Wankhede Stadium,16 April 2016
+1264,Adam Zampa,4.0,21,3,7,5.25,8.0,DC,ACA-VDCA Stadium,17 May 2016
+1265,Piyush Chawla,4.0,21,2,13,5.25,12.0,RPS,Eden Gardens,14 May 2016
+1266,Piyush Chawla,4.0,21,2,16,5.25,12.0,DC,Eden Gardens,10 April 2016
+1267,Ravindra Jadeja,4.0,21,2,9,5.25,12.0,RCB,M. Chinnaswamy Stadium,24 May 2016
+1268,Mitchell Marsh,4.0,21,2,13,5.25,12.0,MI,Wankhede Stadium,09 April 2016
+1269,Tabraiz Shamsi,4.0,21,1,9,5.25,24.0,GL,Saurashtra Cricket Association Stadium,24 April 2016
+1270,Mohit Sharma,4.0,21,0,12,5.25,0.0,DC,IS Bindra Stadium,07 May 2016
+1271,Chris Morris,4.0,21,0,13,5.25,0.0,KKR,Eden Gardens,10 April 2016
+1272,Mustafizur Rahman,3.0,16,3,8,5.33,6.0,MI,ACA-VDCA Stadium,08 May 2016
+1273,KC Cariappa,3.0,16,2,5,5.33,9.0,RCB,IS Bindra Stadium,09 May 2016
+1274,Ashok Dinda,3.0,16,1,9,5.33,18.0,PBKS,ACA-VDCA Stadium,21 May 2016
+1275,Dwayne Bravo,4.0,22,4,9,5.5,6.0,PBKS,IS Bindra Stadium,11 April 2016
+1276,Rajat Bhatia,4.0,22,2,6,5.5,12.0,DC,Arun Jaitley Stadium,05 May 2016
+1277,Dwayne Bravo,4.0,22,2,8,5.5,12.0,MI,Green Park,21 May 2016
+1278,Sunil Narine,4.0,22,2,9,5.5,12.0,PBKS,IS Bindra Stadium,19 April 2016
+1279,Chris Gayle,2.0,11,2,3,5.5,6.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,22 May 2016
+1280,Shane Watson,4.0,22,2,10,5.5,12.0,PBKS,IS Bindra Stadium,09 May 2016
+1281,Shivil Kaushik,4.0,22,2,11,5.5,12.0,SRH,Arun Jaitley Stadium,27 May 2016
+1282,Sunil Narine,4.0,22,2,11,5.5,12.0,MI,Wankhede Stadium,28 April 2016
+1283,Iqbal Abdulla,4.0,22,1,8,5.5,24.0,KKR,Eden Gardens,16 May 2016
+1284,Shadab Jakati,4.0,22,1,5,5.5,24.0,KKR,Green Park,19 May 2016
+1285,Andre Russell,2.0,11,1,6,5.5,12.0,RPS,Eden Gardens,14 May 2016
+1286,Tim Southee,4.0,22,1,13,5.5,24.0,PBKS,ACA-VDCA Stadium,13 May 2016
+1287,Amit Mishra,2.0,11,1,6,5.5,12.0,KKR,Eden Gardens,10 April 2016
+1288,Moises Henriques,3.0,17,2,5,5.66,9.0,KKR,Arun Jaitley Stadium,25 May 2016
+1289,Vinay Kumar,3.0,17,2,9,5.66,9.0,GL,Green Park,21 May 2016
+1290,Umesh Yadav,3.0,17,1,5,5.66,18.0,PBKS,IS Bindra Stadium,19 April 2016
+1291,Bhuvneshwar Kumar,3.0,17,1,10,5.66,18.0,RPS,Rajiv Gandhi Intl. Cricket Stadium,26 April 2016
+1292,Irfan Pathan,3.0,17,0,9,5.66,0.0,DC,ACA-VDCA Stadium,17 May 2016
+1293,Moises Henriques,3.0,17,0,3,5.66,0.0,GL,Saurashtra Cricket Association Stadium,21 April 2016
+1294,Yusuf Pathan,3.0,17,0,6,5.66,0.0,SRH,Arun Jaitley Stadium,25 May 2016
+1295,Ravindra Jadeja,3.0,17,0,4,5.66,0.0,RCB,Saurashtra Cricket Association Stadium,24 April 2016
+1296,Carlos Brathwaite,3.1,18,1,6,5.68,19.0,RCB,Shaheed Veer Narayan Singh International Cricket Stadium,22 May 2016
+1297,Mohit Sharma,4.0,23,3,7,5.75,8.0,RPS,IS Bindra Stadium,17 April 2016
+1298,Ashok Dinda,4.0,23,3,15,5.75,8.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,26 April 2016
+1299,Sandeep Sharma,4.0,23,2,11,5.75,12.0,RPS,IS Bindra Stadium,17 April 2016
+1300,Jayant Yadav,4.0,23,1,12,5.75,24.0,PBKS,Arun Jaitley Stadium,15 April 2016
+1301,Zaheer Khan,4.0,23,1,10,5.75,24.0,MI,ACA-VDCA Stadium,15 May 2016
+1302,Sreenath Aravind,4.0,23,1,10,5.75,24.0,MI,M. Chinnaswamy Stadium,11 May 2016
+1303,Ravichandran Ashwin,4.0,23,0,9,5.75,0.0,DC,ACA-VDCA Stadium,17 May 2016
+1304,Moises Henriques,4.0,23,0,10,5.75,0.0,MI,Rajiv Gandhi Intl. Cricket Stadium,18 April 2016
+1305,Marcus Stoinis,4.0,23,0,9,5.75,0.0,GL,Saurashtra Cricket Association Stadium,01 May 2016
+1306,Ashish Nehra,4.0,23,0,13,5.75,0.0,GL,Rajiv Gandhi Intl. Cricket Stadium,06 May 2016
+1307,Zaheer Khan,3.3,21,3,9,6.0,7.0,KKR,Arun Jaitley Stadium,30 April 2016
+1308,Shane Watson,4.0,24,3,12,6.0,8.0,RPS,M. Chinnaswamy Stadium,07 May 2016
+1309,Tim Southee,4.0,24,3,10,6.0,8.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,18 April 2016
+1310,Imran Tahir,4.0,24,3,7,6.0,8.0,GL,Arun Jaitley Stadium,27 April 2016
+1311,Pravin Tambe,2.0,12,2,6,6.0,6.0,MI,Wankhede Stadium,16 April 2016
+1312,Praveen Kumar,4.0,24,2,15,6.0,12.0,MI,Green Park,21 May 2016
+1313,Amit Mishra,4.0,24,2,7,6.0,12.0,MI,Arun Jaitley Stadium,23 April 2016
+1314,Andre Russell,4.0,24,1,11,6.0,24.0,RCB,M. Chinnaswamy Stadium,02 May 2016
+1315,Piyush Chawla,3.0,18,1,8,6.0,18.0,PBKS,IS Bindra Stadium,19 April 2016
+1316,Chris Morris,2.0,12,1,7,6.0,12.0,RPS,ACA-VDCA Stadium,17 May 2016
+1317,Mustafizur Rahman,4.0,24,1,11,6.0,24.0,DC,Shaheed Veer Narayan Singh International Cricket Stadium,20 May 2016
+1318,Shreyas Gopal,3.0,18,0,4,6.0,0.0,RPS,Wankhede Stadium,09 April 2016
+1319,Shakib Al Hasan,3.0,18,0,5,6.0,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,16 April 2016
+1320,Praveen Kumar,2.0,12,0,6,6.0,0.0,RPS,Saurashtra Cricket Association Stadium,14 April 2016
+1321,Axar Patel,4.0,24,0,7,6.0,0.0,KKR,Eden Gardens,04 May 2016
+1322,Praveen Kumar,2.0,12,0,5,6.0,0.0,KKR,Green Park,19 May 2016
+1323,Dwayne Smith,2.0,12,0,4,6.0,0.0,DC,Saurashtra Cricket Association Stadium,03 May 2016
+1324,Praveen Kumar,3.0,18,0,9,6.0,0.0,MI,Wankhede Stadium,16 April 2016
+1325,Mitchell McClenaghan,4.0,25,2,8,6.25,12.0,KKR,Eden Gardens,13 April 2016
+1326,Shane Watson,4.0,25,2,10,6.25,12.0,DC,M. Chinnaswamy Stadium,17 April 2016
+1327,Nathan Coulter-Nile,4.0,25,2,9,6.25,12.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,12 May 2016
+1328,Harbhajan Singh,4.0,25,1,5,6.25,24.0,RPS,Maharashtra Cricket Association's International Stadium,01 May 2016
+1329,Krunal Pandya,4.0,25,0,3,6.25,0.0,DC,Arun Jaitley Stadium,23 April 2016
+1330,Tim Southee,4.0,25,0,11,6.25,0.0,RCB,Wankhede Stadium,20 April 2016
+1331,Jayant Yadav,4.0,25,0,8,6.25,0.0,RPS,Arun Jaitley Stadium,05 May 2016
+1332,Bhuvneshwar Kumar,4.0,25,0,9,6.25,0.0,RCB,M. Chinnaswamy Stadium,29 May 2016
+1333,Praveen Kumar,4.0,25,0,7,6.25,0.0,PBKS,IS Bindra Stadium,11 April 2016
+1334,Sandeep Sharma,4.0,25,0,9,6.25,0.0,KKR,Eden Gardens,04 May 2016
+1335,Shivil Kaushik,4.0,25,0,9,6.25,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,06 May 2016
+1336,Axar Patel,3.0,19,2,6,6.33,9.0,KKR,IS Bindra Stadium,19 April 2016
+1337,Moises Henriques,3.0,19,2,9,6.33,9.0,DC,Rajiv Gandhi Intl. Cricket Stadium,12 May 2016
+1338,Amit Mishra,3.0,19,2,7,6.33,9.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,12 May 2016
+1339,Amit Mishra,3.0,19,1,4,6.33,18.0,GL,Saurashtra Cricket Association Stadium,03 May 2016
+1340,Chris Morris,3.0,19,1,5,6.33,18.0,KKR,Arun Jaitley Stadium,30 April 2016
+1341,Pawan Negi,3.0,19,1,4,6.33,18.0,RCB,Shaheed Veer Narayan Singh International Cricket Stadium,22 May 2016
+1342,Jasprit Bumrah,3.0,19,0,6,6.33,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,18 April 2016
+1343,Harbhajan Singh,3.0,19,0,5,6.33,0.0,RCB,M. Chinnaswamy Stadium,11 May 2016
+1344,Zaheer Khan,3.0,19,0,10,6.33,0.0,RPS,ACA-VDCA Stadium,17 May 2016
+1345,Jasprit Bumrah,4.0,26,3,6,6.5,8.0,PBKS,IS Bindra Stadium,25 April 2016
+1346,Andre Russell,4.0,26,3,11,6.5,8.0,DC,Arun Jaitley Stadium,30 April 2016
+1347,Sunil Narine,4.0,26,3,11,6.5,8.0,SRH,Eden Gardens,22 May 2016
+1348,Mustafizur Rahman,4.0,26,2,11,6.5,12.0,RCB,M. Chinnaswamy Stadium,12 April 2016
+1349,Imran Tahir,4.0,26,2,9,6.5,12.0,RPS,Arun Jaitley Stadium,05 May 2016
+1350,Varun Aaron,2.0,3,2,9,1.5,6.0,DC,IS Bindra Stadium,30 April 2017
+1351,Lockie Ferguson,4.0,7,2,17,1.75,12.0,RCB,Maharashtra Cricket Association's International Stadium,29 April 2017
+1352,Samuel Badree,4.0,9,4,16,2.25,6.0,MI,M. Chinnaswamy Stadium,14 April 2017
+1353,Jasprit Bumrah,3.0,7,3,14,2.33,6.0,KKR,M. Chinnaswamy Stadium,19 May 2017
+1354,Lasith Malinga,2.0,5,2,9,2.5,6.0,DC,Arun Jaitley Stadium,06 May 2017
+1355,Karn Sharma,3.4,11,3,13,3.0,7.33,DC,Arun Jaitley Stadium,06 May 2017
+1356,Chris Woakes,2.0,6,3,10,3.0,4.0,RCB,Eden Gardens,23 April 2017
+1357,Andrew Tye,4.0,12,3,12,3.0,8.0,RCB,M. Chinnaswamy Stadium,27 April 2017
+1358,Axar Patel,4.0,12,1,13,3.0,24.0,RCB,Holkar Cricket Stadium,10 April 2017
+1359,Moises Henriques,2.0,6,1,7,3.0,12.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,17 April 2017
+1360,Glenn Maxwell,4.0,12,1,15,3.0,24.0,DC,IS Bindra Stadium,30 April 2017
+1361,Mohammad Nabi,4.0,13,1,15,3.25,24.0,MI,Rajiv Gandhi Intl. Cricket Stadium,08 May 2017
+1362,Shahbaz Nadeem,4.0,13,1,12,3.25,24.0,RCB,M. Chinnaswamy Stadium,08 April 2017
+1363,Washington Sundar,4.0,13,0,15,3.25,0.0,MI,Rajiv Gandhi Intl. Cricket Stadium,21 May 2017
+1364,Ben Stokes,3.0,10,0,12,3.33,0.0,PBKS,Maharashtra Cricket Association's International Stadium,14 May 2017
+1365,Krunal Pandya,4.0,14,3,16,3.5,8.0,GL,Saurashtra Cricket Association Stadium,29 April 2017
+1366,Washington Sundar,2.0,7,1,5,3.5,12.0,RCB,Maharashtra Cricket Association's International Stadium,29 April 2017
+1367,Nathu Singh,2.0,7,1,7,3.5,12.0,PBKS,Saurashtra Cricket Association Stadium,23 April 2017
+1368,Shardul Thakur,2.0,7,0,6,3.5,0.0,MI,Rajiv Gandhi Intl. Cricket Stadium,21 May 2017
+1369,T Natarajan,2.0,7,0,9,3.5,0.0,DC,IS Bindra Stadium,30 April 2017
+1370,Axar Patel,3.0,11,3,7,3.66,6.0,RCB,M. Chinnaswamy Stadium,05 May 2017
+1371,Amit Mishra,3.0,11,3,10,3.66,6.0,RPS,Maharashtra Cricket Association's International Stadium,11 April 2017
+1372,Karn Sharma,4.0,16,4,11,4.0,6.0,KKR,M. Chinnaswamy Stadium,19 May 2017
+1373,Washington Sundar,4.0,16,3,13,4.0,8.0,MI,Wankhede Stadium,16 May 2017
+1374,Yuzvendra Chahal,4.0,16,3,10,4.0,8.0,KKR,Eden Gardens,23 April 2017
+1375,Jaydev Unadkat,3.0,12,2,14,4.0,9.0,PBKS,Maharashtra Cricket Association's International Stadium,14 May 2017
+1376,Shane Watson,4.0,16,1,11,4.0,24.0,DC,Arun Jaitley Stadium,14 May 2017
+1377,Rashid Khan,4.0,16,1,12,4.0,24.0,PBKS,IS Bindra Stadium,28 April 2017
+1378,Pawan Negi,3.0,12,1,6,4.0,18.0,RPS,M. Chinnaswamy Stadium,16 April 2017
+1379,Ankit Soni,4.0,16,1,13,4.0,24.0,MI,Saurashtra Cricket Association Stadium,29 April 2017
+1380,Glenn Maxwell,2.0,8,1,4,4.0,12.0,MI,Wankhede Stadium,11 May 2017
+1381,Ankit Soni,4.0,16,0,12,4.0,0.0,RPS,Maharashtra Cricket Association's International Stadium,01 May 2017
+1382,Nathu Singh,2.0,8,0,6,4.0,0.0,RCB,M. Chinnaswamy Stadium,27 April 2017
+1383,Andrew Tye,4.0,17,5,10,4.25,4.8,RPS,Saurashtra Cricket Association Stadium,14 April 2017
+1384,Pawan Negi,4.0,17,2,9,4.25,12.0,MI,Wankhede Stadium,01 May 2017
+1385,Aniket Choudhary,4.0,17,2,13,4.25,12.0,PBKS,M. Chinnaswamy Stadium,05 May 2017
+1386,Rashid Khan,4.0,17,1,10,4.25,24.0,RPS,Maharashtra Cricket Association's International Stadium,22 April 2017
+1387,Ben Stokes,4.0,18,3,11,4.5,8.0,RCB,M. Chinnaswamy Stadium,16 April 2017
+1388,Chris Woakes,4.0,18,3,13,4.5,8.0,RPS,Eden Gardens,03 May 2017
+1389,Imran Tahir,4.0,18,3,12,4.5,8.0,RCB,Maharashtra Cricket Association's International Stadium,29 April 2017
+1390,Amit Mishra,4.0,18,2,13,4.5,12.0,MI,Wankhede Stadium,22 April 2017
+1391,Rahul Tewatia,4.0,18,2,8,4.5,12.0,KKR,IS Bindra Stadium,09 May 2017
+1392,Pawan Negi,4.0,18,1,12,4.5,24.0,RPS,Maharashtra Cricket Association's International Stadium,29 April 2017
+1393,Rashid Khan,4.0,18,1,8,4.5,24.0,RPS,Rajiv Gandhi Intl. Cricket Stadium,06 May 2017
+1394,Sunil Narine,4.0,18,1,10,4.5,24.0,SRH,Eden Gardens,15 April 2017
+1395,Hardik Pandya,2.0,9,1,3,4.5,12.0,RCB,M. Chinnaswamy Stadium,14 April 2017
+1396,Karn Sharma,4.0,18,0,12,4.5,0.0,RPS,Rajiv Gandhi Intl. Cricket Stadium,21 May 2017
+1397,Rajat Bhatia,3.0,14,2,5,4.66,9.0,MI,Maharashtra Cricket Association's International Stadium,06 April 2017
+1398,Lasith Malinga,3.0,14,1,8,4.66,18.0,RPS,Wankhede Stadium,16 May 2017
+1399,Shardul Thakur,3.0,14,1,9,4.66,18.0,GL,Saurashtra Cricket Association Stadium,14 April 2017
+1400,Ankit Rajpoot,3.0,14,1,7,4.66,18.0,MI,Eden Gardens,13 May 2017
+1401,Samuel Badree,3.0,14,0,8,4.66,0.0,PBKS,M. Chinnaswamy Stadium,05 May 2017
+1402,Rahul Tewatia,3.0,14,0,10,4.66,0.0,RPS,Maharashtra Cricket Association's International Stadium,14 May 2017
+1403,Bhuvneshwar Kumar,4.0,19,5,14,4.75,4.8,PBKS,Rajiv Gandhi Intl. Cricket Stadium,17 April 2017
+1404,Shardul Thakur,4.0,19,3,16,4.75,8.0,PBKS,Maharashtra Cricket Association's International Stadium,14 May 2017
+1405,Rashid Khan,4.0,19,3,11,4.75,8.0,GL,Rajiv Gandhi Intl. Cricket Stadium,09 April 2017
+1406,Jaydev Unadkat,4.0,19,2,10,4.75,12.0,MI,Rajiv Gandhi Intl. Cricket Stadium,21 May 2017
+1407,Rashid Khan,4.0,19,1,11,4.75,24.0,MI,Wankhede Stadium,12 April 2017
+1408,Jaydev Unadkat,4.0,19,1,10,4.75,24.0,RCB,Maharashtra Cricket Association's International Stadium,29 April 2017
+1409,Sunil Narine,4.0,19,1,14,4.75,24.0,PBKS,Eden Gardens,13 April 2017
+1410,Yuzvendra Chahal,4.0,19,1,10,4.75,24.0,DC,M. Chinnaswamy Stadium,08 April 2017
+1411,Sandeep Sharma,4.0,20,4,14,5.0,6.0,DC,IS Bindra Stadium,30 April 2017
+1412,Nathan Coulter-Nile,4.0,20,3,10,5.0,8.0,SRH,M. Chinnaswamy Stadium,17 May 2017
+1413,Pawan Negi,2.0,10,3,7,5.0,4.0,DC,Arun Jaitley Stadium,14 May 2017
+1414,Bhuvneshwar Kumar,4.0,20,3,11,5.0,8.0,KKR,Eden Gardens,15 April 2017
+1415,Pawan Negi,3.0,15,2,10,5.0,9.0,KKR,Eden Gardens,23 April 2017
+1416,Glenn Maxwell,3.0,15,2,5,5.0,9.0,RCB,M. Chinnaswamy Stadium,05 May 2017
+1417,Chris Woakes,4.0,20,2,11,5.0,12.0,PBKS,IS Bindra Stadium,09 May 2017
+1418,Pat Cummins,4.0,20,2,9,5.0,12.0,MI,Wankhede Stadium,22 April 2017
+1419,Dan Christian,2.0,10,2,4,5.0,6.0,PBKS,Maharashtra Cricket Association's International Stadium,14 May 2017
+1420,Mitchell McClenaghan,4.0,20,2,11,5.0,12.0,RCB,M. Chinnaswamy Stadium,14 April 2017
+1421,Dan Christian,4.0,20,1,10,5.0,24.0,SRH,Maharashtra Cricket Association's International Stadium,22 April 2017
+1422,Harbhajan Singh,4.0,20,1,7,5.0,24.0,RPS,Wankhede Stadium,24 April 2017
+1423,Dwayne Smith,2.0,10,1,6,5.0,12.0,RPS,Saurashtra Cricket Association Stadium,14 April 2017
+1424,Nathan Coulter-Nile,3.0,15,1,6,5.0,18.0,MI,M. Chinnaswamy Stadium,19 May 2017
+1425,Sunil Narine,4.0,20,1,8,5.0,24.0,DC,Arun Jaitley Stadium,17 April 2017
+1426,James Faulkner,3.0,15,1,4,5.0,18.0,RCB,M. Chinnaswamy Stadium,27 April 2017
+1427,Umesh Yadav,3.0,15,1,11,5.0,18.0,RCB,Eden Gardens,23 April 2017
+1428,Sunil Narine,4.0,20,0,13,5.0,0.0,SRH,M. Chinnaswamy Stadium,17 May 2017
+1429,Chris Morris,4.0,21,3,16,5.25,8.0,RCB,M. Chinnaswamy Stadium,08 April 2017
+1430,Bhuvneshwar Kumar,4.0,21,3,11,5.25,8.0,MI,Wankhede Stadium,12 April 2017
+1431,Ben Stokes,4.0,21,2,8,5.25,12.0,MI,Wankhede Stadium,24 April 2017
+1432,Pat Cummins,4.0,21,2,9,5.25,12.0,RCB,Arun Jaitley Stadium,14 May 2017
+1433,Yuzvendra Chahal,4.0,21,2,12,5.25,12.0,PBKS,M. Chinnaswamy Stadium,05 May 2017
+1434,Varun Aaron,4.0,21,2,11,5.25,12.0,RCB,Holkar Cricket Stadium,10 April 2017
+1435,Jasprit Bumrah,4.0,21,2,11,5.25,12.0,DC,Wankhede Stadium,22 April 2017
+1436,Umesh Yadav,4.0,21,2,12,5.25,12.0,SRH,M. Chinnaswamy Stadium,17 May 2017
+1437,Bhuvneshwar Kumar,4.0,21,2,8,5.25,12.0,GL,Rajiv Gandhi Intl. Cricket Stadium,09 April 2017
+1438,Pawan Negi,4.0,21,1,17,5.25,24.0,GL,Saurashtra Cricket Association Stadium,18 April 2017
+1439,Shane Watson,4.0,21,1,12,5.25,24.0,DC,M. Chinnaswamy Stadium,08 April 2017
+1440,Krunal Pandya,4.0,21,1,8,5.25,24.0,RCB,M. Chinnaswamy Stadium,14 April 2017
+1441,Lasith Malinga,4.0,21,0,11,5.25,0.0,RPS,Rajiv Gandhi Intl. Cricket Stadium,21 May 2017
+1442,Sreenath Aravind,4.0,21,0,10,5.25,0.0,MI,M. Chinnaswamy Stadium,14 April 2017
+1443,Sunil Narine,4.0,21,0,13,5.25,0.0,MI,M. Chinnaswamy Stadium,19 May 2017
+1444,Moises Henriques,2.5,15,0,7,5.29,0.0,RPS,Rajiv Gandhi Intl. Cricket Stadium,06 May 2017
+1445,Amit Mishra,3.0,16,1,9,5.33,18.0,PBKS,Arun Jaitley Stadium,15 April 2017
+1446,Sandeep Sharma,4.0,22,3,15,5.5,8.0,RCB,M. Chinnaswamy Stadium,05 May 2017
+1447,Nathan Coulter-Nile,4.0,22,3,12,5.5,8.0,DC,Arun Jaitley Stadium,17 April 2017
+1448,Harbhajan Singh,4.0,22,3,15,5.5,8.0,DC,Arun Jaitley Stadium,06 May 2017
+1449,Hardik Pandya,4.0,22,2,9,5.5,12.0,KKR,Eden Gardens,13 May 2017
+1450,Axar Patel,4.0,22,2,12,5.5,12.0,DC,IS Bindra Stadium,30 April 2017
+1451,Praveen Kumar,4.0,22,2,13,5.5,12.0,SRH,Green Park,13 May 2017
+1452,Sunil Narine,4.0,22,1,12,5.5,24.0,MI,Wankhede Stadium,09 April 2017
+1453,Yuzvendra Chahal,4.0,22,1,5,5.5,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,05 April 2017
+1454,Rashid Khan,4.0,22,1,11,5.5,24.0,MI,Rajiv Gandhi Intl. Cricket Stadium,08 May 2017
+1455,Suresh Raina,2.0,11,1,4,5.5,12.0,KKR,Eden Gardens,21 April 2017
+1456,Harbhajan Singh,4.0,22,1,9,5.5,24.0,GL,Wankhede Stadium,16 April 2017
+1457,Rashid Khan,2.0,11,0,5,5.5,0.0,KKR,M. Chinnaswamy Stadium,17 May 2017
+1458,Krunal Pandya,4.0,22,0,9,5.5,0.0,RPS,Wankhede Stadium,16 May 2017
+1459,Mohammad Nabi,3.0,17,0,8,5.66,0.0,GL,Green Park,13 May 2017
+1460,Adam Zampa,3.5,22,2,8,5.73,11.5,PBKS,Maharashtra Cricket Association's International Stadium,14 May 2017
+1461,Chris Morris,4.0,23,3,8,5.75,8.0,PBKS,Arun Jaitley Stadium,15 April 2017
+1462,Harbhajan Singh,4.0,23,2,14,5.75,12.0,SRH,Wankhede Stadium,12 April 2017
+1463,Pat Cummins,4.0,23,2,9,5.75,12.0,PBKS,Arun Jaitley Stadium,15 April 2017
+1464,Harbhajan Singh,4.0,23,1,11,5.75,24.0,GL,Saurashtra Cricket Association Stadium,29 April 2017
+1465,Avesh Khan,4.0,23,1,11,5.75,24.0,DC,Arun Jaitley Stadium,14 May 2017
+1466,Kuldeep Yadav,4.0,23,1,12,5.75,24.0,SRH,Eden Gardens,15 April 2017
+1467,Amit Mishra,4.0,23,1,9,5.75,24.0,SRH,Arun Jaitley Stadium,02 May 2017
+1468,Shahbaz Nadeem,4.0,23,1,10,5.75,24.0,RPS,Maharashtra Cricket Association's International Stadium,11 April 2017
+1469,Umesh Yadav,4.0,23,1,10,5.75,24.0,RPS,Eden Gardens,03 May 2017
+1470,Harbhajan Singh,4.0,23,0,8,5.75,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,08 May 2017
+1471,Ishant Sharma,4.0,23,0,9,5.75,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 April 2017
+1472,Harbhajan Singh,4.0,23,0,11,5.75,0.0,RCB,M. Chinnaswamy Stadium,14 April 2017
+1473,Mitchell Johnson,4.0,23,0,14,5.75,0.0,DC,Wankhede Stadium,22 April 2017
+1474,Mitchell McClenaghan,4.0,24,3,11,6.0,8.0,DC,Wankhede Stadium,22 April 2017
+1475,Jasprit Bumrah,4.0,24,3,9,6.0,8.0,SRH,Wankhede Stadium,12 April 2017
+1476,Krunal Pandya,4.0,24,3,8,6.0,8.0,KKR,Wankhede Stadium,09 April 2017
+1477,Siddarth Kaul,4.0,24,3,8,6.0,8.0,MI,Rajiv Gandhi Intl. Cricket Stadium,08 May 2017
+1478,Kagiso Rabada,3.2,20,2,8,6.0,10.0,KKR,Eden Gardens,28 April 2017
+1479,Mitchell McClenaghan,4.0,24,2,12,6.0,12.0,GL,Wankhede Stadium,16 April 2017
+1480,KC Cariappa,4.0,24,2,8,6.0,12.0,GL,Saurashtra Cricket Association Stadium,23 April 2017
+1481,Mohit Sharma,4.0,24,2,8,6.0,12.0,RCB,M. Chinnaswamy Stadium,05 May 2017
+1482,Jaydev Unadkat,4.0,24,1,10,6.0,24.0,MI,Wankhede Stadium,16 May 2017
+1483,Dhawal Kulkarni,4.0,24,1,9,6.0,24.0,PBKS,IS Bindra Stadium,07 May 2017
+1484,Jasprit Bumrah,4.0,24,1,9,6.0,24.0,PBKS,Wankhede Stadium,11 May 2017
+1485,Shahbaz Nadeem,2.0,12,1,4,6.0,12.0,RCB,Arun Jaitley Stadium,14 May 2017
+1486,Ben Stokes,4.0,24,1,9,6.0,24.0,KKR,Eden Gardens,03 May 2017
+1487,Imran Tahir,4.0,24,1,11,6.0,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,06 May 2017
+1488,Imran Tahir,4.0,24,1,7,6.0,24.0,DC,Maharashtra Cricket Association's International Stadium,11 April 2017
+1489,Krunal Pandya,3.0,18,0,4,6.0,0.0,GL,Wankhede Stadium,16 April 2017
+1490,Sandeep Sharma,2.0,12,0,5,6.0,0.0,RPS,Maharashtra Cricket Association's International Stadium,14 May 2017
+1491,Harbhajan Singh,2.0,12,0,4,6.0,0.0,PBKS,Holkar Cricket Stadium,20 April 2017
+1492,Rashid Khan,4.0,24,0,7,6.0,0.0,DC,Arun Jaitley Stadium,02 May 2017
+1493,Washington Sundar,2.0,12,0,8,6.0,0.0,GL,Maharashtra Cricket Association's International Stadium,01 May 2017
+1494,Shardul Thakur,2.0,12,0,6,6.0,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,06 May 2017
+1495,Bipul Sharma,4.0,24,0,7,6.0,0.0,GL,Rajiv Gandhi Intl. Cricket Stadium,09 April 2017
+1496,Ben Stokes,3.0,18,0,8,6.0,0.0,GL,Saurashtra Cricket Association Stadium,14 April 2017
+1497,Zaheer Khan,4.0,25,2,7,6.25,12.0,RPS,Arun Jaitley Stadium,12 May 2017
+1498,Mohit Sharma,4.0,25,2,10,6.25,12.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 April 2017
+1499,Jaydev Unadkat,4.0,25,2,12,6.25,12.0,RCB,M. Chinnaswamy Stadium,16 April 2017
+1500,Lungi Ngidi,4.0,10,4,16,2.5,6.0,PBKS,Maharashtra Cricket Association's International Stadium,20 May 2018
+1501,Rashid Khan,4.0,11,2,14,2.75,12.0,CSK,Wankhede Stadium,22 May 2018
+1502,Rashid Khan,4.0,11,2,16,2.75,12.0,MI,Wankhede Stadium,24 April 2018
+1503,Yuzvendra Chahal,2.0,6,1,6,3.0,12.0,PBKS,Holkar Cricket Stadium,14 May 2018
+1504,Sandeep Sharma,3.0,9,1,14,3.0,18.0,MI,Wankhede Stadium,24 April 2018
+1505,Krishnappa Gowtham,2.0,6,1,6,3.0,12.0,RCB,Sawai Mansingh Stadium,19 May 2018
+1506,Ravindra Jadeja,4.0,13,1,14,3.25,24.0,SRH,Wankhede Stadium,22 May 2018
+1507,Rashid Khan,4.0,13,1,18,3.25,24.0,MI,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+1508,Ankit Rajpoot,4.0,14,5,17,3.5,4.8,SRH,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+1509,Ish Sodhi,4.0,14,1,12,3.5,24.0,PBKS,Sawai Mansingh Stadium,08 May 2018
+1510,Ben Stokes,4.0,15,3,14,3.75,8.0,KKR,Eden Gardens,15 May 2018
+1511,Deepak Chahar,4.0,15,3,17,3.75,8.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,22 April 2018
+1512,Jasprit Bumrah,4.0,15,3,11,3.75,8.0,PBKS,Wankhede Stadium,16 May 2018
+1513,Sandeep Sharma,4.0,15,1,14,3.75,24.0,RR,Sawai Mansingh Stadium,29 April 2018
+1514,Ish Sodhi,4.0,15,0,11,3.75,0.0,KKR,Eden Gardens,23 May 2018
+1515,Krunal Pandya,3.1,12,2,12,3.78,9.5,KKR,Eden Gardens,09 May 2018
+1516,Shreyas Gopal,4.0,16,4,10,4.0,6.0,RCB,Sawai Mansingh Stadium,19 May 2018
+1517,Andrew Tye,4.0,16,4,15,4.0,6.0,MI,Wankhede Stadium,16 May 2018
+1518,Krishnappa Gowtham,3.0,12,2,10,4.0,9.0,PBKS,Sawai Mansingh Stadium,08 May 2018
+1519,Jofra Archer,4.0,16,2,14,4.0,12.0,MI,Wankhede Stadium,13 May 2018
+1520,Colin de Grandhomme,2.0,8,1,6,4.0,12.0,PBKS,Holkar Cricket Stadium,14 May 2018
+1521,Colin de Grandhomme,4.0,16,1,11,4.0,24.0,CSK,Maharashtra Cricket Association's International Stadium,05 May 2018
+1522,Deepak Chahar,4.0,16,1,14,4.0,24.0,SRH,Maharashtra Cricket Association's International Stadium,13 May 2018
+1523,Liam Plunkett,4.0,17,3,12,4.25,8.0,PBKS,Arun Jaitley Stadium,23 April 2018
+1524,Sunil Narine,4.0,17,2,11,4.25,12.0,SRH,Eden Gardens,14 April 2018
+1525,Sandeep Sharma,4.0,17,2,13,4.25,12.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+1526,Siddarth Kaul,4.0,17,2,11,4.25,12.0,RR,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+1527,Mujeeb Ur Rahman,4.0,17,1,11,4.25,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+1528,Sunil Narine,4.0,17,1,9,4.25,24.0,CSK,Chidambaram,10 April 2018
+1529,Bhuvneshwar Kumar,4.0,17,0,16,4.25,0.0,CSK,Wankhede Stadium,27 May 2018
+1530,Andre Russell,3.0,13,2,8,4.33,9.0,RR,Eden Gardens,15 May 2018
+1531,Shane Watson,3.0,13,1,9,4.33,18.0,RR,Maharashtra Cricket Association's International Stadium,20 April 2018
+1532,Bhuvneshwar Kumar,3.1,14,1,12,4.42,19.0,CSK,Wankhede Stadium,22 May 2018
+1533,Ravindra Jadeja,4.0,18,3,8,4.5,8.0,RCB,Maharashtra Cricket Association's International Stadium,05 May 2018
+1534,Krishnappa Gowtham,4.0,18,2,10,4.5,12.0,SRH,Sawai Mansingh Stadium,29 April 2018
+1535,Kuldeep Yadav,4.0,18,1,13,4.5,24.0,RR,Eden Gardens,23 May 2018
+1536,Piyush Chawla,4.0,18,1,10,4.5,24.0,RR,Sawai Mansingh Stadium,18 April 2018
+1537,D'Arcy Short,2.0,9,0,7,4.5,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+1538,Lungi Ngidi,3.0,14,2,10,4.66,9.0,DC,Arun Jaitley Stadium,18 May 2018
+1539,Deepak Chahar,3.0,14,1,12,4.66,18.0,MI,Wankhede Stadium,07 April 2018
+1540,Rashid Khan,4.0,19,3,12,4.75,8.0,KKR,Eden Gardens,25 May 2018
+1541,Rashid Khan,4.0,19,3,11,4.75,8.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+1542,Amit Mishra,4.0,19,3,13,4.75,8.0,MI,Arun Jaitley Stadium,20 May 2018
+1543,Hardik Pandya,4.0,19,2,13,4.75,12.0,KKR,Wankhede Stadium,06 May 2018
+1544,Amit Mishra,4.0,19,2,9,4.75,12.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,05 May 2018
+1545,Ankit Rajpoot,4.0,19,2,18,4.75,12.0,CSK,Maharashtra Cricket Association's International Stadium,20 May 2018
+1546,Ravindra Jadeja,4.0,19,1,10,4.75,24.0,DC,Arun Jaitley Stadium,18 May 2018
+1547,Jasprit Bumrah,4.0,19,1,11,4.75,24.0,PBKS,Holkar Cricket Stadium,04 May 2018
+1548,Ravichandran Ashwin,4.0,19,0,8,4.75,0.0,DC,Arun Jaitley Stadium,23 April 2018
+1549,Mustafizur Rahman,3.4,18,1,12,4.9,22.0,SRH,Wankhede Stadium,24 April 2018
+1550,Kuldeep Yadav,4.0,20,4,8,5.0,6.0,RR,Eden Gardens,15 May 2018
+1551,Shreyas Gopal,4.0,20,3,12,5.0,8.0,CSK,Maharashtra Cricket Association's International Stadium,20 April 2018
+1552,Umesh Yadav,3.0,15,2,13,5.0,9.0,CSK,Maharashtra Cricket Association's International Stadium,05 May 2018
+1553,Krishnappa Gowtham,3.0,15,2,10,5.0,9.0,KKR,Eden Gardens,23 May 2018
+1554,Mayank Markande,3.0,15,2,10,5.0,9.0,SRH,Wankhede Stadium,24 April 2018
+1555,Trent Boult,4.0,20,2,12,5.0,12.0,CSK,Arun Jaitley Stadium,18 May 2018
+1556,Sunil Narine,4.0,20,2,10,5.0,12.0,CSK,Eden Gardens,03 May 2018
+1557,Amit Mishra,4.0,20,2,12,5.0,12.0,CSK,Arun Jaitley Stadium,18 May 2018
+1558,Sandeep Sharma,4.0,20,1,10,5.0,24.0,RCB,Rajiv Gandhi Intl. Cricket Stadium,07 May 2018
+1559,Kuldeep Yadav,4.0,20,1,11,5.0,24.0,RCB,M. Chinnaswamy Stadium,29 April 2018
+1560,Lungi Ngidi,4.0,20,1,10,5.0,24.0,SRH,Wankhede Stadium,22 May 2018
+1561,Piyush Chawla,4.0,20,1,10,5.0,24.0,SRH,Eden Gardens,14 April 2018
+1562,Andre Russell,2.0,10,0,2,5.0,0.0,RCB,Eden Gardens,08 April 2018
+1563,Krunal Pandya,2.0,10,0,3,5.0,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+1564,Harbhajan Singh,3.5,20,1,7,5.21,23.0,MI,Maharashtra Cricket Association's International Stadium,28 April 2018
+1565,Billy Stanlake,4.0,21,2,15,5.25,12.0,KKR,Eden Gardens,14 April 2018
+1566,Shakib Al Hasan,4.0,21,2,11,5.25,12.0,KKR,Eden Gardens,14 April 2018
+1567,Mujeeb Ur Rahman,4.0,21,2,8,5.25,12.0,RR,Sawai Mansingh Stadium,08 May 2018
+1568,Sandeep Lamichhane,4.0,21,1,10,5.25,24.0,CSK,Arun Jaitley Stadium,18 May 2018
+1569,Ish Sodhi,4.0,21,1,11,5.25,24.0,KKR,Eden Gardens,15 May 2018
+1570,Axar Patel,4.0,21,1,7,5.25,24.0,RR,Holkar Cricket Stadium,06 May 2018
+1571,Hardik Pandya,3.0,16,2,11,5.33,9.0,KKR,Eden Gardens,09 May 2018
+1572,Shakib Al Hasan,3.0,16,1,8,5.33,18.0,MI,Wankhede Stadium,24 April 2018
+1573,Shakib Al Hasan,3.0,16,1,6,5.33,18.0,KKR,Eden Gardens,25 May 2018
+1574,Jofra Archer,4.0,22,3,13,5.5,8.0,MI,Sawai Mansingh Stadium,22 April 2018
+1575,Harbhajan Singh,4.0,22,2,11,5.5,12.0,RCB,Maharashtra Cricket Association's International Stadium,05 May 2018
+1576,Shreyas Gopal,4.0,22,2,11,5.5,12.0,RCB,M. Chinnaswamy Stadium,15 April 2018
+1577,Washington Sundar,4.0,22,2,8,5.5,12.0,PBKS,M. Chinnaswamy Stadium,13 April 2018
+1578,Yuzvendra Chahal,4.0,22,2,12,5.5,12.0,RR,M. Chinnaswamy Stadium,15 April 2018
+1579,Nitish Rana,2.0,11,2,4,5.5,6.0,RR,Sawai Mansingh Stadium,18 April 2018
+1580,Shardul Thakur,4.0,22,1,14,5.5,24.0,RR,Sawai Mansingh Stadium,11 May 2018
+1581,Krunal Pandya,2.0,11,1,5,5.5,12.0,DC,Arun Jaitley Stadium,20 May 2018
+1582,Harbhajan Singh,2.0,11,1,5,5.5,12.0,KKR,Chidambaram,10 April 2018
+1583,Jasprit Bumrah,4.0,22,1,9,5.5,24.0,RCB,M. Chinnaswamy Stadium,01 May 2018
+1584,Barinder Sran,4.0,22,0,11,5.5,0.0,SRH,IS Bindra Stadium,19 April 2018
+1585,Mohammed Siraj,3.0,17,1,10,5.66,18.0,PBKS,Holkar Cricket Stadium,14 May 2018
+1586,Murugan Ashwin,3.0,17,1,12,5.66,18.0,CSK,Maharashtra Cricket Association's International Stadium,05 May 2018
+1587,Jasprit Bumrah,3.0,17,1,10,5.66,18.0,KKR,Eden Gardens,09 May 2018
+1588,Dan Christian,3.0,17,1,8,5.66,18.0,PBKS,Arun Jaitley Stadium,23 April 2018
+1589,Mayank Markande,4.0,23,4,11,5.75,6.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+1590,Umesh Yadav,4.0,23,3,13,5.75,8.0,PBKS,M. Chinnaswamy Stadium,13 April 2018
+1591,Mayank Markande,4.0,23,3,11,5.75,8.0,CSK,Wankhede Stadium,07 April 2018
+1592,Umesh Yadav,4.0,23,3,15,5.75,8.0,PBKS,Holkar Cricket Stadium,14 May 2018
+1593,Siddarth Kaul,4.0,23,3,13,5.75,8.0,MI,Wankhede Stadium,24 April 2018
+1594,Shakib Al Hasan,4.0,23,2,9,5.75,12.0,RR,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+1595,Ankit Rajpoot,4.0,23,2,15,5.75,12.0,DC,Arun Jaitley Stadium,23 April 2018
+1596,Krishnappa Gowtham,4.0,23,2,12,5.75,12.0,KKR,Sawai Mansingh Stadium,18 April 2018
+1597,Amit Mishra,4.0,23,2,10,5.75,12.0,KKR,Arun Jaitley Stadium,27 April 2018
+1598,Andrew Tye,4.0,23,2,10,5.75,12.0,SRH,IS Bindra Stadium,19 April 2018
+1599,Rashid Khan,4.0,23,2,9,5.75,12.0,DC,Rajiv Gandhi Intl. Cricket Stadium,05 May 2018
+1600,Siddarth Kaul,4.0,23,2,8,5.75,12.0,RR,Sawai Mansingh Stadium,29 April 2018
+1601,Kuldeep Yadav,4.0,23,1,8,5.75,24.0,SRH,Eden Gardens,14 April 2018
+1602,Kuldeep Yadav,4.0,23,1,9,5.75,24.0,RR,Sawai Mansingh Stadium,18 April 2018
+1603,Ravichandran Ashwin,4.0,23,1,4,5.75,24.0,DC,IS Bindra Stadium,08 April 2018
+1604,Rashid Khan,4.0,23,1,11,5.75,24.0,RR,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+1605,Umesh Yadav,4.0,23,1,12,5.75,24.0,CSK,M. Chinnaswamy Stadium,25 April 2018
+1606,Harshal Patel,4.0,23,1,10,5.75,24.0,CSK,Arun Jaitley Stadium,18 May 2018
+1607,Sunil Narine,4.0,23,1,10,5.75,24.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,19 May 2018
+1608,Yuzvendra Chahal,4.0,23,0,14,5.75,0.0,MI,M. Chinnaswamy Stadium,01 May 2018
+1609,Ravichandran Ashwin,4.0,23,0,7,5.75,0.0,MI,Holkar Cricket Stadium,04 May 2018
+1610,Sunil Narine,3.0,18,3,6,6.0,6.0,DC,Eden Gardens,16 April 2018
+1611,Mustafizur Rahman,4.0,24,3,10,6.0,8.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+1612,Rahul Tewatia,3.0,18,3,10,6.0,6.0,KKR,Eden Gardens,16 April 2018
+1613,Hardik Pandya,4.0,24,3,12,6.0,8.0,CSK,Wankhede Stadium,07 April 2018
+1614,Shakib Al Hasan,3.0,18,2,7,6.0,9.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+1615,Ravichandran Ashwin,3.0,18,2,5,6.0,9.0,MI,Wankhede Stadium,16 May 2018
+1616,Piyush Chawla,4.0,24,2,7,6.0,12.0,RR,Eden Gardens,23 May 2018
+1617,Andrew Tye,4.0,24,2,7,6.0,12.0,RR,Holkar Cricket Stadium,06 May 2018
+1618,Shardul Thakur,3.0,18,2,9,6.0,9.0,RR,Maharashtra Cricket Association's International Stadium,20 April 2018
+1619,Basil Thampi,2.2,14,2,6,6.0,7.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,26 April 2018
+1620,Andre Russell,2.0,12,2,5,6.0,6.0,MI,Wankhede Stadium,06 May 2018
+1621,Amit Mishra,2.0,12,1,5,6.0,12.0,RR,Arun Jaitley Stadium,02 May 2018
+1622,Sunil Narine,4.0,24,1,7,6.0,24.0,SRH,Eden Gardens,25 May 2018
+1623,Dan Christian,2.0,12,1,6,6.0,12.0,PBKS,IS Bindra Stadium,08 April 2018
+1624,Lungi Ngidi,4.0,24,1,15,6.0,24.0,RCB,Maharashtra Cricket Association's International Stadium,05 May 2018
+1625,Krishnappa Gowtham,3.0,18,1,11,6.0,18.0,PBKS,Holkar Cricket Stadium,06 May 2018
+1626,Rahul Tewatia,4.0,24,1,9,6.0,24.0,PBKS,IS Bindra Stadium,08 April 2018
+1627,David Willey,4.0,24,1,12,6.0,24.0,RCB,Maharashtra Cricket Association's International Stadium,05 May 2018
+1628,Ben Cutting,2.0,12,1,6,6.0,12.0,KKR,Eden Gardens,09 May 2018
+1629,Moeen Ali,2.1,13,1,5,6.0,13.0,PBKS,Holkar Cricket Stadium,14 May 2018
+1630,Krunal Pandya,4.0,24,0,11,6.0,0.0,RCB,M. Chinnaswamy Stadium,01 May 2018
+1631,Rashid Khan,4.0,24,0,9,6.0,0.0,CSK,Wankhede Stadium,27 May 2018
+1632,Liam Plunkett,4.0,24,0,9,6.0,0.0,KKR,Arun Jaitley Stadium,27 April 2018
+1633,Krunal Pandya,4.0,24,0,8,6.0,0.0,RR,Wankhede Stadium,13 May 2018
+1634,Mujeeb Ur Rahman,3.0,18,0,5,6.0,0.0,CSK,IS Bindra Stadium,15 April 2018
+1635,Sandeep Sharma,4.0,24,0,11,6.0,0.0,DC,Arun Jaitley Stadium,10 May 2018
+1636,Shreyas Gopal,3.0,18,0,6,6.0,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,09 April 2018
+1637,Mohammed Siraj,4.0,25,3,12,6.25,8.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,07 May 2018
+1638,Umesh Yadav,4.0,25,3,12,6.25,8.0,RR,Sawai Mansingh Stadium,19 May 2018
+1639,Sandeep Sharma,4.0,25,2,13,6.25,12.0,MI,Rajiv Gandhi Intl. Cricket Stadium,12 April 2018
+1640,Dwayne Bravo,4.0,25,2,9,6.25,12.0,SRH,Wankhede Stadium,22 May 2018
+1641,Mujeeb Ur Rahman,4.0,25,2,12,6.25,12.0,DC,Arun Jaitley Stadium,23 April 2018
+1642,Andrew Tye,4.0,25,2,11,6.25,12.0,DC,Arun Jaitley Stadium,23 April 2018
+1643,Tim Southee,4.0,25,2,14,6.25,12.0,MI,M. Chinnaswamy Stadium,01 May 2018
+1644,Mustafizur Rahman,4.0,25,1,11,6.25,24.0,DC,Wankhede Stadium,14 April 2018
+1645,Sandeep Lamichhane,4.0,25,1,10,6.25,24.0,RCB,Arun Jaitley Stadium,12 May 2018
+1646,Mayank Markande,4.0,25,1,9,6.25,24.0,RCB,Wankhede Stadium,17 April 2018
+1647,Axar Patel,4.0,25,1,10,6.25,24.0,RCB,M. Chinnaswamy Stadium,13 April 2018
+1648,Siddarth Kaul,4.0,25,1,6,6.25,24.0,RCB,Rajiv Gandhi Intl. Cricket Stadium,07 May 2018
+1649,Bhuvneshwar Kumar,4.0,25,1,10,6.25,24.0,PBKS,IS Bindra Stadium,19 April 2018
+1650,Yuzvendra Chahal,4.0,6,1,18,1.5,24.0,CSK,Chidambaram,23 March 2019
+1651,Imran Tahir,4.0,9,3,18,2.25,8.0,RCB,Chidambaram,23 March 2019
+1652,Krunal Pandya,3.0,7,2,12,2.33,9.0,CSK,Chidambaram,26 April 2019
+1653,Mohammed Siraj,2.0,5,1,8,2.5,12.0,CSK,Chidambaram,23 March 2019
+1654,Mohammad Nabi,4.0,11,4,16,2.75,6.0,RCB,Rajiv Gandhi Intl. Cricket Stadium,31 March 2019
+1655,Ravindra Jadeja,3.0,9,3,9,3.0,6.0,DC,Chidambaram,01 May 2019
+1656,Shreyas Gopal,4.0,12,3,16,3.0,8.0,RCB,Sawai Mansingh Stadium,02 April 2019
+1657,Mitchell Santner,4.0,13,2,15,3.25,12.0,MI,Chidambaram,26 April 2019
+1658,Mohammad Nabi,4.0,13,1,12,3.25,24.0,MI,Rajiv Gandhi Intl. Cricket Stadium,06 April 2019
+1659,Alzarri Joseph,3.4,12,6,16,3.27,3.66,SRH,Rajiv Gandhi Intl. Cricket Stadium,06 April 2019
+1660,Jasprit Bumrah,3.0,10,2,12,3.33,9.0,CSK,Chidambaram,26 April 2019
+1661,Rahul Tewatia,3.0,10,1,12,3.33,18.0,SRH,Arun Jaitley Stadium,04 April 2019
+1662,Rahul Chahar,4.0,14,2,13,3.5,12.0,CSK,Chidambaram,07 May 2019
+1663,Jasprit Bumrah,4.0,14,2,13,3.5,12.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,12 May 2019
+1664,Krunal Pandya,2.0,7,1,6,3.5,12.0,DC,Arun Jaitley Stadium,18 April 2019
+1665,Rahul Chahar,4.0,14,1,13,3.5,24.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,12 May 2019
+1666,Krunal Pandya,4.0,14,0,11,3.5,0.0,KKR,Wankhede Stadium,05 May 2019
+1667,Imran Tahir,3.2,12,4,12,3.6,5.0,DC,Chidambaram,01 May 2019
+1668,Jofra Archer,4.0,15,3,15,3.75,8.0,PBKS,IS Bindra Stadium,16 April 2019
+1669,Harbhajan Singh,4.0,15,2,15,3.75,12.0,KKR,Chidambaram,09 April 2019
+1670,Rashid Khan,4.0,15,2,16,3.75,12.0,DC,ACA-VDCA Stadium,08 May 2019
+1671,Ravindra Jadeja,4.0,15,2,15,3.75,12.0,RCB,Chidambaram,23 March 2019
+1672,Ravichandran Ashwin,4.0,15,1,10,3.75,24.0,RCB,M. Chinnaswamy Stadium,24 April 2019
+1673,Amit Mishra,4.0,16,1,10,4.0,24.0,SRH,ACA-VDCA Stadium,08 May 2019
+1674,Axar Patel,4.0,16,0,12,4.0,0.0,RR,Arun Jaitley Stadium,04 May 2019
+1675,Krishnappa Gowtham,4.0,16,0,9,4.0,0.0,DC,Arun Jaitley Stadium,04 May 2019
+1676,Kuldeep Yadav,4.0,16,0,12,4.0,0.0,CSK,Chidambaram,09 April 2019
+1677,Axar Patel,4.0,16,0,15,4.0,0.0,CSK,Arun Jaitley Stadium,26 March 2019
+1678,Amit Mishra,4.0,17,3,11,4.25,8.0,RR,Arun Jaitley Stadium,04 May 2019
+1679,Keemo Paul,4.0,17,3,10,4.25,8.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,14 April 2019
+1680,Yuzvendra Chahal,4.0,17,2,11,4.25,12.0,RR,Sawai Mansingh Stadium,02 April 2019
+1681,Jofra Archer,4.0,17,2,13,4.25,12.0,CSK,Chidambaram,31 March 2019
+1682,Harbhajan Singh,4.0,17,2,10,4.25,12.0,PBKS,Chidambaram,06 April 2019
+1683,Rashid Khan,4.0,17,2,13,4.25,12.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,17 April 2019
+1684,Ravindra Jadeja,4.0,17,1,15,4.25,24.0,KKR,Chidambaram,09 April 2019
+1685,Axar Patel,4.0,17,1,7,4.25,24.0,MI,Arun Jaitley Stadium,18 April 2019
+1686,Deepak Chahar,4.0,17,0,12,4.25,0.0,RCB,Chidambaram,23 March 2019
+1687,Jofra Archer,4.0,17,0,13,4.25,0.0,PBKS,Sawai Mansingh Stadium,25 March 2019
+1688,Umesh Yadav,3.0,13,0,9,4.33,0.0,CSK,Chidambaram,23 March 2019
+1689,Amit Mishra,3.0,13,0,8,4.33,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,14 April 2019
+1690,Moeen Ali,4.0,18,2,12,4.5,12.0,MI,Wankhede Stadium,15 April 2019
+1691,Shardul Thakur,4.0,18,2,14,4.5,12.0,KKR,Eden Gardens,14 April 2019
+1692,Jasprit Bumrah,4.0,18,2,13,4.5,12.0,DC,Arun Jaitley Stadium,18 April 2019
+1693,Rashid Khan,4.0,18,1,13,4.5,24.0,DC,Arun Jaitley Stadium,04 April 2019
+1694,Axar Patel,4.0,18,1,10,4.5,24.0,SRH,Arun Jaitley Stadium,04 April 2019
+1695,Bhuvneshwar Kumar,4.0,18,1,15,4.5,24.0,CSK,Chidambaram,23 April 2019
+1696,Ravindra Jadeja,4.0,18,0,14,4.5,0.0,MI,Chidambaram,07 May 2019
+1697,Krunal Pandya,2.0,9,0,4,4.5,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,06 April 2019
+1698,Dhawal Kulkarni,3.0,14,1,11,4.66,18.0,CSK,Sawai Mansingh Stadium,11 April 2019
+1699,Jofra Archer,3.0,14,0,12,4.66,0.0,KKR,Sawai Mansingh Stadium,07 April 2019
+1700,Sam Curran,2.2,11,4,8,4.71,3.5,DC,IS Bindra Stadium,01 April 2019
+1701,Keemo Paul,3.1,15,0,8,4.73,0.0,RR,Arun Jaitley Stadium,04 May 2019
+1702,Rahul Chahar,4.0,19,3,15,4.75,8.0,DC,Arun Jaitley Stadium,18 April 2019
+1703,Deepak Chahar,4.0,19,2,12,4.75,12.0,RR,Chidambaram,31 March 2019
+1704,Dwayne Bravo,4.0,19,2,11,4.75,12.0,DC,ACA-VDCA Stadium,10 May 2019
+1705,Sunil Narine,4.0,19,2,12,4.75,12.0,CSK,Eden Gardens,14 April 2019
+1706,Jofra Archer,4.0,19,1,11,4.75,24.0,CSK,Sawai Mansingh Stadium,11 April 2019
+1707,Moeen Ali,4.0,19,1,10,4.75,24.0,PBKS,IS Bindra Stadium,13 April 2019
+1708,Moeen Ali,4.0,19,1,15,4.75,24.0,CSK,Chidambaram,23 March 2019
+1709,Mitchell McClenaghan,4.0,19,0,13,4.75,0.0,KKR,Wankhede Stadium,05 May 2019
+1710,Piyush Chawla,4.0,19,0,13,4.75,0.0,RR,Sawai Mansingh Stadium,07 April 2019
+1711,Krishnappa Gowtham,4.0,19,0,10,4.75,0.0,RCB,Sawai Mansingh Stadium,02 April 2019
+1712,Sandeep Sharma,3.5,19,3,13,4.95,7.66,RCB,Rajiv Gandhi Intl. Cricket Stadium,31 March 2019
+1713,Piyush Chawla,4.0,20,3,14,5.0,8.0,RR,Eden Gardens,25 April 2019
+1714,Deepak Chahar,4.0,20,3,20,5.0,8.0,KKR,Chidambaram,09 April 2019
+1715,Hardik Pandya,4.0,20,3,14,5.0,8.0,CSK,Wankhede Stadium,03 April 2019
+1716,Harbhajan Singh,4.0,20,3,13,5.0,8.0,RCB,Chidambaram,23 March 2019
+1717,Jasprit Bumrah,4.0,20,3,14,5.0,8.0,RCB,M. Chinnaswamy Stadium,28 March 2019
+1718,Ravindra Jadeja,4.0,20,2,9,5.0,12.0,RR,Sawai Mansingh Stadium,11 April 2019
+1719,Varun Aaron,4.0,20,2,17,5.0,12.0,KKR,Eden Gardens,25 April 2019
+1720,Imran Tahir,4.0,20,2,13,5.0,12.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 April 2019
+1721,Mohammad Shami,3.0,15,1,9,5.0,18.0,KKR,IS Bindra Stadium,03 May 2019
+1722,Rashid Khan,4.0,20,1,9,5.0,24.0,PBKS,IS Bindra Stadium,08 April 2019
+1723,Ravichandran Ashwin,4.0,20,1,6,5.0,24.0,RR,Sawai Mansingh Stadium,25 March 2019
+1724,Ravindra Jadeja,2.0,10,1,6,5.0,12.0,MI,Wankhede Stadium,03 April 2019
+1725,Trent Boult,4.0,20,1,11,5.0,24.0,CSK,ACA-VDCA Stadium,10 May 2019
+1726,Deepak Chahar,4.0,20,1,12,5.0,24.0,DC,Arun Jaitley Stadium,26 March 2019
+1727,Imran Tahir,4.0,20,0,7,5.0,0.0,PBKS,Chidambaram,06 April 2019
+1728,Kagiso Rabada,4.0,21,4,9,5.25,6.0,RCB,M. Chinnaswamy Stadium,07 April 2019
+1729,Rashid Khan,4.0,21,3,12,5.25,8.0,PBKS,Rajiv Gandhi Intl. Cricket Stadium,29 April 2019
+1730,Mohammad Shami,4.0,21,3,13,5.25,8.0,MI,Wankhede Stadium,10 April 2019
+1731,Shreyas Gopal,4.0,21,2,8,5.25,12.0,MI,Sawai Mansingh Stadium,20 April 2019
+1732,Mohammad Nabi,4.0,21,2,7,5.25,12.0,DC,Arun Jaitley Stadium,04 April 2019
+1733,Rahul Chahar,4.0,21,2,13,5.25,12.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,06 April 2019
+1734,Sandeep Sharma,4.0,21,2,9,5.25,12.0,PBKS,IS Bindra Stadium,08 April 2019
+1735,Shreyas Gopal,4.0,21,2,13,5.25,12.0,DC,Arun Jaitley Stadium,04 May 2019
+1736,Imran Tahir,4.0,21,2,15,5.25,12.0,KKR,Chidambaram,09 April 2019
+1737,Amit Mishra,4.0,21,1,9,5.25,24.0,CSK,ACA-VDCA Stadium,10 May 2019
+1738,Jasprit Bumrah,4.0,21,1,8,5.25,24.0,RR,Sawai Mansingh Stadium,20 April 2019
+1739,Ishant Sharma,4.0,21,1,14,5.25,24.0,KKR,Eden Gardens,12 April 2019
+1740,Mohammad Shami,4.0,21,1,11,5.25,24.0,DC,Arun Jaitley Stadium,20 April 2019
+1741,Krunal Pandya,4.0,21,1,13,5.25,24.0,CSK,Chidambaram,07 May 2019
+1742,Rahul Chahar,4.0,21,0,7,5.25,0.0,CSK,Chidambaram,26 April 2019
+1743,Shreyas Gopal,4.0,21,0,10,5.25,0.0,MI,Wankhede Stadium,13 April 2019
+1744,Bhuvneshwar Kumar,4.0,21,0,12,5.25,0.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,17 April 2019
+1745,Ankit Rajpoot,4.0,21,0,10,5.25,0.0,SRH,IS Bindra Stadium,08 April 2019
+1746,Rashid Khan,4.0,21,0,11,5.25,0.0,MI,Wankhede Stadium,02 May 2019
+1747,Rahul Chahar,4.0,21,0,10,5.25,0.0,SRH,Wankhede Stadium,02 May 2019
+1748,Jasprit Bumrah,3.0,16,1,9,5.33,18.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,06 April 2019
+1749,Siddarth Kaul,3.0,16,0,11,5.33,0.0,RCB,Rajiv Gandhi Intl. Cricket Stadium,31 March 2019
+1750,Amit Mishra,3.0,16,0,6,5.33,0.0,CSK,Chidambaram,01 May 2019
+1751,Krunal Pandya,4.0,22,2,6,5.5,12.0,SRH,Wankhede Stadium,02 May 2019
+1752,Jason Behrendorff,4.0,22,2,15,5.5,12.0,CSK,Wankhede Stadium,03 April 2019
+1753,Vijay Shankar,2.0,11,1,5,5.5,12.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,17 April 2019
+1754,Anukul Roy,2.0,11,1,4,5.5,12.0,CSK,Chidambaram,26 April 2019
+1755,Moeen Ali,4.0,22,1,10,5.5,24.0,DC,M. Chinnaswamy Stadium,07 April 2019
+1756,Axar Patel,4.0,22,1,8,5.5,24.0,RCB,M. Chinnaswamy Stadium,07 April 2019
+1757,Rashid Khan,4.0,22,1,11,5.5,24.0,DC,Rajiv Gandhi Intl. Cricket Stadium,14 April 2019
+1758,Khaleel Ahmed,4.0,22,1,14,5.5,24.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,17 April 2019
+1759,Jofra Archer,4.0,22,1,14,5.5,24.0,MI,Sawai Mansingh Stadium,20 April 2019
+1760,Rahul Chahar,2.0,11,0,5,5.5,0.0,CSK,Wankhede Stadium,03 April 2019
+1761,Jasprit Bumrah,4.0,22,0,14,5.5,0.0,RCB,Wankhede Stadium,15 April 2019
+1762,Bhuvneshwar Kumar,4.0,22,0,14,5.5,0.0,RR,Sawai Mansingh Stadium,27 April 2019
+1763,Sunil Narine,4.0,22,0,13,5.5,0.0,RR,Sawai Mansingh Stadium,07 April 2019
+1764,Ravindra Jadeja,4.0,22,0,8,5.5,0.0,SRH,Rajiv Gandhi Intl. Cricket Stadium,17 April 2019
+1765,Mohammad Shami,3.0,17,2,8,5.66,9.0,CSK,IS Bindra Stadium,05 May 2019
+1766,Andre Russell,3.0,17,1,8,5.66,18.0,RCB,Eden Gardens,19 April 2019
+1767,Ishant Sharma,3.0,17,0,5,5.66,0.0,MI,Arun Jaitley Stadium,18 April 2019
+1768,Kagiso Rabada,3.5,22,4,11,5.73,5.75,SRH,Rajiv Gandhi Intl. Cricket Stadium,14 April 2019
+1769,Ravichandran Ashwin,4.0,23,3,10,5.75,8.0,CSK,Chidambaram,06 April 2019
+1770,Jasprit Bumrah,4.0,23,2,12,5.75,12.0,RR,Wankhede Stadium,13 April 2019
+1771,Kagiso Rabada,4.0,23,2,13,5.75,12.0,PBKS,Arun Jaitley Stadium,20 April 2019
+1772,Kagiso Rabada,4.0,23,2,10,5.75,12.0,MI,Wankhede Stadium,24 March 2019
+1773,Imran Tahir,4.0,23,2,8,5.75,12.0,RR,Chidambaram,31 March 2019
+1774,Rashid Khan,4.0,23,1,12,5.75,24.0,KKR,Rajiv Gandhi Intl. Cricket Stadium,21 April 2019
+1775,Ravindra Jadeja,4.0,23,1,8,5.75,24.0,DC,Arun Jaitley Stadium,26 March 2019
+1776,Harbhajan Singh,4.0,23,0,13,5.75,0.0,MI,Chidambaram,26 April 2019
+1777,Murugan Ashwin,4.0,23,0,8,5.75,0.0,CSK,Chidambaram,06 April 2019
+1778,Navdeep Saini,4.0,23,0,13,5.75,0.0,PBKS,IS Bindra Stadium,13 April 2019
+1779,Ravichandran Ashwin,4.0,23,0,7,5.75,0.0,CSK,IS Bindra Stadium,05 May 2019
+1780,Prasidh Krishna,4.0,23,0,12,5.75,0.0,CSK,Chidambaram,09 April 2019
+1781,Bhuvneshwar Kumar,4.0,24,2,12,6.0,12.0,RCB,M. Chinnaswamy Stadium,04 May 2019
+1782,Ravichandran Ashwin,4.0,24,2,6,6.0,12.0,RR,IS Bindra Stadium,16 April 2019
+1783,Navdeep Saini,4.0,24,2,13,6.0,12.0,DC,M. Chinnaswamy Stadium,07 April 2019
+1784,Yuzvendra Chahal,4.0,24,1,10,6.0,24.0,SRH,M. Chinnaswamy Stadium,04 May 2019
+1785,Navdeep Saini,4.0,24,1,15,6.0,24.0,CSK,M. Chinnaswamy Stadium,21 April 2019
+1786,Rashid Khan,4.0,24,1,10,6.0,24.0,RR,Rajiv Gandhi Intl. Cricket Stadium,29 March 2019
+1787,Murugan Ashwin,4.0,24,1,6,6.0,24.0,RR,IS Bindra Stadium,16 April 2019
+1788,Yuzvendra Chahal,4.0,24,1,8,6.0,24.0,KKR,M. Chinnaswamy Stadium,05 April 2019
+1789,Amit Mishra,3.0,18,1,7,6.0,18.0,MI,Arun Jaitley Stadium,18 April 2019
+1790,Yuzvendra Chahal,4.0,24,1,7,6.0,24.0,CSK,M. Chinnaswamy Stadium,21 April 2019
+1791,Mohammad Nabi,4.0,24,1,9,6.0,24.0,MI,Wankhede Stadium,02 May 2019
+1792,Ishant Sharma,4.0,24,1,10,6.0,24.0,CSK,ACA-VDCA Stadium,10 May 2019
+1793,Nitish Rana,2.0,12,1,2,6.0,12.0,DC,Eden Gardens,12 April 2019
+1794,Krunal Pandya,2.0,12,0,6,6.0,0.0,CSK,Wankhede Stadium,03 April 2019
+1795,Ravindra Jadeja,4.0,24,0,7,6.0,0.0,PBKS,Chidambaram,06 April 2019
+1796,Ravindra Jadeja,2.0,12,0,3,6.0,0.0,MI,Rajiv Gandhi Intl. Cricket Stadium,12 May 2019
+1797,Mitchell McClenaghan,4.0,24,0,12,6.0,0.0,CSK,Rajiv Gandhi Intl. Cricket Stadium,12 May 2019
+1798,Navdeep Saini,4.0,24,0,16,6.0,0.0,CSK,Chidambaram,23 March 2019
+1799,Dwayne Bravo,3.0,18,0,6,6.0,0.0,DC,Chidambaram,01 May 2019
+1800,Rashid Khan,4.0,7,3,17,1.75,8.0,DC,Dubai International Stadium,27 October 2020
+1801,Mohammed Siraj,4.0,8,3,16,2.0,8.0,KKR,Zayed Cricket Stadium,21 October 2020
+1802,T Natarajan,4.0,11,1,16,2.75,24.0,RCB,Sharjah Cricket Stadium,31 October 2020
+1803,Rashid Khan,4.0,12,3,13,3.0,8.0,PBKS,Dubai International Stadium,08 October 2020
+1804,Adam Zampa,4.0,12,1,14,3.0,24.0,SRH,Zayed Cricket Stadium,06 November 2020
+1805,Washington Sundar,4.0,12,1,13,3.0,24.0,MI,Dubai International Stadium,28 September 2020
+1806,Yuzvendra Chahal,4.0,12,1,13,3.0,24.0,KKR,Sharjah Cricket Stadium,12 October 2020
+1807,Rashid Khan,4.0,12,0,16,3.0,0.0,CSK,Dubai International Stadium,02 October 2020
+1808,Ravi Bishnoi,4.0,13,1,14,3.25,24.0,SRH,Dubai International Stadium,24 October 2020
+1809,Deepak Chahar,3.0,10,1,10,3.33,18.0,RCB,Dubai International Stadium,10 October 2020
+1810,Jasprit Bumrah,4.0,14,4,17,3.5,6.0,DC,Dubai International Stadium,05 November 2020
+1811,Rashid Khan,4.0,14,3,13,3.5,8.0,DC,Zayed Cricket Stadium,29 September 2020
+1812,Jasprit Bumrah,4.0,14,3,15,3.5,8.0,RCB,Zayed Cricket Stadium,28 October 2020
+1813,Rashid Khan,4.0,14,2,15,3.5,12.0,PBKS,Dubai International Stadium,24 October 2020
+1814,Axar Patel,4.0,14,1,11,3.5,24.0,PBKS,Dubai International Stadium,20 September 2020
+1815,Shreyas Gopal,4.0,14,1,12,3.5,24.0,CSK,Zayed Cricket Stadium,19 October 2020
+1816,Washington Sundar,4.0,14,1,14,3.5,24.0,KKR,Zayed Cricket Stadium,21 October 2020
+1817,Ravindra Jadeja,2.0,7,0,6,3.5,0.0,RCB,Dubai International Stadium,10 October 2020
+1818,Mohammad Shami,4.0,15,3,15,3.75,8.0,DC,Dubai International Stadium,20 September 2020
+1819,Lockie Ferguson,4.0,15,3,13,3.75,8.0,SRH,Zayed Cricket Stadium,18 October 2020
+1820,Yuzvendra Chahal,4.0,15,2,13,3.75,12.0,KKR,Zayed Cricket Stadium,21 October 2020
+1821,Shivam Mavi,4.0,15,2,14,3.75,12.0,RR,Dubai International Stadium,01 November 2020
+1822,Axar Patel,2.0,8,1,6,4.0,12.0,RR,Sharjah Cricket Stadium,09 October 2020
+1823,Chris Morris,4.0,16,0,15,4.0,0.0,KKR,Zayed Cricket Stadium,21 October 2020
+1824,Axar Patel,4.0,16,0,11,4.0,0.0,MI,Dubai International Stadium,10 November 2020
+1825,Chris Jordan,4.0,17,3,12,4.25,8.0,SRH,Dubai International Stadium,24 October 2020
+1826,Pat Cummins,4.0,17,3,16,4.25,8.0,DC,Zayed Cricket Stadium,24 October 2020
+1827,Jasprit Bumrah,4.0,17,3,15,4.25,8.0,DC,Dubai International Stadium,31 October 2020
+1828,Chris Morris,4.0,17,2,10,4.25,12.0,KKR,Sharjah Cricket Stadium,12 October 2020
+1829,Lockie Ferguson,4.0,17,1,14,4.25,24.0,RCB,Zayed Cricket Stadium,21 October 2020
+1830,Ravichandran Ashwin,4.0,17,1,10,4.25,24.0,RR,Dubai International Stadium,14 October 2020
+1831,Murugan Ashwin,4.0,17,0,8,4.25,0.0,CSK,Zayed Cricket Stadium,01 November 2020
+1832,Pat Cummins,3.0,13,1,12,4.33,18.0,RR,Dubai International Stadium,30 September 2020
+1833,Krunal Pandya,3.0,13,0,9,4.33,0.0,DC,Dubai International Stadium,31 October 2020
+1834,Trent Boult,4.0,18,4,17,4.5,6.0,CSK,Sharjah Cricket Stadium,23 October 2020
+1835,Yuzvendra Chahal,4.0,18,3,11,4.5,8.0,SRH,Dubai International Stadium,21 September 2020
+1836,Rahul Chahar,4.0,18,2,13,4.5,12.0,KKR,Zayed Cricket Stadium,16 October 2020
+1837,Jofra Archer,4.0,18,2,14,4.5,12.0,KKR,Dubai International Stadium,30 September 2020
+1838,Axar Patel,4.0,18,2,10,4.5,12.0,RCB,Dubai International Stadium,05 October 2020
+1839,Deepak Chahar,4.0,18,2,10,4.5,12.0,DC,Sharjah Cricket Stadium,17 October 2020
+1840,Jasprit Bumrah,4.0,18,2,13,4.5,12.0,PBKS,Zayed Cricket Stadium,01 October 2020
+1841,Deepak Chahar,4.0,18,2,17,4.5,12.0,RR,Zayed Cricket Stadium,19 October 2020
+1842,Trent Boult,2.0,9,2,9,4.5,6.0,DC,Dubai International Stadium,05 November 2020
+1843,Axar Patel,4.0,18,1,10,4.5,24.0,CSK,Dubai International Stadium,25 September 2020
+1844,Ravichandran Ashwin,4.0,18,1,10,4.5,24.0,RCB,Zayed Cricket Stadium,02 November 2020
+1845,Jofra Archer,4.0,18,1,15,4.5,24.0,RCB,Zayed Cricket Stadium,03 October 2020
+1846,Rahul Tewatia,4.0,18,1,11,4.5,24.0,CSK,Zayed Cricket Stadium,19 October 2020
+1847,Navdeep Saini,4.0,18,0,16,4.5,0.0,CSK,Dubai International Stadium,10 October 2020
+1848,Ravichandran Ashwin,4.0,18,0,11,4.5,0.0,MI,Dubai International Stadium,31 October 2020
+1849,Mohammad Shami,3.0,14,1,10,4.66,18.0,RCB,Dubai International Stadium,24 September 2020
+1850,Jofra Archer,4.0,19,3,14,4.75,8.0,DC,Dubai International Stadium,14 October 2020
+1851,Chris Morris,4.0,19,3,14,4.75,8.0,CSK,Dubai International Stadium,10 October 2020
+1852,Sandeep Sharma,4.0,19,2,13,4.75,12.0,CSK,Dubai International Stadium,13 October 2020
+1853,Shahbaz Nadeem,4.0,19,2,11,4.75,12.0,MI,Sharjah Cricket Stadium,03 November 2020
+1854,Jofra Archer,4.0,19,1,15,4.75,24.0,KKR,Dubai International Stadium,01 November 2020
+1855,Josh Hazlewood,4.0,19,1,14,4.75,24.0,RR,Zayed Cricket Stadium,19 October 2020
+1856,Pat Cummins,4.0,19,1,11,4.75,24.0,SRH,Zayed Cricket Stadium,26 September 2020
+1857,Varun Chakaravarthy,4.0,20,5,9,5.0,4.8,DC,Zayed Cricket Stadium,24 October 2020
+1858,Jasprit Bumrah,4.0,20,4,14,5.0,6.0,RR,Zayed Cricket Stadium,06 October 2020
+1859,Sandeep Sharma,4.0,20,2,9,5.0,12.0,RCB,Sharjah Cricket Stadium,31 October 2020
+1860,Shivam Dube,3.0,15,2,7,5.0,9.0,SRH,Dubai International Stadium,21 September 2020
+1861,Washington Sundar,4.0,20,2,8,5.0,12.0,KKR,Sharjah Cricket Stadium,12 October 2020
+1862,Shivam Mavi,4.0,20,2,13,5.0,12.0,RR,Dubai International Stadium,30 September 2020
+1863,Varun Chakaravarthy,4.0,20,2,13,5.0,12.0,CSK,Dubai International Stadium,29 October 2020
+1864,Varun Chakaravarthy,4.0,20,2,9,5.0,12.0,RR,Dubai International Stadium,01 November 2020
+1865,Ravi Bishnoi,4.0,20,2,11,5.0,12.0,KKR,Sharjah Cricket Stadium,26 October 2020
+1866,Shardul Thakur,2.0,10,1,4,5.0,12.0,SRH,Dubai International Stadium,13 October 2020
+1867,Glenn Maxwell,2.0,10,1,5,5.0,12.0,RCB,Dubai International Stadium,24 September 2020
+1868,Jofra Archer,4.0,20,1,11,5.0,24.0,CSK,Zayed Cricket Stadium,19 October 2020
+1869,Vijay Shankar,3.0,15,1,8,5.0,18.0,RR,Dubai International Stadium,22 October 2020
+1870,Rahul Tewatia,4.0,20,1,11,5.0,24.0,DC,Sharjah Cricket Stadium,09 October 2020
+1871,Vijay Shankar,4.0,20,1,13,5.0,24.0,KKR,Zayed Cricket Stadium,18 October 2020
+1872,Rashid Khan,4.0,20,1,9,5.0,24.0,RR,Dubai International Stadium,22 October 2020
+1873,Sheldon Cottrell,4.0,20,1,14,5.0,24.0,MI,Zayed Cricket Stadium,01 October 2020
+1874,Washington Sundar,4.0,20,0,9,5.0,0.0,DC,Dubai International Stadium,05 October 2020
+1875,Washington Sundar,4.0,20,0,8,5.0,0.0,RR,Zayed Cricket Stadium,03 October 2020
+1876,Washington Sundar,4.0,20,0,10,5.0,0.0,MI,Zayed Cricket Stadium,28 October 2020
+1877,Trent Boult,4.0,21,3,16,5.25,8.0,DC,Dubai International Stadium,31 October 2020
+1878,Kagiso Rabada,4.0,21,2,11,5.25,12.0,SRH,Zayed Cricket Stadium,29 September 2020
+1879,Jofra Archer,4.0,21,2,16,5.25,12.0,SRH,Dubai International Stadium,22 October 2020
+1880,Anrich Nortje,4.0,21,2,12,5.25,12.0,CSK,Dubai International Stadium,25 September 2020
+1881,Piyush Chawla,4.0,21,1,11,5.25,24.0,MI,Zayed Cricket Stadium,19 September 2020
+1882,Yuzvendra Chahal,4.0,21,1,7,5.25,24.0,CSK,Dubai International Stadium,25 October 2020
+1883,Sandeep Sharma,4.0,21,0,9,5.25,0.0,RCB,Zayed Cricket Stadium,06 November 2020
+1884,Navdeep Saini,4.0,21,0,14,5.25,0.0,PBKS,Sharjah Cricket Stadium,15 October 2020
+1885,Washington Sundar,3.0,16,2,7,5.33,9.0,CSK,Dubai International Stadium,10 October 2020
+1886,Krunal Pandya,3.0,16,0,8,5.33,0.0,CSK,Sharjah Cricket Stadium,23 October 2020
+1887,Rahul Chahar,4.0,22,2,13,5.5,12.0,CSK,Sharjah Cricket Stadium,23 October 2020
+1888,Anrich Nortje,4.0,22,2,13,5.5,12.0,RCB,Dubai International Stadium,05 October 2020
+1889,Ravichandran Ashwin,4.0,22,2,9,5.5,12.0,RR,Sharjah Cricket Stadium,09 October 2020
+1890,Krunal Pandya,4.0,22,1,11,5.5,24.0,DC,Dubai International Stadium,05 November 2020
+1891,Ravi Bishnoi,4.0,22,1,9,5.5,24.0,DC,Dubai International Stadium,20 September 2020
+1892,Jasprit Bumrah,4.0,22,1,12,5.5,24.0,KKR,Zayed Cricket Stadium,16 October 2020
+1893,Rashid Khan,4.0,22,1,11,5.5,24.0,MI,Sharjah Cricket Stadium,04 October 2020
+1894,Sunil Narine,4.0,22,1,8,5.5,24.0,MI,Zayed Cricket Stadium,23 September 2020
+1895,Chris Morris,4.0,22,0,12,5.5,0.0,PBKS,Sharjah Cricket Stadium,15 October 2020
+1896,Rashid Khan,4.0,22,0,11,5.5,0.0,RCB,Zayed Cricket Stadium,06 November 2020
+1897,Kamlesh Nagarkoti,2.0,11,0,7,5.5,0.0,DC,Zayed Cricket Stadium,24 October 2020
+1898,Sheldon Cottrell,3.0,17,2,12,5.66,9.0,RCB,Dubai International Stadium,24 September 2020
+1899,Navdeep Saini,3.0,17,1,8,5.66,18.0,KKR,Sharjah Cricket Stadium,12 October 2020
+1900,Ravindra Jadeja,3.0,17,1,5,5.66,18.0,PBKS,Zayed Cricket Stadium,01 November 2020
+1901,Deepak Chahar,3.0,17,0,9,5.66,0.0,PBKS,Dubai International Stadium,04 October 2020
+1902,Murugan Ashwin,4.0,23,2,7,5.75,12.0,RCB,Sharjah Cricket Stadium,15 October 2020
+1903,Mitchell Santner,4.0,23,1,7,5.75,24.0,RCB,Dubai International Stadium,25 October 2020
+1904,Varun Chakaravarthy,4.0,23,1,10,5.75,24.0,MI,Zayed Cricket Stadium,16 October 2020
+1905,Amit Mishra,4.0,23,0,6,5.75,0.0,CSK,Dubai International Stadium,25 September 2020
+1906,Mohammad Nabi,4.0,23,0,5,5.75,0.0,KKR,Zayed Cricket Stadium,26 September 2020
+1907,Sunil Narine,4.0,23,0,5,5.75,0.0,CSK,Dubai International Stadium,29 October 2020
+1908,Axar Patel,4.0,23,0,5,5.75,0.0,CSK,Sharjah Cricket Stadium,17 October 2020
+1909,Krunal Pandya,4.0,23,0,11,5.75,0.0,KKR,Zayed Cricket Stadium,16 October 2020
+1910,T Natarajan,4.0,23,0,10,5.75,0.0,PBKS,Dubai International Stadium,24 October 2020
+1911,Kagiso Rabada,4.0,24,4,9,6.0,6.0,RCB,Dubai International Stadium,05 October 2020
+1912,Arshdeep Singh,3.5,23,3,9,6.0,7.66,SRH,Dubai International Stadium,24 October 2020
+1913,Yuzvendra Chahal,4.0,24,3,10,6.0,8.0,RR,Zayed Cricket Stadium,03 October 2020
+1914,Jofra Archer,4.0,24,3,11,6.0,8.0,DC,Sharjah Cricket Stadium,09 October 2020
+1915,Jasprit Bumrah,4.0,24,3,12,6.0,8.0,PBKS,Dubai International Stadium,18 October 2020
+1916,Yuzvendra Chahal,3.1,19,2,8,6.0,9.5,SRH,Sharjah Cricket Stadium,31 October 2020
+1917,Sheldon Cottrell,4.0,24,2,13,6.0,12.0,DC,Dubai International Stadium,20 September 2020
+1918,James Pattinson,3.1,19,2,9,6.0,9.5,RR,Zayed Cricket Stadium,06 October 2020
+1919,Rashid Khan,4.0,24,1,13,6.0,24.0,RCB,Sharjah Cricket Stadium,31 October 2020
+1920,Ravi Bishnoi,2.0,12,1,5,6.0,12.0,MI,Dubai International Stadium,18 October 2020
+1921,Rahul Chahar,4.0,24,1,10,6.0,24.0,DC,Dubai International Stadium,31 October 2020
+1922,Washington Sundar,4.0,24,1,7,6.0,24.0,DC,Zayed Cricket Stadium,02 November 2020
+1923,Imran Tahir,4.0,24,1,6,6.0,24.0,PBKS,Zayed Cricket Stadium,01 November 2020
+1924,Sam Curran,3.0,18,1,11,6.0,18.0,SRH,Dubai International Stadium,13 October 2020
+1925,Yuzvendra Chahal,4.0,24,1,7,6.0,24.0,SRH,Zayed Cricket Stadium,06 November 2020
+1926,Kamlesh Nagarkoti,4.0,24,1,12,6.0,24.0,RR,Dubai International Stadium,01 November 2020
+1927,Pat Cummins,3.0,18,0,9,6.0,0.0,RCB,Zayed Cricket Stadium,21 October 2020
+1928,Kuldeep Yadav,3.0,18,0,5,6.0,0.0,SRH,Zayed Cricket Stadium,18 October 2020
+1929,Krunal Pandya,2.0,12,0,5,6.0,0.0,PBKS,Dubai International Stadium,18 October 2020
+1930,Jayant Yadav,3.0,18,0,6,6.0,0.0,DC,Dubai International Stadium,31 October 2020
+1931,Glenn Maxwell,4.0,24,0,9,6.0,0.0,MI,Dubai International Stadium,18 October 2020
+1932,Rahul Tewatia,4.0,25,3,11,6.25,8.0,KKR,Dubai International Stadium,01 November 2020
+1933,Jason Holder,4.0,25,3,10,6.25,8.0,RCB,Zayed Cricket Stadium,06 November 2020
+1934,James Pattinson,4.0,25,2,13,6.25,12.0,KKR,Zayed Cricket Stadium,23 September 2020
+1935,Jason Holder,4.0,25,2,10,6.25,12.0,MI,Sharjah Cricket Stadium,03 November 2020
+1936,Karn Sharma,4.0,25,2,5,6.25,12.0,KKR,Zayed Cricket Stadium,07 October 2020
+1937,Chris Jordan,4.0,25,2,11,6.25,12.0,KKR,Sharjah Cricket Stadium,26 October 2020
+1938,Navdeep Saini,4.0,25,2,9,6.25,12.0,SRH,Dubai International Stadium,21 September 2020
+1939,Bhuvneshwar Kumar,4.0,25,2,13,6.25,12.0,DC,Zayed Cricket Stadium,29 September 2020
+1940,Varun Chakaravarthy,4.0,25,2,7,6.25,12.0,RR,Dubai International Stadium,30 September 2020
+1941,Jasprit Bumrah,4.0,25,2,13,6.25,12.0,CSK,Sharjah Cricket Stadium,23 October 2020
+1942,Rashid Khan,4.0,25,2,10,6.25,12.0,RR,Dubai International Stadium,11 October 2020
+1943,Yuzvendra Chahal,4.0,25,1,8,6.25,24.0,PBKS,Dubai International Stadium,24 September 2020
+1944,Ravi Bishnoi,4.0,25,1,7,6.25,24.0,KKR,Zayed Cricket Stadium,10 October 2020
+1945,Nathan Coulter-Nile,4.0,25,1,14,6.25,24.0,CSK,Sharjah Cricket Stadium,23 October 2020
+1946,Anrich Nortje,4.0,25,1,13,6.25,24.0,RR,Sharjah Cricket Stadium,09 October 2020
+1947,Rashid Khan,4.0,25,1,8,6.25,24.0,KKR,Zayed Cricket Stadium,26 September 2020
+1948,Jofra Archer,4.0,25,1,14,6.25,24.0,SRH,Dubai International Stadium,11 October 2020
+1949,Arshdeep Singh,4.0,25,1,15,6.25,24.0,KKR,Zayed Cricket Stadium,10 October 2020
+1950,Moeen Ali,3.0,7,3,11,2.33,6.0,RR,Wankhede Stadium,19 April 2021
+1951,Yuzvendra Chahal,4.0,11,3,16,2.75,8.0,MI,Dubai International Stadium,26 September 2021
+1952,Shardul Thakur,4.0,11,1,17,2.75,24.0,RCB,Wankhede Stadium,25 April 2021
+1953,Andre Russell,3.0,9,3,10,3.0,6.0,RCB,Zayed Cricket Stadium,20 September 2021
+1954,Moises Henriques,4.0,12,3,13,3.0,8.0,RCB,Sharjah Cricket Stadium,03 October 2021
+1955,Jimmy Neesham,4.0,12,3,13,3.0,8.0,RR,Sharjah Cricket Stadium,05 October 2021
+1956,Anrich Nortje,4.0,12,2,14,3.0,12.0,SRH,Dubai International Stadium,22 September 2021
+1957,Sunil Narine,4.0,12,0,12,3.0,0.0,SRH,Dubai International Stadium,03 October 2021
+1958,Deepak Chahar,4.0,13,4,18,3.25,6.0,PBKS,Wankhede Stadium,16 April 2021
+1959,Varun Chakaravarthy,4.0,13,3,15,3.25,8.0,RCB,Zayed Cricket Stadium,20 September 2021
+1960,Ravindra Jadeja,4.0,13,3,15,3.25,8.0,RCB,Wankhede Stadium,25 April 2021
+1961,Shardul Thakur,4.0,13,2,12,3.25,12.0,DC,Dubai International Stadium,04 October 2021
+1962,Krunal Pandya,4.0,13,1,13,3.25,24.0,KKR,Chidambaram,13 April 2021
+1963,Shivam Mavi,4.0,13,1,15,3.25,24.0,PBKS,Narendra Modi Stadium,26 April 2021
+1964,Nathan Coulter-Nile,4.0,14,4,16,3.5,6.0,RR,Sharjah Cricket Stadium,05 October 2021
+1965,Shahbaz Ahmed,2.0,7,3,6,3.5,4.0,SRH,Chidambaram,14 April 2021
+1966,Jasprit Bumrah,4.0,14,2,18,3.5,12.0,RR,Sharjah Cricket Stadium,05 October 2021
+1967,Mohammad Shami,4.0,14,2,17,3.5,12.0,SRH,Sharjah Cricket Stadium,25 September 2021
+1968,Jasprit Bumrah,4.0,14,1,12,3.5,24.0,SRH,Chidambaram,17 April 2021
+1969,Varun Chakaravarthy,4.0,14,1,16,3.5,24.0,RR,Sharjah Cricket Stadium,07 October 2021
+1970,Arshdeep Singh,2.0,7,1,8,3.5,12.0,CSK,Wankhede Stadium,16 April 2021
+1971,Avesh Khan,4.0,15,3,16,3.75,8.0,MI,Sharjah Cricket Stadium,02 October 2021
+1972,Jaydev Unadkat,4.0,15,3,15,3.75,8.0,DC,Wankhede Stadium,15 April 2021
+1973,Jasprit Bumrah,4.0,15,1,12,3.75,24.0,RR,Arun Jaitley Stadium,29 April 2021
+1974,Imran Tahir,4.0,16,2,14,4.0,12.0,RCB,Wankhede Stadium,25 April 2021
+1975,Yuzvendra Chahal,4.0,16,2,8,4.0,12.0,KKR,Sharjah Cricket Stadium,11 October 2021
+1976,Sam Curran,3.0,12,1,12,4.0,18.0,PBKS,Wankhede Stadium,16 April 2021
+1977,Moises Henriques,3.0,12,0,9,4.0,0.0,MI,Chidambaram,23 April 2021
+1978,Harshal Patel,4.0,17,2,7,4.25,12.0,KKR,Chidambaram,18 April 2021
+1979,Ravi Bishnoi,4.0,17,2,10,4.25,12.0,RCB,Narendra Modi Stadium,30 April 2021
+1980,Dwayne Bravo,4.0,17,2,10,4.25,12.0,SRH,Sharjah Cricket Stadium,30 September 2021
+1981,Trent Boult,4.0,17,1,16,4.25,24.0,RCB,Dubai International Stadium,26 September 2021
+1982,Rashid Khan,4.0,17,1,11,4.25,24.0,PBKS,Chidambaram,21 April 2021
+1983,Rashid Khan,4.0,17,1,11,4.25,24.0,PBKS,Sharjah Cricket Stadium,25 September 2021
+1984,Lalit Yadav,4.0,17,1,7,4.25,24.0,MI,Chidambaram,20 April 2021
+1985,Avesh Khan,3.0,13,3,9,4.33,6.0,KKR,Sharjah Cricket Stadium,28 September 2021
+1986,Lalit Yadav,3.0,13,2,6,4.33,9.0,KKR,Narendra Modi Stadium,29 April 2021
+1987,Axar Patel,3.0,13,0,10,4.33,0.0,KKR,Sharjah Cricket Stadium,28 September 2021
+1988,Lockie Ferguson,4.0,18,3,17,4.5,8.0,RR,Sharjah Cricket Stadium,07 October 2021
+1989,Sunil Narine,4.0,18,2,10,4.5,12.0,DC,Sharjah Cricket Stadium,28 September 2021
+1990,Rashid Khan,4.0,18,2,10,4.5,12.0,RCB,Chidambaram,14 April 2021
+1991,Axar Patel,4.0,18,2,6,4.5,12.0,CSK,Dubai International Stadium,04 October 2021
+1992,Anrich Nortje,4.0,18,2,12,4.5,12.0,RR,Zayed Cricket Stadium,25 September 2021
+1993,Yuzvendra Chahal,4.0,18,2,11,4.5,12.0,RR,Dubai International Stadium,29 September 2021
+1994,Kieron Pollard,2.0,9,0,3,4.5,0.0,RR,Sharjah Cricket Stadium,05 October 2021
+1995,Abhishek Sharma,2.0,9,0,6,4.5,0.0,CSK,Sharjah Cricket Stadium,30 September 2021
+1996,Siddarth Kaul,3.4,17,1,11,4.63,22.0,KKR,Dubai International Stadium,03 October 2021
+1997,Dan Christian,3.0,14,2,8,4.66,9.0,SRH,Zayed Cricket Stadium,06 October 2021
+1998,Ravindra Jadeja,3.0,14,1,5,4.66,18.0,SRH,Sharjah Cricket Stadium,30 September 2021
+1999,Ravichandran Ashwin,3.0,14,0,5,4.66,0.0,RR,Wankhede Stadium,15 April 2021
+2000,Jason Holder,4.0,19,3,9,4.75,8.0,PBKS,Sharjah Cricket Stadium,25 September 2021
+2001,Harpreet Brar,4.0,19,3,15,4.75,8.0,RCB,Narendra Modi Stadium,30 April 2021
+2002,Rahul Chahar,4.0,19,3,13,4.75,8.0,SRH,Chidambaram,17 April 2021
+2003,Deepak Chahar,4.0,19,2,13,4.75,12.0,MI,Dubai International Stadium,19 September 2021
+2004,Mohammed Siraj,4.0,19,2,10,4.75,12.0,KKR,Sharjah Cricket Stadium,11 October 2021
+2005,Harshal Patel,4.0,19,2,10,4.75,12.0,KKR,Sharjah Cricket Stadium,11 October 2021
+2006,Nathan Coulter-Nile,4.0,19,1,12,4.75,24.0,DC,Sharjah Cricket Stadium,02 October 2021
+2007,Shivam Mavi,4.0,19,1,17,4.75,24.0,RR,Wankhede Stadium,24 April 2021
+2008,Rahul Chahar,4.0,19,1,8,4.75,24.0,PBKS,Chidambaram,23 April 2021
+2009,Anrich Nortje,4.0,19,1,15,4.75,24.0,MI,Sharjah Cricket Stadium,02 October 2021
+2010,Ravi Bishnoi,4.0,19,0,9,4.75,0.0,KKR,Narendra Modi Stadium,26 April 2021
+2011,Ravindra Jadeja,4.0,19,0,14,4.75,0.0,PBKS,Wankhede Stadium,16 April 2021
+2012,Nathan Coulter-Nile,4.0,19,0,10,4.75,0.0,PBKS,Zayed Cricket Stadium,28 September 2021
+2013,Mustafizur Rahman,4.0,20,3,12,5.0,8.0,SRH,Arun Jaitley Stadium,02 May 2021
+2014,Shahbaz Ahmed,2.0,10,2,2,5.0,6.0,RR,Dubai International Stadium,29 September 2021
+2015,Shardul Thakur,4.0,20,2,10,5.0,12.0,KKR,Zayed Cricket Stadium,26 September 2021
+2016,Lockie Ferguson,2.0,10,2,6,5.0,6.0,DC,Sharjah Cricket Stadium,28 September 2021
+2017,Shakib Al Hasan,4.0,20,1,10,5.0,24.0,SRH,Dubai International Stadium,03 October 2021
+2018,Dwayne Bravo,2.0,10,1,6,5.0,12.0,PBKS,Wankhede Stadium,16 April 2021
+2019,Mohammed Siraj,3.0,15,1,12,5.0,18.0,MI,Dubai International Stadium,26 September 2021
+2020,Deepak Hooda,3.0,15,1,9,5.0,18.0,MI,Chidambaram,23 April 2021
+2021,Sunil Narine,4.0,20,1,10,5.0,24.0,MI,Zayed Cricket Stadium,23 September 2021
+2022,Sandeep Sharma,4.0,20,1,12,5.0,24.0,PBKS,Sharjah Cricket Stadium,25 September 2021
+2023,Ravichandran Ashwin,4.0,20,1,14,5.0,24.0,RR,Zayed Cricket Stadium,25 September 2021
+2024,Nathan Ellis,4.0,20,1,13,5.0,24.0,MI,Zayed Cricket Stadium,28 September 2021
+2025,Ravichandran Ashwin,4.0,20,1,8,5.0,24.0,CSK,Dubai International Stadium,04 October 2021
+2026,Sunil Narine,4.0,20,0,12,5.0,0.0,RCB,Zayed Cricket Stadium,20 September 2021
+2027,Kieron Pollard,2.0,10,0,5,5.0,0.0,SRH,Chidambaram,17 April 2021
+2028,Jayant Yadav,4.0,20,0,16,5.0,0.0,PBKS,Chidambaram,23 April 2021
+2029,Yuzvendra Chahal,2.0,10,0,5,5.0,0.0,DC,Narendra Modi Stadium,27 April 2021
+2030,Sunil Narine,4.0,20,0,11,5.0,0.0,RR,Wankhede Stadium,24 April 2021
+2031,Varun Chakaravarthy,4.0,20,0,7,5.0,0.0,RCB,Sharjah Cricket Stadium,11 October 2021
+2032,Bhuvneshwar Kumar,4.0,20,0,14,5.0,0.0,KKR,Dubai International Stadium,03 October 2021
+2033,Sunil Narine,4.0,21,4,11,5.25,6.0,RCB,Sharjah Cricket Stadium,11 October 2021
+2034,Mohammad Shami,4.0,21,3,13,5.25,8.0,RR,Dubai International Stadium,21 September 2021
+2035,Axar Patel,4.0,21,3,8,5.25,8.0,MI,Sharjah Cricket Stadium,02 October 2021
+2036,Khaleel Ahmed,4.0,21,3,9,5.25,8.0,PBKS,Chidambaram,21 April 2021
+2037,Mohammad Shami,4.0,21,2,7,5.25,12.0,MI,Chidambaram,23 April 2021
+2038,Mohammad Shami,4.0,21,2,11,5.25,12.0,CSK,Wankhede Stadium,16 April 2021
+2039,Ravi Bishnoi,4.0,21,2,10,5.25,12.0,MI,Chidambaram,23 April 2021
+2040,Adam Milne,4.0,21,2,14,5.25,12.0,CSK,Dubai International Stadium,19 September 2021
+2041,Axar Patel,4.0,21,2,9,5.25,12.0,SRH,Dubai International Stadium,22 September 2021
+2042,Ravindra Jadeja,4.0,21,1,5,5.25,24.0,KKR,Zayed Cricket Stadium,26 September 2021
+2043,Axar Patel,4.0,21,1,11,5.25,24.0,PBKS,Narendra Modi Stadium,02 May 2021
+2044,Umran Malik,4.0,21,1,11,5.25,24.0,RCB,Zayed Cricket Stadium,06 October 2021
+2045,Jagadeesha Suchith,4.0,21,0,9,5.25,0.0,DC,Chidambaram,25 April 2021
+2046,Kagiso Rabada,4.0,21,0,12,5.25,0.0,CSK,Dubai International Stadium,04 October 2021
+2047,Shahbaz Ahmed,4.0,21,0,7,5.25,0.0,SRH,Zayed Cricket Stadium,06 October 2021
+2048,Bhuvneshwar Kumar,3.0,16,1,7,5.33,18.0,PBKS,Chidambaram,21 April 2021
+2049,Moeen Ali,3.0,16,0,8,5.33,0.0,DC,Dubai International Stadium,04 October 2021
+2050,Moeen Ali,3.0,16,0,4,5.33,0.0,MI,Dubai International Stadium,19 September 2021
+2051,Harshal Patel,3.1,17,4,10,5.36,4.75,MI,Dubai International Stadium,26 September 2021
+2052,Sunil Narine,4.0,22,2,10,5.5,12.0,PBKS,Narendra Modi Stadium,26 April 2021
+2053,Ravi Bishnoi,4.0,22,2,9,5.5,12.0,KKR,Dubai International Stadium,01 October 2021
+2054,Mustafizur Rahman,4.0,22,2,6,5.5,12.0,DC,Zayed Cricket Stadium,25 September 2021
+2055,Chris Woakes,4.0,22,2,13,5.5,12.0,RR,Wankhede Stadium,15 April 2021
+2056,Mohammad Shami,4.0,22,1,14,5.5,24.0,CSK,Dubai International Stadium,07 October 2021
+2057,Mustafizur Rahman,4.0,22,1,13,5.5,24.0,KKR,Wankhede Stadium,24 April 2021
+2058,Shahbaz Ahmed,2.0,11,1,2,5.5,12.0,PBKS,Narendra Modi Stadium,30 April 2021
+2059,Arshdeep Singh,4.0,22,1,9,5.5,24.0,SRH,Sharjah Cricket Stadium,25 September 2021
+2060,Fabian Allen,4.0,22,1,13,5.5,24.0,SRH,Chidambaram,21 April 2021
+2061,Varun Chakaravarthy,4.0,22,1,9,5.5,24.0,CSK,Zayed Cricket Stadium,26 September 2021
+2062,Avesh Khan,4.0,22,1,9,5.5,24.0,KKR,Sharjah Cricket Stadium,13 October 2021
+2063,Rashid Khan,4.0,22,0,11,5.5,0.0,MI,Chidambaram,17 April 2021
+2064,Deepak Hooda,4.0,22,0,12,5.5,0.0,SRH,Chidambaram,21 April 2021
+2065,Harpreet Brar,4.0,22,0,12,5.5,0.0,CSK,Dubai International Stadium,07 October 2021
+2066,Varun Chakaravarthy,4.0,22,0,9,5.5,0.0,MI,Zayed Cricket Stadium,23 September 2021
+2067,Rahul Chahar,4.0,22,0,10,5.5,0.0,CSK,Dubai International Stadium,19 September 2021
+2068,Murugan Ashwin,4.0,22,0,7,5.5,0.0,SRH,Chidambaram,21 April 2021
+2069,Mohammed Siraj,4.0,22,0,12,5.5,0.0,MI,Chidambaram,09 April 2021
+2070,Deepak Hooda,2.0,11,0,3,5.5,0.0,DC,Narendra Modi Stadium,02 May 2021
+2071,Ravi Bishnoi,3.0,17,2,8,5.66,9.0,MI,Zayed Cricket Stadium,28 September 2021
+2072,Moeen Ali,3.0,17,1,6,5.66,18.0,PBKS,Wankhede Stadium,16 April 2021
+2073,Harpreet Brar,3.0,17,1,4,5.66,18.0,RR,Dubai International Stadium,21 September 2021
+2074,Rahul Tewatia,3.0,17,1,6,5.66,18.0,DC,Zayed Cricket Stadium,25 September 2021
+2075,Mohammed Siraj,3.0,17,0,11,5.66,0.0,KKR,Chidambaram,18 April 2021
+2076,Mohammed Siraj,3.0,17,0,11,5.66,0.0,SRH,Zayed Cricket Stadium,06 October 2021
+2077,Riley Meredith,3.4,21,0,14,5.72,0.0,CSK,Wankhede Stadium,16 April 2021
+2078,Chris Morris,4.0,23,4,18,5.75,6.0,KKR,Wankhede Stadium,24 April 2021
+2079,Avesh Khan,4.0,23,2,11,5.75,12.0,CSK,Wankhede Stadium,10 April 2021
+2080,Glenn Maxwell,4.0,23,2,8,5.75,12.0,MI,Dubai International Stadium,26 September 2021
+2081,Kagiso Rabada,4.0,23,2,13,5.75,12.0,KKR,Sharjah Cricket Stadium,13 October 2021
+2082,Rashid Khan,4.0,23,1,13,5.75,24.0,KKR,Dubai International Stadium,03 October 2021
+2083,Shakib Al Hasan,4.0,23,1,4,5.75,24.0,MI,Chidambaram,13 April 2021
+2084,Chetan Sakariya,4.0,23,1,12,5.75,24.0,KKR,Sharjah Cricket Stadium,07 October 2021
+2085,Mohammad Shami,4.0,23,1,10,5.75,24.0,KKR,Dubai International Stadium,01 October 2021
+2086,Trent Boult,4.0,23,0,13,5.75,0.0,DC,Chidambaram,20 April 2021
+2087,Amit Mishra,4.0,24,4,11,6.0,6.0,MI,Chidambaram,20 April 2021
+2088,Pat Cummins,4.0,24,3,15,6.0,8.0,DC,Narendra Modi Stadium,29 April 2021
+2089,Josh Hazlewood,4.0,24,3,13,6.0,8.0,SRH,Sharjah Cricket Stadium,30 September 2021
+2090,Ravi Bishnoi,4.0,24,3,10,6.0,8.0,SRH,Sharjah Cricket Stadium,25 September 2021
+2091,Dwayne Bravo,4.0,24,3,10,6.0,8.0,RCB,Sharjah Cricket Stadium,24 September 2021
+2092,Jasprit Bumrah,4.0,24,2,11,6.0,12.0,PBKS,Zayed Cricket Stadium,28 September 2021
+2093,Anrich Nortje,4.0,24,2,9,6.0,12.0,RCB,Dubai International Stadium,08 October 2021
+2094,Sam Curran,4.0,24,2,14,6.0,12.0,RR,Wankhede Stadium,19 April 2021
+2095,Chris Woakes,3.0,18,2,11,6.0,9.0,CSK,Wankhede Stadium,10 April 2021
+2096,Kieron Pollard,2.0,12,2,4,6.0,6.0,CSK,Arun Jaitley Stadium,01 May 2021
+2097,Lockie Ferguson,4.0,24,2,11,6.0,12.0,RCB,Zayed Cricket Stadium,20 September 2021
+2098,Abhishek Sharma,4.0,24,2,10,6.0,12.0,PBKS,Chidambaram,21 April 2021
+2099,Rashid Khan,4.0,24,2,10,6.0,12.0,KKR,Chidambaram,11 April 2021
