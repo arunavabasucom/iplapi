@@ -18,6 +18,9 @@ jobs:
         run: |
           pytest
           coverage run --source=src -m pytest -v __tests__/ && coverage report -m
+        env:
+          SENTRY_DSN: ${{ secrets.SENTRY_DSN }}
+          SENTRY_ENVIRONMENT: ${{ secrets.SENTRY_ENVIRONMENT }}
       - name: Upload coverage reports to Codecov
         uses: codecov/codecov-action@v3
         env:
