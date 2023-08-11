@@ -1,6 +1,6 @@
-pandas
-fastapi
-uvicorn
+pandas==1.5.3
+fastapi==0.100.0
+uvicorn==0.22.0
 python-dotenv
 sentry-sdk[fastapi]
 coverage
