@@ -4,3 +4,4 @@ uvicorn
 python-dotenv
 sentry-sdk[fastapi]
 coverage
+httpx
