@@ -86,6 +86,9 @@ Example Response
     ...
 ]
 ```
+## Setup 
+To setup project locally first clone the repo and run `bash setup.sh`
+
 ## How to Use
 
 To access the IPLAPI and retrieve match and player statistics, you can make GET requests to the respective endpoints mentioned above. The responses will be in JSON format, containing the relevant data fields.
