@@ -20,7 +20,7 @@ GET /matches
 ```
 Example Response
 
-```
+```json
 [
     {
         "id": 335982,
@@ -62,7 +62,7 @@ GET /players
 
 Example Response
 
-```
+```json
 [
     {
         "Unnamed: 0": 0,
