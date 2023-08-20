@@ -87,7 +87,13 @@ Example Response
 ]
 ```
 ## Setup 
+### Script
 To setup project locally first clone the repo and run `bash setup.sh`
+### Manualy
+
+- Run `git clone https://github.com/arunavabasu-03/iplApi.git`
+- Install dependencies `pip install -r requirements.txt`
+- Start the app `uvicorn src.main:app --reload`
 
 ## How to Use
 
