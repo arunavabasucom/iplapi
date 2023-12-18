@@ -41,7 +41,7 @@ Example Response
         "umpire1": "Asad Rauf",
         "umpire2": "RE Koertzen"
     },
-    ...
+    
 ]
 ```
 
@@ -83,7 +83,7 @@ Example Response
         "catches": 8.0,
         "stumpings": 0.0
     },
-    ...
+    
 ]
 ```
 ## Setup 
