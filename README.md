@@ -11,6 +11,13 @@ v0.1(https://ipl-api1.p.rapidapi.com/)
 /match?winner=Kolkata Knight Riders->to get by winner
 ```
 
+```bash
+curl --request GET \
+	--url https://ipl-api1.p.rapidapi.com/match \
+	--header 'x-rapidapi-host: ipl-api1.p.rapidapi.com' \
+	--header 'x-rapidapi-key: API_KEY'
+```
+
 
 - setup
 
@@ -22,3 +29,5 @@ pip install -r requirements.txt
 # start the server
 uvicorn src.main:app --reload
 ```
+
+
