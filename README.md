@@ -1,8 +1,8 @@
 # iplapi
 
-endpoints
+- endpoints
 ```
-v0.1
+v0.1(https://ipl-api1.p.rapidapi.com/)
 
 /playes-> to list all of the players
 /match-> to list all of the matches
@@ -12,15 +12,13 @@ v0.1
 ```
 
 
-setup
+- setup
 
 ```bash
 # clone repo
 git clone git@github.com:arunavabasucom/iplapi.git
-
 # install python packages
 pip install -r requirements.txt
-
 # start the server
 uvicorn src.main:app --reload
 ```
